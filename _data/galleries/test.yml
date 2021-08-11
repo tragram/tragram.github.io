@@ -1,0 +1,60 @@
+picture_folder: test
+pictures:
+- filename: domcik_a_spot
+  original: domcik_a_spot.png
+  sizes: []
+  thumbnail: domcik_a_spot--thumbnail.png
+- filename: home-page
+  original: home-page.jpg
+  sizes: []
+  thumbnail: home-page--thumbnail.jpg
+- filename: how-to-start
+  original: how-to-start.jpg
+  sizes:
+  - how-to-start--512x512.jpg
+  thumbnail: how-to-start--thumbnail.jpg
+- filename: i-rest
+  original: i-rest.jpg
+  sizes:
+  - i-rest--512x512.jpg
+  thumbnail: i-rest--thumbnail.jpg
+- filename: js-1
+  original: js-1.png
+  sizes: []
+  thumbnail: js-1--thumbnail.png
+- filename: mac
+  original: mac.jpg
+  sizes:
+  - mac--512x512.jpg
+  thumbnail: mac--thumbnail.jpg
+- filename: post-example
+  original: post-example.jpg
+  sizes: []
+  thumbnail: post-example--thumbnail.jpg
+- filename: promo-img
+  original: promo-img.jpg
+  sizes:
+  - promo-img--512x512.jpg
+  thumbnail: promo-img--thumbnail.jpg
+- filename: software
+  original: software.jpg
+  sizes:
+  - software--512x512.jpg
+  thumbnail: software--thumbnail.jpg
+- filename: test
+  original: test.jpg
+  sizes:
+  - test--2048x2048.jpg
+  - test--1024x1024.jpg
+  - test--512x512.jpg
+  thumbnail: test--thumbnail.jpg
+- filename: we-in-rest
+  original: we-in-rest.jpg
+  sizes:
+  - we-in-rest--512x512.jpg
+  thumbnail: we-in-rest--thumbnail.jpg
+- filename: workflow
+  original: workflow.jpg
+  sizes:
+  - workflow--512x512.jpg
+  thumbnail: workflow--thumbnail.jpg

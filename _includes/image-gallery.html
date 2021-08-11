@@ -1,0 +1,28 @@
+<!-- https://olivierpieters.be/blog/2016/02/26/creating-a-jekyll-image-gallery -->
+<div id="image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="image-gallery">
+  <div id="gallery-sizer{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="gallery-sizer"></div>
+  {% for picture in include.gallery.pictures %}
+  <div class="grid-item">
+    <a href="/assets/img/{{ include.gallery.picture_folder }}/{{ picture.original }}"
+      data-responsive="{% for size in picture.sizes %} /assets/img/{{ include.gallery.picture_folder }}/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}{% endfor %}"
+      class="image" {% if picture.title %}
+      data-sub-html="<div class='lg-toolbar caption'><h4>{{ picture.title | escape }}</h4>{% if picture.caption %}<p>{{ picture.caption | escape }}</p>{% endif %}</div>"
+      {% endif %}>
+      <img alt="{{ picture.title }}" src="/assets/img/{{ include.gallery.picture_folder }}/{{ picture.thumbnail }}" />
+    </a>
+  </div>
+  {% endfor %}
+</div>
+
+<script>
+  $(document).ready(function () {
+    var $gallery{% if include.id_number %}{{ include.id_number }}{% endif %} = $("#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}").lightGallery({
+      thumbnail: false,
+      selector: '.image'
+    });
+});
+
+  var gallery=document.getElementById('image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}')
+
+
+</script>
