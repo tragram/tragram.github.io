@@ -4,8 +4,8 @@ title: Slovo úvodem
 date: 2020-08-18 10:12:00 +0300
 img_folder: 00-slovo-uvodem
 description: 
-img: aalto_logo.png # Add image post (optional)
-fig-caption: Logo Aaltovy univerzity # Add figcaption (optional)
+img: aalto_cover.jpg # Add image post (optional)
+fig-caption: Kampus Aaltovy univerzity # Add figcaption (optional)
 tags: [Česko, úvod]
 ---
 Zdravíčko! Vítám vás na svém blogu, kde budu psát o svém Erasmu.

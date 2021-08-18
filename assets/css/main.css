@@ -1244,8 +1244,8 @@ footer .copyright {
   background-size: cover;
   background-position: 50% 50%;
   
-  background-size: contain;
-  background-repeat: no-repeat;
+  /* background-size: contain;
+  background-repeat: no-repeat; */
 }
 
 .post .post-content {
