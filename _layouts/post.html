@@ -7,7 +7,9 @@ support: [jquery, gallery]
     {% if page.img %}
     <div class="page-cover-image">
       <figure>
-        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+        <div style="text-align: center;">
+        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img_folder}}{{"/"}}{{page.img}} alt="{{page.title}}">
+      </div>
         {% if page.fig-caption %}
           <figcaption>{{page.fig-caption}}</figcaption>
         {% endif %}
