@@ -1580,6 +1580,18 @@ a.newer-posts:hover {
   .contact-title, .copyright {
     display: none;
   }
+
+  .page-cover-image {
+    margin:-10px;
+    margin-top:-20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 3px;
+  }
+  
+  .click-image{
+    margin-left:-30px;
+    margin-right:-30px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 3px;
+  }
 }
 
 /* Extra Small Devices, Phones */
