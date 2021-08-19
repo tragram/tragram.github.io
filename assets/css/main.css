@@ -1271,25 +1271,8 @@ footer .copyright {
   .post .post-content {
     border-left: none;
   }
-
-  .page-content{
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
-  }
-
-  .sidebar{
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
-  }
-
-  .click-image{
-    margin-left: -20px;
-    margin-right: -20px;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 3px;
-  }
-
-  /* .wrap-content{
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 1) 0px 3px 7px -3px;
-  } */
 }
+
 
 .post .post-content .post-date, .post .post-content .post-words {
   font-size: 12px;
@@ -1511,6 +1494,39 @@ a.newer-posts:hover {
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 
 /* Medium Devices, Desktops */
+@media only screen and (min-width: 1240px){
+  .page-content{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  }
+
+  .sidebar{
+    box-shadow: rgba(50, 50, 93, 1) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    z-index:100;
+  }
+
+  .click-image{
+    margin-left: -20px;
+    margin-right: -20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 3px;
+  }
+
+  /* .wrap-content{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 1) 0px 3px 7px -3px;
+  } */
+}
+@media only screen and (max-width: 1240px) {
+  .page-cover-image {
+    margin:-20px;
+    margin-bottom:0px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 3px;
+  }
+  
+  .click-image{
+    margin-left:-40px;
+    margin-right:-40px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 3px;
+  }
+}
 
 @media only screen and (max-width: 992px) {
   .post {
@@ -1535,20 +1551,8 @@ a.newer-posts:hover {
   .post .post-content .post-title a {
     font-size: 21px;
   }
-
-  .page-cover-image {
-    margin:-20px;
-    margin-bottom:0px;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 3px;
-  }
-  
-  .click-image{
-    margin-left:-40px;
-    margin-right:-40px;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 3px;
-  }
 }
-
+  
 /* Small Devices, Tablets */
 
 @media only screen and (max-width: 768px) {
