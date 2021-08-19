@@ -22,6 +22,7 @@ except:
     print("You need to provide folder as an argument!")
     quit()
 
+# assume that folders that have "gallery" in their name are inside post img folder
 if 'gallery' in pathlib.PurePath(path).name:
     folder_names=pathlib.PurePath(path).parts[-2:]
 else:
