@@ -1517,6 +1517,18 @@ a.newer-posts:hover {
   .post .post-content .post-title a {
     font-size: 21px;
   }
+
+  .page-cover-image {
+    margin:-20px;
+    margin-bottom:0px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 3px;
+  }
+  
+  .click-image{
+    margin-left:-40px;
+    margin-right:-40px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 3px;
+  }
 }
 
 /* Small Devices, Tablets */
