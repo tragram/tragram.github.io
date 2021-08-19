@@ -22,8 +22,12 @@ except:
     print("You need to provide folder as an argument!")
     quit()
 
-folder_name = pathlib.PurePath(path).name
-output_file = f"./_data/galleries/{folder_name}.yml"
+if 'gallery' in pathlib.PurePath(path).name:
+    folder_names=pathlib.PurePath(path).parts[-2:]
+else:
+    folder_names = [pathlib.PurePath(path).name]
+
+output_file = f"./_data/galleries/{'-'.join(folder_names)}.yml"
 input_file = output_file
 extensions = ['jpg', 'png']
 
@@ -44,7 +48,7 @@ originals = {}
 print('Renaming files...')
 for f in files:
     image_name = f[:f.rfind('.')]
-    img = Image.open("./assets/img/"+folder_name+"/"+f)
+    img = Image.open("./assets/img/"+'/'.join(folder_names)+"/"+f)
     image_sizes = [
         2**i for i in range(13, 7, -1) if 2**i < img.width and 2**i < img.height]
     originals[image_name] = f
@@ -57,7 +61,7 @@ for f in files:
         else:
             filename = image_name + "--thumbnail" + f[f.rfind('.'):]
             thumbs[image_name] = filename
-        img.save("./assets/img/"+folder_name+"/"+filename)
+        img.save("./assets/img/"+'/'.join(folder_names)+"/"+filename)
 
 # try to load YAML data
 print('Checking existing YAML data...')
@@ -88,7 +92,7 @@ for pic in gallery:
 
 # check if path existing
 if "picture_folder" not in input_gallery:
-    input_gallery["picture_folder"] = folder_name
+    input_gallery["picture_folder"] = '/'.join(folder_names)
 
 # write to output file
 print('Writing YAML data to file...')

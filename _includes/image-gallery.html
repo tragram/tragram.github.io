@@ -1,8 +1,7 @@
 <!-- https://olivierpieters.be/blog/2016/02/26/creating-a-jekyll-image-gallery -->
 <div id="image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="image-gallery">
   <div id="gallery-sizer{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="gallery-sizer"></div>
-  <!-- {{include.gallery}}
-  {{site.data.galleries[include.gallery]}} -->
+  {{site.data.galleries}}
   <!-- {{site.data.galleries[include.gallery].pictures }} -->
   {% for picture in site.data.galleries[include.gallery].pictures  %}
   <!-- {{picture}} -->
