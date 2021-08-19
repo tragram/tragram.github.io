@@ -1,6 +1,6 @@
 title: Domčík ve Finsku
 description: > # this means to ignore newlines until "baseurl:"
-  Web o mém pobytu ve Finsku na Aaltově univerzitě, 2021/2022.
+  Blog o mém Erasmu na Aaltově univerzitě, 2021/2022.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
