@@ -37,4 +37,4 @@ Po příjezdu 1.9. večer vlastně zatím nemám nic naplánovaného. Jen se tak
 
 Na závěr přikládám ilustrační foto Aalto, školy vzniknuvši v roce 2010 spojením tří velkých univerzit zaměřených na technologii, ekonomiku a umění a design. Cílem prý bylo multidisciplinární vzdělávání, tak jsem na to zvědav -- dva takové předměty mám zapsané!
 
-{% include click_image.html filename="aalto.jpg" caption="Ilustrační foto Aalto" caption_style="left:10px;right:auto;"%}
+{% include click_image.html filename="aalto.jpg" caption="Ilustrační foto Aalto" caption_style="left:5px;right:auto;"%}
