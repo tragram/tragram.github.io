@@ -29,7 +29,7 @@ Hostel je tedy sice dražší, ale o to menší a vzdálenější, takže se to 
 Ale abych hostelu nekřivdil: jsem rád, že mě po týdnu cestování čeká postel a ne holobyt -- studentské byty si člověk musí vybavit od píky. Navíc je to stále v docházkové vzdálenosti (podle Google 10-15 min pěšky) -- nic bližšího jsem nikde na volném trhu k pronájmu nenašel. V blízkosti školy jsou totiž hlavně ty byty, které spadají pod studentskou unii Aalto, AYY, kde jsme stále na pořadníku.
 Ke dnešnímu dni jsme 20. v pořadí na byt pro dva a já sám jsem ve vedlejší přihlášce 102. na byt pro jednoho. Přikládám screenshot webové stránky, kterou jsem poslední týdny neúspěšně hypnotizoval:
 
-{% include click_image.html filename="domo.png" caption="Čekání na Godota" %}
+{% include click_image.html filename="domo.png" caption="Čekání na Godota" caption_style="display:none"%}
 
 ## Po příjezdu
 
@@ -37,4 +37,4 @@ Po příjezdu 1.9. večer vlastně zatím nemám nic naplánovaného. Jen se tak
 
 Na závěr přikládám ilustrační foto Aalto, školy vzniknuvši v roce 2010 spojením tří velkých univerzit zaměřených na technologii, ekonomiku a umění a design. Cílem prý bylo multidisciplinární vzdělávání, tak jsem na to zvědav -- dva takové předměty mám zapsané!
 
-{% include click_image.html filename="aalto.jpg" caption="Ilustrační foto Aalto" %}
+{% include click_image.html filename="aalto.jpg" caption="Ilustrační foto Aalto" caption_style="left:10px;right:auto;"%}
