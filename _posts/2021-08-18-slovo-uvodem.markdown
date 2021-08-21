@@ -13,7 +13,7 @@ V tomto příspěvku se podělím o to, kam a jak to vlastně jedu a co tam budu
 
 ## Cesta
 
-V plánu je 25.8.2021 (tj. přesně za týden) večer vyrazit nočním autobusem z Florence do Varšavy. 
+V plánu je 25. 8. 2021 (tj. přesně za týden) večer vyrazit nočním autobusem z Florence do Varšavy. 
 Dále bude cesta pokračovat přes Vilnius (1 noc), Rigu (2 noci) a Tallinn (2 noci), odkud pojedu trajektem do Helsinek. Cestu se mnou bude absolvovat Marky ([@endlessbibliophile](https://www.instagram.com/endlessbibliophile)), která z Tallinnu poletí zpět do Prahy, aby stihla svůj vlastní Erasmus ve Vídni. Navíc v Rize a Tallinnu budeme mít místní průvodce -- Ļenu v Rize a naši společnou kamarádku Matilde v Tallinnu. Z této cesty zde předpokládám bude nejedna fotka! :-)
 
 Jakmile dorazím do Helsinek, čeká mě ještě cesta metrem do "sousedního města", do Espoo. Škola totiž není přímo v Helsinkách, ačkoliv pro všechny praktické záležitosti by klidně být mohla. Tato města (společně s Vantaa a Kauniainen) se totiž už propojila a dokonce do Espoo vede metro, přímo k Aalto. Původně ale předpokládám byly oddělené kvůli zálivu, viz přiložená mapa:
@@ -35,6 +35,6 @@ Ke dnešnímu dni jsme 20. v pořadí na byt pro dva a já sám jsem ve vedlejš
 
 Po příjezdu 1.9. večer vlastně zatím nemám nic naplánovaného. Jen se tak procházet po městě, možná si zkusit sehnat kolo z druhé ruky a projet se. Až 4.9. mám grilovačku se svou fyzikální gildou -- matematiků je asi málo, tak spadají pod fyziky. Ano, nejedu tam studovat robotiku, nýbrž matematiku -- to abych si trošku rozšířil obzory. U nás na magisterském studiu už totiž žádnou matematiku nemáme ani povinně volitelnou, což mi přijde smutné. Ale jsem si jistý, že až se budu učit na zkoušku z diferenciální geometrie (tuším někdy v dubnu), tak mi zase přijde smutné tu matematiku mít a budu si říkat, že já blbec radši nejel na Aalto programovat. :D 
 
-Na závěr přikládám ilustrační foto Aalto, školy vzniknuvši v roce 2010 spojením tří velkých univerzit zaměřených na technologii, ekonomiku a umění a design. Cílem prý bylo multidisciplinární vzdělávání, tak jsem na to zvědav -- dva takové předměty mám zapsané!
+Na závěr přikládám ilustrační foto Aalto, školy vzniknuvší v roce 2010 spojením tří velkých univerzit zaměřených na technologii, ekonomiku a umění a design. Cílem prý bylo multidisciplinární vzdělávání, tak jsem na to zvědav -- dva takové předměty mám zapsané!
 
 {% include click_image.html filename="aalto.jpg" caption="Ilustrační foto Aalto" caption_style="left:5px;right:auto;"%}
