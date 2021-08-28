@@ -1376,7 +1376,22 @@ a.newer-posts:hover {
   position: relative;
 }
 
-.click-image p {
+.click-images {
+ display: flex;
+ justify-content: space-between;
+}
+
+.click-images .one-image{
+  position:relative;
+}
+
+.click-images .image-gutter{
+  min-width: 5px;
+}
+
+/* .click-image */
+
+.click-image p,.click-images p {
   position: absolute;
   top: 5px;
   right: 20px;
@@ -1523,11 +1538,12 @@ a.newer-posts:hover {
     box-shadow: rgba(50, 50, 93, 1) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
     z-index: 200;
   }
-  .click-image {
+  .click-image,  .click-images{
     margin-left: -20px;
     margin-right: -20px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 3px;
   }
+
   .wrap-content p, h1, h2, h3 {
     margin-left: 20px;
     margin-right: 20px;
@@ -1543,7 +1559,7 @@ a.newer-posts:hover {
     margin-bottom: 0px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 3px;
   }
-  .click-image {
+  .click-image,  .click-images {
     margin-left: -40px;
     margin-right: -40px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 3px;

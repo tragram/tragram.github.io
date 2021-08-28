@@ -1,0 +1,20 @@
+
+{% assign num=include.filenames.size|minus:1%}
+<div class="click-images">
+{% for i in (0..num)%}
+<div class="one-image">
+<p {% if include.caption_style %} style="{{include.caption_style}}" {% endif %}>{{include.captions[i] | strip}}</p>
+<a href="/assets/img/{{page.img_folder}}/{{include.filenames[i] | strip}}">
+    <img  
+        src="/assets/img/{{page.img_folder}}/{{include.filenames[i] | strip}}" 
+        alt="{{include.captions[i] | strip}}"
+    >
+</a>
+</div>
+
+{% if i<num %}
+<div class="image-gutter"></div>
+{% endif %}
+{% endfor %}
+
+</div>
