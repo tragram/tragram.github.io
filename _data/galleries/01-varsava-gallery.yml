@@ -55,7 +55,8 @@ pictures:
   - 2021_08_26_10_38_55--2048x2048.jpg
   - 2021_08_26_10_38_55--1024x1024.jpg
   thumbnail: 2021_08_26_10_38_55--thumbnail.jpg
-  title: Další mrakodrapy a Palác kultury, postavený za Stalina. Ale oproti panelákům docela dobrý!
+  title: Další mrakodrapy a Palác kultury
+  caption: Palác kultury byl sice postavený za Stalina, ale oproti panelákům docela dobrý!
 - filename: '2021_08_26_10_34_48'
   original: 2021_08_26_10_34_48.JPG
   sizes:
@@ -76,14 +77,16 @@ pictures:
   - 2021_08_26_10_41_34--2048x2048.jpg
   - 2021_08_26_10_41_34--1024x1024.jpg
   thumbnail: 2021_08_26_10_41_34--thumbnail.jpg
-  title: Jen Coca-Cola je moc chudá na to, aby měla hezký mrakodrap... :( 
+  # title: Mrakodrapy
+  caption: Jen Coca-Cola je moc chudá na to, aby měla hezký mrakodrap... :( 
 - filename: '2021_08_26_10_43_26'
   original: 2021_08_26_10_43_26.jpg
   sizes:
   - 2021_08_26_10_43_26--2048x2048.jpg
   - 2021_08_26_10_43_26--1024x1024.jpg
   thumbnail: 2021_08_26_10_43_26--thumbnail.jpg
-  title: Nová a rovnou zrušená cyklostezka. Tak špatně na tom v Praze nejsme! :D
+  # title: Cyklostezka
+  caption: Nová a rovnou zrušená cyklostezka. Tak špatně na tom v Praze nejsme! :D
 - filename: '2021_08_26_10_55_46'
   original: 2021_08_26_10_55_46.JPG
   sizes:
@@ -97,7 +100,8 @@ pictures:
   - 2021_08_26_10_58_06--2048x2048.JPG
   - 2021_08_26_10_58_06--1024x1024.JPG
   thumbnail: 2021_08_26_10_58_06--thumbnail.JPG
-  title: Duha v Polsku nás poněkud zaskočila. Ukázalo se ale, že s právy LGBT+ to nemá nic společného.
+  # title: Duha
+  caption: Duha v Polsku nás poněkud zaskočila. Ukázalo se ale, že s právy LGBT+ to nemá nic společného.
 - filename: '2021_08_26_11_00_45'
   original: 2021_08_26_11_00_45.jpg
   sizes:
@@ -111,7 +115,7 @@ pictures:
   - 2021_08_26_11_03_31--2048x2048.jpg
   - 2021_08_26_11_03_31--1024x1024.jpg
   thumbnail: 2021_08_26_11_03_31--thumbnail.jpg
-  title: Vypadá jako Stalin a Pepík to dokonce je, ale není to Stalin! Je to totiž Piłsudski, takový jejich vojáček Masaryk.
+  caption: Vypadá jako Stalin a Pepík to dokonce je, ale není to Stalin! Je to totiž Piłsudski, takový jejich vojáček Masaryk.
 - filename: '2021_08_26_11_06_24'
   original: 2021_08_26_11_06_24.JPG
   sizes:
@@ -132,21 +136,24 @@ pictures:
   - 2021_08_26_11_22_54--2048x2048.jpg
   - 2021_08_26_11_22_54--1024x1024.jpg
   thumbnail: 2021_08_26_11_22_54--thumbnail.jpg
-  title: Tak s takovým sloganem nelze bojovat!
+  title: Kompot
+  caption: Tak s takovým sloganem nelze bojovat!
 - filename: '2021_08_26_11_28_33'
   original: 2021_08_26_11_28_33.jpg
   sizes:
   - 2021_08_26_11_28_33--2048x2048.jpg
   - 2021_08_26_11_28_33--1024x1024.jpg
   thumbnail: 2021_08_26_11_28_33--thumbnail.jpg
-  title: Marky sice nejdřív nechtěla, ale nakonec jsem ji na džbánek přemluvil. A nelitovala!
+  title: Kompot
+  caption: Marky sice nejdřív nechtěla, ale nakonec jsem ji na džbánek přemluvil. A nelitovala!
 - filename: '2021_08_26_11_28_46'
   original: 2021_08_26_11_28_46.JPG
   sizes:
   - 2021_08_26_11_28_46--2048x2048.JPG
   - 2021_08_26_11_28_46--1024x1024.JPG
   thumbnail: 2021_08_26_11_28_46--thumbnail.JPG
-  title: To já byl prodaný hnedka!
+  title: Kompot
+  caption: To já byl prodaný hnedka!
 - filename: '2021_08_26_11_28_50'
   original: 2021_08_26_11_28_50.JPG
   sizes:
@@ -181,14 +188,14 @@ pictures:
   - 2021_08_26_13_38_48--2048x2048.JPG
   - 2021_08_26_13_38_48--1024x1024.JPG
   thumbnail: 2021_08_26_13_38_48--thumbnail.JPG
-  title: Pomník padlým za druhé světové války, vkusně před hotelem ibis. :D
+  caption: Pomník padlým za druhé světové války, vkusně před hotelem ibis. :D
 - filename: '2021_08_26_13_47_50'
   original: 2021_08_26_13_47_50.jpg
   sizes:
   - 2021_08_26_13_47_50--2048x2048.jpg
   - 2021_08_26_13_47_50--1024x1024.jpg
   thumbnail: 2021_08_26_13_47_50--thumbnail.jpg
-  title: Nelze udělat s ISC mikinou výlet do Polska a nekoupit Soplici. Jen vykonávám svou povinnost!
+  caption: Nelze udělat s ISC mikinou výlet do Polska a nekoupit Soplici. Jen vykonávám svou povinnost!
 - filename: '2021_08_26_14_23_22'
   original: 2021_08_26_14_23_22.JPG
   sizes:
@@ -209,7 +216,8 @@ pictures:
   - 2021_08_26_14_38_08--2048x2048.JPG
   - 2021_08_26_14_38_08--1024x1024.JPG
   thumbnail: 2021_08_26_14_38_08--thumbnail.JPG
-  title: "Hezké hranaté tvary tramvají znamenají, že do nich za deště prší. #designdesign"
+  title: Varšavská tramvaj
+  caption: "Hezké hranaté tvary tramvají znamenají, že do nich za deště prší. #designdesign"
 - filename: '2021_08_26_14_40_14'
   original: 2021_08_26_14_40_14.JPG
   sizes:
@@ -265,7 +273,7 @@ pictures:
   - 2021_08_26_15_35_08--2048x2048.jpg
   - 2021_08_26_15_35_08--1024x1024.jpg
   thumbnail: 2021_08_26_15_35_08--thumbnail.jpg
-  title: Marky, zdrazujíc svého vnitřního Belgičana koupí gofrů
+  caption: Marky, zdrazujíc svého vnitřního Belgičana koupí gofrů
 - filename: '2021_08_26_15_45_47'
   original: 2021_08_26_15_45_47.jpg
   sizes:

@@ -8,7 +8,7 @@ img: cover.jpg # Add image post (optional)
 fig-caption: Varšavské panorama # Add figcaption (optional)
 tags: []
 ---
-V osudný den, 25. 8. 2021, oděn v YFU tričku ve kterém jsem odjížděl do Uruguaye, jsem skoro v 10 večer popadl své dva kufry (30 a 10 kg) a batoh a neobratně se tramvají dokodrcal na Florenc, odkud jel bus a kde jsme se sešli s Marky.
+V osudný den, 25. 8. 2021, oděn v YFU tričku, ve kterém jsem odjížděl do Uruguaye, jsem skoro v 10 večer popadl své dva kufry (30 a 10 kg) a batoh a neobratně se tramvají dokodrcal na Florenc, odkud jel bus a kde jsme se sešli s Marky.
 
 Přestože už půl hodiny před odjezdem na tabuli svítilo, že máme nastupovat, nástupiště sice zelo plnotou lidí, ale nikoliv autobusu. Když pak přijel Flixbus a vykládal lidi, už jsme se začali chystat. Poté však nepřijel k nám, ale zase někam odjel, což nás trošku polekalo -- Marky se totiž už jednou při cestě do Polska z Florence stalo, že tam pan řidič jaksi zapomněl zastavit. To, že jí vrátili peníze je sice hezké, ale jet tam polským dopravcem je gurmánský zážitek. Cituji: "Nejhorší jízda autobusem mýho života, málem jsem umřela. Fakt to bylo třeba osm hodin smrti".
 

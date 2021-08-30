@@ -90,7 +90,7 @@ for i,pic in enumerate(gallery):
     if not found:
         # create new entry
         old_gallery.append(
-            {"filename": pic, "title": None,"index":i+1, "sizes": gallery[pic], "thumbnail": thumbs[pic], "original": originals[pic]})
+            {"filename": pic, "title": None, "caption":None,"index":i+1, "sizes": gallery[pic], "thumbnail": thumbs[pic], "original": originals[pic]})
 
 # check if path existing
 if "picture_folder" not in input_gallery:
