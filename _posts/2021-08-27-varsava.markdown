@@ -8,19 +8,19 @@ img: cover.jpg # Add image post (optional)
 fig-caption: Varšavské panorama # Add figcaption (optional)
 tags: []
 ---
-V osudný den, 25. 8. 2021, oděn v YFU tričku ve kterém jsem odjížděl do Uruguaye, jsem skoro v 10 večer popadl své dva kufry (30 a 10 kg) a baťoh a neobratně se tramvají dokodrcal na Florenc, odkud jel bus a kde jsme se sešli s Marky.
+V osudný den, 25. 8. 2021, oděn v YFU tričku ve kterém jsem odjížděl do Uruguaye, jsem skoro v 10 večer popadl své dva kufry (30 a 10 kg) a batoh a neobratně se tramvají dokodrcal na Florenc, odkud jel bus a kde jsme se sešli s Marky.
 
 Přestože už půl hodiny před odjezdem na tabuli svítilo, že máme nastupovat, nástupiště sice zelo plnotou lidí, ale nikoliv autobusu. Když pak přijel Flixbus a vykládal lidi, už jsme se začali chystat. Poté však nepřijel k nám, ale zase někam odjel, což nás trošku polekalo -- Marky se totiž už jednou při cestě do Polska z Florence stalo, že tam pan řidič jaksi zapomněl zastavit. To, že jí vrátili peníze je sice hezké, ale jet tam polským dopravcem je gurmánský zážitek. Cituji: "Nejhorší jízda autobusem mýho života, málem jsem umřela. Fakt to bylo třeba osm hodin smrti".
 
-Nakonec si nás pak vyzvedl jiný, dvoupatrový autobus. Pan řidič se z něj vyřítil, chrle polsky instrukce. Co na tom, že byl v Praze a mluvil na spoustu lidí, kteří jako Češi ani Poláci skutečně nevypadali a neměli šanci mu rozumět. Alespoň neřešil, že mám kufr o 10 kg těžší než smím a ani rozměrově bych se do limitů nevešel. Když si jeden spolucestující chtěl vzít carry-on kufřík nahoru (cca 2x větší než se smí), tak ho sice nejprve na zavazadlový prostor odkázal, ale když mu cestující řekl, že si ho chce vzít nahoru, tak řekl "ou, oukej, no problem" a bylo. :D
+Nakonec si nás pak vyzvedl jiný, dvoupatrový autobus. Pan řidič se z něj vyřítil, chrle polsky instrukce. Co na tom, že byl v Praze a mluvil na spoustu lidí, kteří jako Češi ani Poláci skutečně nevypadali a neměli šanci mu rozumět. Alespoň neřešil, že mám kufr o 10 kg těžší, než smím, a ani rozměrově bych se do limitů nevešel. Když si jeden spolucestující chtěl vzít carry-on kufřík nahoru (cca 2x větší, než se smí), tak ho sice nejprve na zavazadlový prostor odkázal, ale když mu cestující řekl, že si ho chce vzít nahoru, tak řekl "ou, oukej, no problem" a bylo. :D
 
 Jeho těžce flegmatická nátura však měla i stinnou stránku. Po tom, co každou ze tří nočních zastávek hlasitě ohlásil přes reproduktory, zapomínal ten mikrofon vypínat. Jednou si to po 10 minutách uvědomil, podruhé jsem ale musel jednu Polku v jednu ráno poprosit, aby mu to šla sdělit -- statický šum spolu se silně zesíleným každým nárazem a pěkně hlasitými blinkry není optimální prostředí pro spánek. Bohužel už jsem po ní zapomněl poslat informaci, že také zapomněl po zastavení zhasnout "denní" světla, takže jsem spal s mikinou přes obličej.
 
-V 8 hodin ráno jsme se dostavili do Varšavy. Šest ukořistěných hodin spánku naštěstí nebylo nic, co by dvě kávy za den nezvládly napravit. Po té první nás čekal přesun vlakem na hlavní nádraží, kde jsme si nechali kufry. Pan na kase byl velmi milý a uměl skvěle anglicky. Denní studenstké jízdné za 40 kč bylo velmi příjemné -- vy víte o nějaké jiném městě, kde by byly studenstké i takhle krátkodobé listky? Ozvěte se v komentářích! ;) 
+V 8 hodin ráno jsme se dostavili do Varšavy. Šest ukořistěných hodin spánku naštěstí nebylo nic, co by dvě kávy za den nezvládly napravit. Po té první nás čekal přesun vlakem na hlavní nádraží, kde jsme si nechali kufry. Pán na kase byl velmi milý a uměl skvěle anglicky. Denní studenstké jízdné za 40 kč bylo velmi příjemné -- vy víte o nějaké jiném městě, kde by byly studenstké i takhle krátkodobé lístky? Ozvěte se v komentářích! ;) 
 
 Jediný zádrhel byl ve validaci lístku -- na nádraží poměrně překvapivě validátor chyběl a ve vlaku, kterým jsme chtěli jet, také. Pán na pokladně nám doporučil skočit do jiného vlaku, validovat to tam a zase vylézt. Inu vyslali jsme tedy Marky, ať to jde zkusit. Když už jsem myslel, že to nestihla a vlakem kamsi odjela, přišla s tím, že ji průvodčí lístky validovat nenechal, protože tím vlakem neplánovala jet.
 
-Kvůli zdržení jsme ale nakonec dojeli na hlavní nádraží vlakem s validátorem. První věc, které jsem si všiml, že mají ve Varšavě hezké výškové budovy, což mi v Praze chybí. Ovšem hned druhá věc, které jsme si všimli, je, že Poláci se evidentně rodí už chodící a mají nějaké speciálně regenerativní páteře, protože maminky s kočárky či vozíčkáři tam opravdu nemají pré. :D Tak například podchod z vlakového na autobusové nádraží nejen, že nebyl opatřen výtahem, ale on ani nebyl "dolů-rovně-nahoru". Těch schodů tam bylo několik stále nahoru a dolů, což jsem s tak těžkými kufry prohlásil za hloupost a šli jsme po povrchu. Nešlo však jen o to, ale třeba i o obrubníky aj.
+Kvůli zdržení jsme ale nakonec dojeli na hlavní nádraží vlakem s validátorem. První věc, které jsem si všiml, bylo, že mají ve Varšavě hezké výškové budovy, což mi v Praze chybí. Ovšem hned druhá věc, které jsme si všimli, je, že Poláci se evidentně rodí už chodící a mají nějaké speciálně regenerativní páteře, protože maminky s kočárky či vozíčkáři tam opravdu nemají pré. :D Tak například podchod z vlakového na autobusové nádraží nejen, že nebyl opatřen výtahem, ale on ani nebyl "dolů-rovně-nahoru". Těch schodů tam bylo několik stále nahoru a dolů, což jsem s tak těžkými kufry prohlásil za hloupost a šli jsme po povrchu. Nešlo však jen o to, ale třeba i o obrubníky aj.
 
 {% assign filenames = "cover_big.jpg, hlavak.jpg" | split: ',' %}
 {% assign captions = "Varšavské panorama, Hlavní nádraží ve Varšavě" | split: ',' %}
@@ -34,16 +34,16 @@ Na obídek jsme si zašli na pirožky a k pití jsme si dali horký kompot. Hlav
 {% assign captions = "Džbánek kompotu, Pirožky s kompotem, Ponožky Marie Curie" | split: ',' %}
 {% include click_images.html filenames=filenames captions=captions %}
 
-Poté nás čekala další kavárna. Zdá se, že ve Varšavě nežije dost hipstrů, protože poměr útulné kavárny/km^2 je poměrně bídný. Ani jedna z dvou námi navštívených naštěstí nebyla Starbucks, obě ale byly řetězcové. Ke svačince Marky zradila (její slova) svého vnitřního Belgičana a dali jsme si "gofry", neboli wafle. Špatné nebyly, ale absolventu ročního pobytu v Belgii to nestačilo.
+Poté nás čekala další kavárna. Zdá se, že ve Varšavě nežije dost hipstrů, protože poměr útulné kavárny/km^2 je poměrně bídný. Ani jedna z dvou námi navštívených naštěstí nebyla Starbucks, obě ale byly řetězcové. Ke svačince Marky zradila (její slova) svého vnitřního Belgičana a dali jsme si "gofry", neboli wafle. Špatné nebyly, ale absolventce ročního pobytu v Belgii to nestačilo.
 
 Cestou do Muzea varšavského povstání jsme šli po místní náplavce. Ta mi, v porovnání s tou pražskou, přišla až bolestně chudá -- přitom prostoru, stejně jako v celé Varšavě, tam je spousta! A to jsme byli poměrně blízko centra. Na druhé straně Visly dokonce bylo jakési stanové městečko, až taková tam byla divočina!
 
 {% assign filenames = "naplavka.jpg, muzeum.jpg" | split: ',' %}
-{% assign captions = "Stany břehu Visly, Muzem varšavských povstání" | split: ',' %}
+{% assign captions = "Stany na břehu Visly, Muzem varšavských povstání" | split: ',' %}
 {% include click_images.html filenames=filenames captions=captions %}
 
 Samotné muzeum ale bylo naprosto famózní, určitě povinná zastávka, pokud byste se někdy ve Varšavě octli. Jen je potřeba si na to vyhradit alespoň 4 hodiny -- my jsme bohužel přišli ve čtyři a do zavíračky v šest jsme stihli jen přibližně první polovinu. :( Mají skvělé kulisy, dokonce části jsou vyvedené jako např. polní nemocniční stan či varšavská kanalizace. K tomu ještě velmi povedené zvukové efekty, což jsem ještě asi na žádné výstavě nezažil.
 
-Celkově jsme si Varšavu užili -- je tam spousta prostoru, zajímavá muzea a dobré jídlo. Je pravda, že je to trošku takový mišmaš budov, co se k sobě nehodí -- a to nemyslím mrakodrapy mezi starými bodovami, ale celkově. I tak ale stojí za návštěvu!
+Celkově jsme si Varšavu užili -- je tam spousta prostoru, zajímavá muzea a dobré jídlo. Je pravda, že je to trošku takový mišmaš budov, co se k sobě nehodí -- a to nemyslím mrakodrapy mezi starými bodovami, ale celkově. I tak ale stojí za návštěvu! Když se obě strany snaží, tak se dá domluvit i česko-polsky, taky jsme to zakusili. :D Navíc si tam vizuálně nepřijdete jako v cizí zemi, protože Poláci jsou zatím jediný národ, který si v nošení roušky pod nosem v ničem nezadá s Čechy. 
 
 {% include image-gallery.html gallery="01-varsava-gallery" %}
