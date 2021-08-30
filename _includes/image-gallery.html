@@ -1,10 +1,6 @@
-<!-- https://olivierpieters.be/blog/2016/02/26/creating-a-jekyll-image-gallery -->
 <div id="image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="image-gallery">
   <div id="gallery-sizer{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="gallery-sizer"></div>
-  {{site.data.galleries}}
-  <!-- {{site.data.galleries[include.gallery].pictures }} -->
   {% for picture in site.data.galleries[include.gallery].pictures  %}
-  <!-- {{picture}} -->
   <div class="grid-item">
     <a href="/assets/img/{{ site.data.galleries[include.gallery].picture_folder }}/{{ picture.original }}"
       data-responsive="{% for size in picture.sizes %} /assets/img/{{ site.data.galleries[include.gallery].picture_folder }}/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}{% endfor %}"

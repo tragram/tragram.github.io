@@ -13,7 +13,7 @@ def remove_accents(input_str):
 try:
     name = sys.argv[1]
 except:
-    name = "Příliš žluťoučký kůň úpěl ďábelské ó"
+    name = "Varšava"
 key_name = remove_accents(name).lower().replace(' ', '_')
 today = datetime.datetime.now(timezone("Europe/Helsinki"))
 filename = f"{datetime.date.today()}-{key_name.replace('_', '-')}"
@@ -24,7 +24,7 @@ title: {name}
 date: {datetime.date.today()} {today.strftime('%H:%M:%S')} {today.strftime('%z')}
 img_folder: {post_nr:02d}-{key_name}
 description: 
-img: # Add image post (optional)
+img: cover.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: []
 ---

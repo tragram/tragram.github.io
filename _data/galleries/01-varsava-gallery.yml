@@ -1,0 +1,282 @@
+picture_folder: 01-varsava/gallery
+pictures:
+- filename: '2021_08_25_21_06_14'
+  original: 2021_08_25_21_06_14.jpg
+  sizes: 
+  - 2021_08_25_21_06_14--2048x2048.jpg
+  - 2021_08_25_21_06_14--1024x1024.jpg
+  thumbnail: 2021_08_25_21_06_14--thumbnail.jpg
+  title: Život ve třech kufrech
+- filename: '2021_08_25_22_24_41'
+  original: 2021_08_25_22_24_41.jpg
+  sizes:
+  - 2021_08_25_22_24_41--2048x2048.jpg
+  - 2021_08_25_22_24_41--1024x1024.jpg
+  thumbnail: 2021_08_25_22_24_41--thumbnail.jpg
+  title: Čekáme na bus na Florenci
+- filename: '2021_08_26_09_19_40'
+  original: 2021_08_26_09_19_40.jpg
+  sizes:
+  - 2021_08_26_09_19_40--2048x2048.jpg
+  - 2021_08_26_09_19_40--1024x1024.jpg
+  thumbnail: 2021_08_26_09_19_40--thumbnail.jpg
+  title: Ranní osvěžení v Costě
+- filename: '2021_08_26_09_35_09'
+  original: 2021_08_26_09_35_09.jpg
+  sizes:
+  - 2021_08_26_09_35_09--2048x2048.jpg
+  - 2021_08_26_09_35_09--1024x1024.jpg
+  thumbnail: 2021_08_26_09_35_09--thumbnail.jpg
+  title: Západní nádraží ve Varšavě
+- filename: '2021_08_26_10_02_02'
+  original: 2021_08_26_10_02_02.jpg
+  sizes:
+  - 2021_08_26_10_02_02--2048x2048.jpg
+  - 2021_08_26_10_02_02--1024x1024.jpg
+  thumbnail: 2021_08_26_10_02_02--thumbnail.jpg
+  title: Není nad ranní procházku po kolejích, kde jezdí normálně vlaky!
+- filename: '2021_08_26_10_15_15'
+  original: 2021_08_26_10_15_15.jpg
+  sizes:
+  - 2021_08_26_10_15_15--2048x2048.jpg
+  - 2021_08_26_10_15_15--1024x1024.jpg
+  thumbnail: 2021_08_26_10_15_15--thumbnail.jpg
+  title: Hlavní nádraží ve Varšavě
+- filename: '2021_08_26_10_34_12'
+  original: 2021_08_26_10_34_12.jpg
+  sizes:
+  - 2021_08_26_10_34_12--2048x2048.jpg
+  - 2021_08_26_10_34_12--1024x1024.jpg
+  thumbnail: 2021_08_26_10_34_12--thumbnail.jpg
+  title: Mrakodrapů tam mají spoustu a jsou i docela pěkné!
+- filename: '2021_08_26_10_38_55'
+  original: 2021_08_26_10_38_55.jpg
+  sizes:
+  - 2021_08_26_10_38_55--2048x2048.jpg
+  - 2021_08_26_10_38_55--1024x1024.jpg
+  thumbnail: 2021_08_26_10_38_55--thumbnail.jpg
+  title: Další mrakodrapy a Palác kultury, postavený za Stalina. Ale oproti panelákům docela dobrý!
+- filename: '2021_08_26_10_34_48'
+  original: 2021_08_26_10_34_48.JPG
+  sizes:
+  - 2021_08_26_10_34_48--2048x2048.JPG
+  - 2021_08_26_10_34_48--1024x1024.JPG
+  thumbnail: 2021_08_26_10_34_48--thumbnail.JPG
+  title: Palác kultury s holuby
+- filename: '2021_08_26_10_38_56'
+  original: 2021_08_26_10_38_56.JPG
+  sizes:
+  - 2021_08_26_10_38_56--2048x2048.JPG
+  - 2021_08_26_10_38_56--1024x1024.JPG
+  thumbnail: 2021_08_26_10_38_56--thumbnail.JPG
+  title: null
+- filename: '2021_08_26_10_41_34'
+  original: 2021_08_26_10_41_34.jpg
+  sizes:
+  - 2021_08_26_10_41_34--2048x2048.jpg
+  - 2021_08_26_10_41_34--1024x1024.jpg
+  thumbnail: 2021_08_26_10_41_34--thumbnail.jpg
+  title: Jen Coca-Cola je moc chudá na to, aby měla hezký mrakodrap... :( 
+- filename: '2021_08_26_10_43_26'
+  original: 2021_08_26_10_43_26.jpg
+  sizes:
+  - 2021_08_26_10_43_26--2048x2048.jpg
+  - 2021_08_26_10_43_26--1024x1024.jpg
+  thumbnail: 2021_08_26_10_43_26--thumbnail.jpg
+  title: Nová a rovnou zrušená cyklostezka. Tak špatně na tom v Praze nejsme! :D
+- filename: '2021_08_26_10_55_46'
+  original: 2021_08_26_10_55_46.JPG
+  sizes:
+  - 2021_08_26_10_55_46--2048x2048.JPG
+  - 2021_08_26_10_55_46--1024x1024.JPG
+  thumbnail: 2021_08_26_10_55_46--thumbnail.JPG
+  title: null
+- filename: '2021_08_26_10_58_06'
+  original: 2021_08_26_10_58_06.JPG
+  sizes:
+  - 2021_08_26_10_58_06--2048x2048.JPG
+  - 2021_08_26_10_58_06--1024x1024.JPG
+  thumbnail: 2021_08_26_10_58_06--thumbnail.JPG
+  title: Duha v Polsku nás poněkud zaskočila. Ukázalo se ale, že s právy LGBT+ to nemá nic společného.
+- filename: '2021_08_26_11_00_45'
+  original: 2021_08_26_11_00_45.jpg
+  sizes:
+  - 2021_08_26_11_00_45--2048x2048.jpg
+  - 2021_08_26_11_00_45--1024x1024.jpg
+  thumbnail: 2021_08_26_11_00_45--thumbnail.jpg
+  title: (Asi) hotel se zajímavými okny
+- filename: '2021_08_26_11_03_31'
+  original: 2021_08_26_11_03_31.jpg
+  sizes:
+  - 2021_08_26_11_03_31--2048x2048.jpg
+  - 2021_08_26_11_03_31--1024x1024.jpg
+  thumbnail: 2021_08_26_11_03_31--thumbnail.jpg
+  title: Vypadá jako Stalin a Pepík to dokonce je, ale není to Stalin! Je to totiž Piłsudski, takový jejich vojáček Masaryk.
+- filename: '2021_08_26_11_06_24'
+  original: 2021_08_26_11_06_24.JPG
+  sizes:
+  - 2021_08_26_11_06_24--2048x2048.JPG
+  - 2021_08_26_11_06_24--1024x1024.JPG
+  thumbnail: 2021_08_26_11_06_24--thumbnail.JPG
+  title: 
+- filename: '2021_08_26_11_10_28'
+  original: 2021_08_26_11_10_28.JPG
+  sizes:
+  - 2021_08_26_11_10_28--2048x2048.JPG
+  - 2021_08_26_11_10_28--1024x1024.JPG
+  thumbnail: 2021_08_26_11_10_28--thumbnail.JPG
+  title: null
+- filename: '2021_08_26_11_22_54'
+  original: 2021_08_26_11_22_54.jpg
+  sizes:
+  - 2021_08_26_11_22_54--2048x2048.jpg
+  - 2021_08_26_11_22_54--1024x1024.jpg
+  thumbnail: 2021_08_26_11_22_54--thumbnail.jpg
+  title: Tak s takovým sloganem nelze bojovat!
+- filename: '2021_08_26_11_28_33'
+  original: 2021_08_26_11_28_33.jpg
+  sizes:
+  - 2021_08_26_11_28_33--2048x2048.jpg
+  - 2021_08_26_11_28_33--1024x1024.jpg
+  thumbnail: 2021_08_26_11_28_33--thumbnail.jpg
+  title: Marky sice nejdřív nechtěla, ale nakonec jsem ji na džbánek přemluvil. A nelitovala!
+- filename: '2021_08_26_11_28_46'
+  original: 2021_08_26_11_28_46.JPG
+  sizes:
+  - 2021_08_26_11_28_46--2048x2048.JPG
+  - 2021_08_26_11_28_46--1024x1024.JPG
+  thumbnail: 2021_08_26_11_28_46--thumbnail.JPG
+  title: To já byl prodaný hnedka!
+- filename: '2021_08_26_11_28_50'
+  original: 2021_08_26_11_28_50.JPG
+  sizes:
+  - 2021_08_26_11_28_50--2048x2048.JPG
+  - 2021_08_26_11_28_50--1024x1024.JPG
+  thumbnail: 2021_08_26_11_28_50--thumbnail.JPG
+  title: 
+- filename: '2021_08_26_11_39_14'
+  original: 2021_08_26_11_39_14.JPG
+  sizes:
+  - 2021_08_26_11_39_14--2048x2048.JPG
+  - 2021_08_26_11_39_14--1024x1024.JPG
+  thumbnail: 2021_08_26_11_39_14--thumbnail.JPG
+  title: Poctivý polský obídek
+- filename: '2021_08_26_12_19_26'
+  original: 2021_08_26_12_19_26.JPG
+  sizes:
+  - 2021_08_26_12_19_26--2048x2048.JPG
+  - 2021_08_26_12_19_26--1024x1024.JPG
+  thumbnail: 2021_08_26_12_19_26--thumbnail.JPG
+  title: null
+- filename: '2021_08_26_12_27_20'
+  original: 2021_08_26_12_27_20.JPG
+  sizes:
+  - 2021_08_26_12_27_20--2048x2048.JPG
+  - 2021_08_26_12_27_20--1024x1024.JPG
+  thumbnail: 2021_08_26_12_27_20--thumbnail.JPG
+  title: null
+- filename: '2021_08_26_13_38_48'
+  original: 2021_08_26_13_38_48.JPG
+  sizes:
+  - 2021_08_26_13_38_48--2048x2048.JPG
+  - 2021_08_26_13_38_48--1024x1024.JPG
+  thumbnail: 2021_08_26_13_38_48--thumbnail.JPG
+  title: Pomník padlým za druhé světové války, vkusně před hotelem ibis. :D
+- filename: '2021_08_26_13_47_50'
+  original: 2021_08_26_13_47_50.jpg
+  sizes:
+  - 2021_08_26_13_47_50--2048x2048.jpg
+  - 2021_08_26_13_47_50--1024x1024.jpg
+  thumbnail: 2021_08_26_13_47_50--thumbnail.jpg
+  title: Nelze udělat s ISC mikinou výlet do Polska a nekoupit Soplici. Jen vykonávám svou povinnost!
+- filename: '2021_08_26_14_23_22'
+  original: 2021_08_26_14_23_22.JPG
+  sizes:
+  - 2021_08_26_14_23_22--2048x2048.JPG
+  - 2021_08_26_14_23_22--1024x1024.JPG
+  thumbnail: 2021_08_26_14_23_22--thumbnail.JPG
+  title: I řetězec kaváren může být uvnitř útulný!
+- filename: '2021_08_26_14_27_44'
+  original: 2021_08_26_14_27_44.JPG
+  sizes:
+  - 2021_08_26_14_27_44--2048x2048.JPG
+  - 2021_08_26_14_27_44--1024x1024.JPG
+  thumbnail: 2021_08_26_14_27_44--thumbnail.JPG
+  title: Hezké sloupy tramvajového vedení
+- filename: '2021_08_26_14_38_08'
+  original: 2021_08_26_14_38_08.JPG
+  sizes:
+  - 2021_08_26_14_38_08--2048x2048.JPG
+  - 2021_08_26_14_38_08--1024x1024.JPG
+  thumbnail: 2021_08_26_14_38_08--thumbnail.JPG
+  title: "Hezké hranaté tvary tramvají znamenají, že do nich za deště prší. #designdesign"
+- filename: '2021_08_26_14_40_14'
+  original: 2021_08_26_14_40_14.JPG
+  sizes:
+  - 2021_08_26_14_40_14--2048x2048.JPG
+  - 2021_08_26_14_40_14--1024x1024.JPG
+  thumbnail: 2021_08_26_14_40_14--thumbnail.JPG
+  title: Velmi sympatický podchod
+- filename: '2021_08_26_14_43_56'
+  original: 2021_08_26_14_43_56.jpg
+  sizes:
+  - 2021_08_26_14_43_56--2048x2048.jpg
+  - 2021_08_26_14_43_56--1024x1024.jpg
+  thumbnail: 2021_08_26_14_43_56--thumbnail.jpg
+  title: Tramvajové sloupy II
+- filename: '2021_08_26_14_57_18'
+  original: 2021_08_26_14_57_18.jpg
+  sizes:
+  - 2021_08_26_14_57_18--2048x2048.jpg
+  - 2021_08_26_14_57_18--1024x1024.jpg
+  thumbnail: 2021_08_26_14_57_18--thumbnail.jpg
+  title: Stanové městečko na náplavce
+- filename: '2021_08_26_15_00_28'
+  original: 2021_08_26_15_00_28.jpg
+  sizes:
+  - 2021_08_26_15_00_28--2048x2048.jpg
+  - 2021_08_26_15_00_28--1024x1024.jpg
+  thumbnail: 2021_08_26_15_00_28--thumbnail.jpg
+  title: Marky na pusté náplavce
+- filename: '2021_08_26_15_11_16'
+  original: 2021_08_26_15_11_16.JPG
+  sizes:
+  - 2021_08_26_15_11_16--2048x2048.JPG
+  - 2021_08_26_15_11_16--1024x1024.JPG
+  thumbnail: 2021_08_26_15_11_16--thumbnail.JPG
+  title: Procházím úzkou uličkou
+- filename: '2021_08_26_15_19_47'
+  original: 2021_08_26_15_19_47.jpg
+  sizes:
+  - 2021_08_26_15_19_47--2048x2048.jpg
+  - 2021_08_26_15_19_47--1024x1024.jpg
+  thumbnail: 2021_08_26_15_19_47--thumbnail.jpg
+  title: Krásné náměstíčko
+- filename: '2021_08_26_15_21_56'
+  original: 2021_08_26_15_21_56.JPG
+  sizes:
+  - 2021_08_26_15_21_56--2048x2048.JPG
+  - 2021_08_26_15_21_56--1024x1024.JPG
+  thumbnail: 2021_08_26_15_21_56--thumbnail.JPG
+  title: null
+- filename: '2021_08_26_15_35_08'
+  original: 2021_08_26_15_35_08.jpg
+  sizes:
+  - 2021_08_26_15_35_08--2048x2048.jpg
+  - 2021_08_26_15_35_08--1024x1024.jpg
+  thumbnail: 2021_08_26_15_35_08--thumbnail.jpg
+  title: Marky, zdrazujíc svého vnitřního Belgičana koupí gofrů
+- filename: '2021_08_26_15_45_47'
+  original: 2021_08_26_15_45_47.jpg
+  sizes:
+  - 2021_08_26_15_45_47--2048x2048.jpg
+  - 2021_08_26_15_45_47--1024x1024.jpg
+  thumbnail: 2021_08_26_15_45_47--thumbnail.jpg
+  title: Nebylo by to Polsko bez fotky nějakého chrámu či kostela.
+- filename: '2021_08_26_16_34_34'
+  original: 2021_08_26_16_34_34.jpg
+  sizes:
+  - 2021_08_26_16_34_34--2048x2048.jpg
+  - 2021_08_26_16_34_34--1024x1024.jpg
+  thumbnail: 2021_08_26_16_34_34--thumbnail.jpg
+  title: Muzeum varšavského povstání

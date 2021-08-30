@@ -12,7 +12,7 @@ import yaml
 import sys
 from os import listdir
 from os.path import isfile, join
-from PIL import Image
+from PIL import Image, ImageOps
 import pathlib
 
 # configuration
@@ -24,13 +24,13 @@ except:
 
 # assume that folders that have "gallery" in their name are inside post img folder
 if 'gallery' in pathlib.PurePath(path).name:
-    folder_names=pathlib.PurePath(path).parts[-2:]
+    folder_names = pathlib.PurePath(path).parts[-2:]
 else:
     folder_names = [pathlib.PurePath(path).name]
 
 output_file = f"./_data/galleries/{'-'.join(folder_names)}.yml"
 input_file = output_file
-extensions = ['jpg', 'png']
+extensions = ['jpg', 'png', "JPG", "jpeg"]
 
 # set correct path
 
@@ -50,8 +50,9 @@ print('Renaming files...')
 for f in files:
     image_name = f[:f.rfind('.')]
     img = Image.open("./assets/img/"+'/'.join(folder_names)+"/"+f)
+    img = ImageOps.exif_transpose(img)
     image_sizes = [
-        2**i for i in range(13, 7, -1) if 2**i < img.width and 2**i < img.height]
+        2**i for i in range(13, 8, -1) if 2**i < img.width and 2**i < img.height]
     originals[image_name] = f
     gallery[image_name] = []
     for i, size in enumerate(image_sizes):
@@ -67,7 +68,7 @@ for f in files:
 # try to load YAML data
 print('Checking existing YAML data...')
 if isfile(input_file):
-    input_gallery = yaml.load(open(input_file, 'r'))
+    input_gallery = yaml.load(open(input_file, 'r', encoding="utf8"))
 else:
     # create empty dummy file
     input_gallery = {"pictures": []}
@@ -76,7 +77,7 @@ old_gallery = input_gallery['pictures']
 
 # merge two data sets into one
 print('Merging YAML data...')
-for pic in gallery:
+for i,pic in enumerate(gallery):
     found = False
     # try to find matching filename
     for i in old_gallery:
@@ -89,7 +90,7 @@ for pic in gallery:
     if not found:
         # create new entry
         old_gallery.append(
-            {"filename": pic, "sizes": gallery[pic], "thumbnail": thumbs[pic], "original": originals[pic]})
+            {"filename": pic, "title": None,"index":i+1, "sizes": gallery[pic], "thumbnail": thumbs[pic], "original": originals[pic]})
 
 # check if path existing
 if "picture_folder" not in input_gallery:
@@ -97,5 +98,5 @@ if "picture_folder" not in input_gallery:
 
 # write to output file
 print('Writing YAML data to file...')
-with open(output_file, 'w') as f:
+with open(output_file, 'w', encoding="utf8") as f:
     f.write(yaml.dump(input_gallery, default_flow_style=False))
