@@ -13,7 +13,7 @@ def remove_accents(input_str):
 try:
     name = sys.argv[1]
 except:
-    name = "Varšava"
+    name = "Vilnius"
 key_name = remove_accents(name).lower().replace(' ', '_')
 today = datetime.datetime.now(timezone("Europe/Helsinki"))
 filename = f"{datetime.date.today()}-{key_name.replace('_', '-')}"

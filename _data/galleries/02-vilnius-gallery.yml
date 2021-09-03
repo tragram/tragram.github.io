@@ -1,0 +1,140 @@
+picture_folder: 02-vilnius/gallery
+pictures:
+- caption: null
+  filename: '2021_08_27_05_45_34'
+  index: 2
+  original: 2021_08_27_05_45_34.jpg
+  sizes:
+  - 2021_08_27_05_45_34--2048x2048.jpg
+  - 2021_08_27_05_45_34--1024x1024.jpg
+  thumbnail: 2021_08_27_05_45_34--thumbnail.jpg
+  title: "Vilnius nad r\xE1nem"
+- caption: null
+  filename: '2021_08_27_05_49_29'
+  index: 3
+  original: 2021_08_27_05_49_29.jpg
+  sizes:
+  - 2021_08_27_05_49_29--2048x2048.jpg
+  - 2021_08_27_05_49_29--1024x1024.jpg
+  thumbnail: 2021_08_27_05_49_29--thumbnail.jpg
+  title: "Podivn\xFD invertovan\xFD semafor"
+- caption: null
+  filename: '2021_08_27_05_57_38'
+  index: 4
+  original: 2021_08_27_05_57_38.JPG
+  sizes:
+  - 2021_08_27_05_57_38--2048x2048.JPG
+  - 2021_08_27_05_57_38--1024x1024.JPG
+  thumbnail: 2021_08_27_05_57_38--thumbnail.JPG
+  title: null
+- caption: "P\u0159es takov\xFD retard\xE9r opravdu rychle \u010Dlov\u011Bk nepojede.\
+    \ :D"
+  filename: '2021_08_27_06_06_48'
+  index: 5
+  original: 2021_08_27_06_06_48.jpg
+  sizes:
+  - 2021_08_27_06_06_48--2048x2048.jpg
+  - 2021_08_27_06_06_48--1024x1024.jpg
+  thumbnail: 2021_08_27_06_06_48--thumbnail.jpg
+  title: "U\u017E je skoro den!"
+- caption: "P\xE1na asi sv\u011Bdila brada a nemohl se po\u0161kr\xE1bat s\xE1m, tak\
+    \ jsem mu pomohl. :)"
+  filename: '2021_08_27_06_07_56'
+  index: 6
+  original: 2021_08_27_06_07_56.JPG
+  sizes:
+  - 2021_08_27_06_07_56--2048x2048.JPG
+  - 2021_08_27_06_07_56--1024x1024.JPG
+  thumbnail: 2021_08_27_06_07_56--thumbnail.JPG
+  title: null
+- caption: null
+  filename: '2021_08_27_06_08_08'
+  index: 7
+  original: 2021_08_27_06_08_08.JPG
+  sizes:
+  - 2021_08_27_06_08_08--2048x2048.JPG
+  - 2021_08_27_06_08_08--1024x1024.JPG
+  thumbnail: 2021_08_27_06_08_08--thumbnail.JPG
+  title: null
+- caption: "Taky m\xE1te pocit, \u017Ee tohle je sp\xED\u0161e v Anglii?"
+  filename: '2021_08_27_06_10_36'
+  index: 8
+  original: 2021_08_27_06_10_36.jpg
+  sizes:
+  - 2021_08_27_06_10_36--2048x2048.jpg
+  - 2021_08_27_06_10_36--1024x1024.jpg
+  thumbnail: 2021_08_27_06_10_36--thumbnail.jpg
+  title: null
+- caption: null
+  filename: '2021_08_27_08_25_16'
+  index: 9
+  original: 2021_08_27_08_25_16.jpg
+  sizes:
+  - 2021_08_27_08_25_16--2048x2048.jpg
+  - 2021_08_27_08_25_16--1024x1024.jpg
+  thumbnail: 2021_08_27_08_25_16--thumbnail.jpg
+  title: "Marky a Gedimin\u016Fv hrad"
+- caption: null
+  filename: '2021_08_27_08_49_26'
+  index: 10
+  original: 2021_08_27_08_49_26.jpg
+  sizes:
+  - 2021_08_27_08_49_26--8192x8192.jpg
+  - 2021_08_27_08_49_26--2048x2048.jpg
+  - 2021_08_27_08_49_26--1024x1024.jpg
+  thumbnail: 2021_08_27_08_49_26--thumbnail.jpg
+  title: Panorama Vilniusu
+- caption: null
+  filename: '2021_08_27_09_18_54'
+  index: 11
+  original: 2021_08_27_09_18_54.JPG
+  sizes:
+  - 2021_08_27_09_18_54--2048x2048.JPG
+  - 2021_08_27_09_18_54--1024x1024.JPG
+  thumbnail: 2021_08_27_09_18_54--thumbnail.JPG
+  title: null
+- caption: null
+  filename: '2021_08_27_09_56_48'
+  index: 12
+  original: 2021_08_27_09_56_48.JPG
+  sizes:
+  - 2021_08_27_09_56_48--2048x2048.JPG
+  - 2021_08_27_09_56_48--1024x1024.JPG
+  thumbnail: 2021_08_27_09_56_48--thumbnail.JPG
+  title: Gediminův hrad od Tří křížů
+- caption: null
+  filename: '2021_08_27_10_00_32'
+  index: 13
+  original: 2021_08_27_10_00_32.JPG
+  sizes:
+  - 2021_08_27_10_00_32--2048x2048.JPG
+  - 2021_08_27_10_00_32--1024x1024.JPG
+  thumbnail: 2021_08_27_10_00_32--thumbnail.JPG
+  title: Tři kříže z blízka
+- caption: Komouši asi měli potřebu místo křížů dělat mini spartakiády nebo nevím. :D
+  filename: '2021_08_27_10_03_16'
+  index: 14
+  original: 2021_08_27_10_03_16.JPG
+  sizes:
+  - 2021_08_27_10_03_16--2048x2048.JPG
+  - 2021_08_27_10_03_16--1024x1024.JPG
+  thumbnail: 2021_08_27_10_03_16--thumbnail.JPG
+  title: Stadion pod třemi kříži
+- caption: Malé, ale krásné!
+  filename: '2021_08_27_16_16_00'
+  index: 15
+  original: 2021_08_27_16_16_00.jpg
+  sizes:
+  - 2021_08_27_16_16_00--2048x2048.jpg
+  - 2021_08_27_16_16_00--1024x1024.jpg
+  thumbnail: 2021_08_27_16_16_00--thumbnail.jpg
+  title: Naše Airbnb
+- caption: Všimněte si dnešní speciality. ;)
+  filename: '2021_08_27_17_44_56'
+  index: 16
+  original: 2021_08_27_17_44_56.jpg
+  sizes:
+  - 2021_08_27_17_44_56--2048x2048.jpg
+  - 2021_08_27_17_44_56--1024x1024.jpg
+  thumbnail: 2021_08_27_17_44_56--thumbnail.jpg
+  title: Restaurace v centru

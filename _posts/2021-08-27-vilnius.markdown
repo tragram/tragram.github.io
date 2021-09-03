@@ -1,0 +1,40 @@
+---
+layout: post
+title: Italské městečko v Pobaltí
+date: 2021-08-27 15:24:40 +0300
+img_folder: 02-vilnius
+description: 
+img: cover.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: []
+---
+Pokud jste si nepřečetli předchozí příspěvek, nyní je vhodný čas! Tento totiž začíná ve Varšavě, 26.8. v 8 večer a přímo navazuje na ten předchozí. Odtamtud jsme už neměli jet hloupým Flixbusem, ale estonským LuxExpressem.
+
+Varšavské hlavní nádraží má skutečně požehnané množství zastávek (>30), které ovšem nejsou u sebe a jejich lokace nikde nemají značené. Po přibližně 20 minutách hledání jsme spolkli svou hrdost a lokaci našli podle GPS z webu dopravce. Z dané zastávky sice evidentně mj. dálkové autobusy odjížděly, ale o LuxExpressu tam nebylo ani slovo.
+
+Vrátili jsme se tedy do několikapatrové haly a jali se hledat nějaké Informace, kde bychom se přeptali. Bohužel 3 ze 4 byly zavřené a v té čtvrté seděla stará bába, která nás hrubě vyhodila se slovy "no ingliš". Zoufalí (zbývalo 20 min do odjezdu -- ještě, že jsme tam přišli s velkým předstihem) jsme se zkusili zeptat u okénka MHD. Tam se pán sice také tvářil, že anglicky neumí a že o tom nic neví, ale nakonec nám velmi slušnou angličtinou sdělil, odkud to občas jezdívá, ale "don't kill me if not today".
+
+Autobus naštěstí přijel (byť se zpožděním) a z něj vystoupivší řidič dokonce mluvil anglicky! Byl velmi milý a dokonce nám doporučil jet na jinou stanici ve Vilniusu, než kam jsme plánovali -- a zpětně to bylo dobré doporučení! Celkově z LuxExpressu mám (teď už po všech třech cestách) mnohem lepší pocit než z Flixbusu -- je levnější, více místa na nohy (alespoň v levé polovině, v pravě je o řadu více), televizka, zásuvka, více zaklonitelná sedadla (a dokonce se dají šoupnout od sebe!), čajík či káva a rouška zdarma, mají výrazně benevolentnější limity na zavazadla a kufry navíc jsou zdarma (ačkoliv teoreticky hrozí, že vám je nevezmou, pokud nebude místo). Na noční cestu nám dokonce dali 0.5 L vody! Je to spíše takový RegioJet s více místem na nohy. 
+
+Po 6 naspaných hodinách předchozí noci jsem poměrně záhy usnul. Po dvou hodinách nás bohužel probudil litevský tankodrom, z čehož už jsem se nezotavil a usnul jsem až za Kaunas. Celkem za noc 3 hodiny spánku, to už začíná být nebezpečné. Ve 4 středoevropského času, v 5 místního, jsme dorazili do cíle. Bohužel bez zpoždění -- 3 hodinky déle v buse bych si výjimečně nechal líbit.
+
+Jelikož jsme měli check-in až za 10 hodin, nechali jsme si věci na nádraží a šli jsme se kochat spícím Vilniusem. Měli jsme opravdu hodně času, a tak jsme si za dvě hoďky prošli celé centrum, dokud neotevřela první kavárna. Přišli jsme bohužel tak brzo, že ještě ani neměli napečeno. Ale kávu měli a také jsme si ji náležitě ychutnali (já pro jistotu rovnou dvě), vyčistili si konečně zoubky a pokračovali jsme ve svém ranním dobrodružství.
+
+Ta vedla okolo Gediminova hradu na tzv. Horu tří křížů. Píšu "takzvanou", protože ta "hora" má 112 m. n. m. a to převýšení je jen okolo 70 m (přestože Vilnius neleží u moře). Ty kříže komunisti zničili a ty současné jsou fůglové od roku 1989. Je to příjemná procházka s krásným výhledem! Vilnius sice není zrovna placka (jak by člověk v Pobaltí čekal), ale zrovna tyto kopečky jsou velmi výrazně vyčnívající nad okolí. Na vrcholu jsme stanuli ještě před 9, i když měl člověk pocit, že už je odpoledne... 
+
+{% assign filenames = "ranni_vilnius2.jpg, hrad.jpg, krize.jpg" | split: ',' %}
+{% assign captions = "Ranní Vilnius, Gediminův hrad, Tři kříže z blízka" | split: ',' %}
+{% include click_images.html filenames=filenames captions=captions %}
+
+Pod kopcem jsme se rozhodli půjčit si kola. Bohužel, mašinka měla rozbitou tiskárnu, takže nám nevydala kartičky. Telefonní číslo nefungovalo (dokonce neexistovalo). Provozovatelem je známý JCDecaux, kterému DPP nedávno vypověděl nevýhodnou smlouvu, díky bohu. Naštěstí alespoň FB chat fungoval a překvapivě na něm rychle odpověděli a problém jsme vyřešili.
+
+Půl hodinky jsme se projížděli už konečně se probouzejícím Vilniusem, až jsme dojeli do *Muzea okupace a boje za svobodu* v bývalém sídle KGB. Také velmi povedeně zpracované -- např. bývalé vězení v podzemí bylo přístupné a doplněné informačními tabulemi.
+
+Na oběd jsme museli jít do několika restaurací, než jsme našli nějakou, kde se nám líbilo a mluvili anglicky. Dokonce ani v poměrně drahé asijské restauraci neměli polední meníčka v angličtině a číšnice nám je musela překládat. Moc jsme si pochutnali, ale poté na mě těžce dolehlo těch  9 hodin spánku za dvě noci -- bylo doslova fyzicky namáhavé udržet víčka otevřená, to se mi snad ještě nestalo. Hlavně jak se to stalo z ničeho nic (předtím jsem se cítil opravdu čerstvě) mě překvapilo. Šli jsme tedy do parku, já si tam na hodinku zdřímnul a Marky si četla. Do check-inu v Airbnb totiž stále zbývaly dvě hodiny. Hned poté už jsme ale (opět na kolech) vyjeli na nádraží pro kufry. To bylo trochu nepříjemné, poněvadž v mapě značená cyklostezka jaksi neexistovala.
+
+Po vymodlené sprše v krásném (posuďte sami) Airbnb jsme se šli projít centrem, dali jsme si kávu (za mě nejlepší za celý výlet) a k večeři tradiční litevskou pizzu (/s). Ingrediencím jsem sice nerozuměl (angličtinu tam člověk moc nepotká), ale řekl jsem si, že Picante pizza bude v pohodě. Chyba lávky, byly na ní žampiony a kuchař s nimi byl vskutku štědrý (>100 g). Po jídle jsme se shodli, že už byl den dost dlouhý a okolo osmé večer jsme se vrátili na ubytování ještě trošku popracovat a podívat se na Netflix.
+
+Vilnius je obecně moc pěkné město, nějak mi to připomínalo Itálii, ani nevím pořádně proč. Je tam sice vidět, že na opravu sposty domů ještě nebyl po vyhnání Rusáků čas/peníze, ale to se časem zlepší. Navíc pokud jste polyglot jako Marky a rozumíte textům ve většině evropských zemích, může pro vás návštěva Litvy být vzrušující, poněvadž výjimečně nebudete rozumět ani slovo! :D
+
+
+{% include image-gallery.html gallery="02-vilnius-gallery" %}

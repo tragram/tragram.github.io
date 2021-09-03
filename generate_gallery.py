@@ -52,7 +52,7 @@ for f in files:
     img = Image.open("./assets/img/"+'/'.join(folder_names)+"/"+f)
     img = ImageOps.exif_transpose(img)
     image_sizes = [
-        2**i for i in range(13, 8, -1) if 2**i < img.width and 2**i < img.height]
+        2**i for i in range(14, 8, -1) if 2**i < max(img.width,img.height)]
     originals[image_name] = f
     gallery[image_name] = []
     for i, size in enumerate(image_sizes):
@@ -77,7 +77,7 @@ old_gallery = input_gallery['pictures']
 
 # merge two data sets into one
 print('Merging YAML data...')
-for i,pic in enumerate(gallery):
+for j,pic in enumerate(gallery):
     found = False
     # try to find matching filename
     for i in old_gallery:
@@ -90,7 +90,7 @@ for i,pic in enumerate(gallery):
     if not found:
         # create new entry
         old_gallery.append(
-            {"filename": pic, "title": None, "caption":None,"index":i+1, "sizes": gallery[pic], "thumbnail": thumbs[pic], "original": originals[pic]})
+            {"filename": pic, "title": None, "caption":None,"index":j+1, "sizes": gallery[pic], "thumbnail": thumbs[pic], "original": originals[pic]})
 
 # check if path existing
 if "picture_folder" not in input_gallery:

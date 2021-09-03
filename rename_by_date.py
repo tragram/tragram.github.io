@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 
-folder_name = 'D:/tragram.github.io/assets/img/01-varsava/gallery'
+folder_name = 'D:/tragram.github.io/assets/img/02-vilnius/gallery'
 dir_list = [os.path.join(folder_name, x) for x in os.listdir(folder_name)]
 
 for file in dir_list:
