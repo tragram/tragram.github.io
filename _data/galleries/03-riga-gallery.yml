@@ -28,8 +28,7 @@ pictures:
   - 2021_08_28_15_34_41--2048x2048.jpg
   - 2021_08_28_15_34_41--1024x1024.jpg
   thumbnail: 2021_08_28_15_34_41--thumbnail.jpg
-  title: >
-    Ļena v "pražské" tramvaji v Rize
+  title:  Ļena v &quotpražské&quot tramvaji v Rize
 
 - caption: null
   filename: '2021_08_28_15_53_28'
@@ -200,8 +199,7 @@ pictures:
   - 2021_08_28_18_55_10--2048x2048.jpg
   - 2021_08_28_18_55_10--1024x1024.jpg
   thumbnail: 2021_08_28_18_55_10--thumbnail.jpg
-  title: >
-    "Velká" gilda obchodníků
+  title: &quotVelká&quot gilda obchodníků
 
 
 - caption: Byl jednou jeden bohatý obchodník, kterého nechtěli ostatní pustit k sobě do gildy. No a tak si naproti postavil vlastní dům a na špičku věže postavil kočku, která ukazovala na gildu, kam mají jít. Nakonec byl tedy přinucen kočku otočit, ale legenda dobrá. :D
@@ -309,8 +307,8 @@ pictures:
   thumbnail: 2021_08_28_21_40_20--thumbnail.jpg
   title: Výběr sladkostí
 
-- caption: >
-    Z nějakého důvodu mělo naše ubytování takovouhle "přepouštěcí komoru". Prý je to tam relativně normální.
+- caption:
+    nějakého důvodu mělo naše ubytování takovouhle &quotpřepouštěcí komoru&quot. Prý je to tam relativně normální.
   filename: '2021_08_29_10_37_26'
   index: 31
   original: 2021_08_29_10_37_26.jpg
@@ -363,8 +361,7 @@ pictures:
   thumbnail: 2021_08_29_12_05_26--thumbnail.JPG
   title: Ošklivý bazén na Kipsale
 
-- caption: >
-    Pohled z horního patra do "sklepa", kde promítali krátký dokumentík a jsou tam vidět i pryčny na spaní. Samozřejmě ne originální.
+- caption:  Pohled z horního patra do &quotsklepa&quot, kde promítali krátký dokumentík a jsou tam vidět i pryčny na spaní. Samozřejmě ne originální.
   filename: '2021_08_29_12_06_20'
   index: 36
   original: 2021_08_29_12_06_20.JPG
@@ -467,8 +464,7 @@ pictures:
   - 2021_08_29_16_41_39--2048x2048.jpg
   - 2021_08_29_16_41_39--1024x1024.jpg
   thumbnail: 2021_08_29_16_41_39--thumbnail.jpg
-  title: >
-    Místní "Manifesto" 
+  title:  Místní &quotManifesto&quot 
 
 - caption: Buďto si můžete koupit panáka, nebo metr panáků. Tady je to prostě tvrdý kraj. :D
   filename: '2021_08_29_15_36_50'
@@ -500,8 +496,7 @@ pictures:
   - 2021_08_29_16_42_12--2048x2048.JPG
   - 2021_08_29_16_42_12--1024x1024.JPG
   thumbnail: 2021_08_29_16_42_12--thumbnail.JPG
-  title: >
-    Místní "Manifesto" 
+  title:  Místní &quotManifesto&quot 
 
 - caption: null
   filename: '2021_08_29_16_47_44'
@@ -681,8 +676,7 @@ pictures:
   - 2021_08_29_20_19_15--2048x2048.jpg
   - 2021_08_29_20_19_15--1024x1024.jpg
   thumbnail: 2021_08_29_20_19_15--thumbnail.jpg
-  title: >
-    Fotečka "jak má být"
+  title:  Fotečka &quotjak má být&quot
 
 - caption: null
   filename: '2021_08_29_20_22_31'
