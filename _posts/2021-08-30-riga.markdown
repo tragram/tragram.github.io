@@ -70,7 +70,7 @@ Mimo to vás v přibližně 30 km dlouhém "městě" čeká spousta promenád, v
 {% include click_images.html filenames=filenames captions=captions %}
 
 ### Závěrem
-Mě osobně Riga úplně neuchvátila. Samozřejmě jsem rád, že jsem jí navštívil a určitě bych se nebránil opakované návštěvě, ale vizuálně na tom podle mě zkrátka není úplně nejlépe, takže žít bych tam asi nechtěl. Zato Marky se RIga líbila moc, takže je to evidentně jen můj názor. Asi byste se tam měli vydat a podívat se na vlastní oči -- letenky Ryanairem bývají i za 8 €. ;)
+Mě osobně Riga úplně neuchvátila. Samozřejmě jsem rád, že jsem jí navštívil a určitě bych se nebránil opakované návštěvě, ale vizuálně na tom podle mě zkrátka není úplně nejlépe, takže žít bych tam asi nechtěl. Zato Marky se RIga líbila moc (možná se jí líbilo, že má přednost před tramvají!), takže je to evidentně jen můj názor. Asi byste se tam měli vydat a podívat se na vlastní oči -- letenky Ryanairem bývají i za 8 €. ;)
 
 P.S.: Tentokrát doporučuji galerii -- k některým budovám přikládám legendy či fun facts, které nám Ļena pověděla!
 
