@@ -50,7 +50,7 @@ Po válce ho samozřejmě vyslýchala KGB, protože nevěřila, že to dělal ne
 
 Celé muzeum je postavené velmi atmosféricky -- hodně dřeva a málo světla; asi tak, jak to tenkrát lidé v tom sklepě zažívali. Ani o zvukové efekty není nouze a člověk dostane dobře namluveného audioprůvodce. Určitě zajímavá destinace v Rize!
 
-{% assign filenames = "daugava.jpg, lipke.jpg" | split: ',' %}
+{% assign filenames = "daugava.jpg, lipke_muzeum.jpg" | split: ',' %}
 {% assign captions = "Lanový most přes Daugavu, Muzeum Žanise Lipkeho" | split: ',' %}
 {% include click_images.html filenames=filenames captions=captions %}
 
