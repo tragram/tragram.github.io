@@ -1,0 +1,77 @@
+---
+layout: post
+title: Je libo šašlik s kvasem?
+date: 2021-08-30 16:49:00 +0300
+img_folder: 03-riga
+description: 
+img: cover.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: []
+---
+### Cesta
+Ráno v 8 zazvonil budíček a my se bleskurychle připravili a vyrazili do kavárny na snídani a pak na trolejbus. Tentokrát naštěstí stála zastávka Luxexpressu samotinká a navíc patřičně obrandovaná, takže jsme ji našli skutečně rychle. Na zastávce byly směrovky na všechny cíle mé cesty, jen Helsinki byly trasované po zemi přes Petrohrad, což bylo lehce zavádějící (a trošku mě to vylekalo :D).
+
+Cesta tentokráte trvala jen 4 hodiny a po těch dvou předchozích (8 a 9.5 hodiny) nám přišla dost krátká. Začal jsem psát blog a ani jsem se nenadál, už jsme byli v Rize. Velký rozdíl oproti posledním dvěma zastávkám byla Ļena, která vše naplánovala a na autobusáku si nás hned vyzvedla. Dokonce nám rovnou oběma přinesla místní sladkosti, za což si obratem vyzvedla Studentskou pečeť, spousty Fidorek a Tatra Tea. 
+
+Dalším rozdílem oproti předchozím dvěma destinacím bylo to, že jsme si nikde nemuseli nechávat kufry a mohli jet rovnou do Airbnb. Dostat se k nám však byla trošku taková únikovka: Začalo to několika boxíky na klíče, z nichž tedy alespoň na jeden fungoval náš kód. Dále jsme podle popisku "druhé nádvoří" prošli skrz dvoje dveře a znovu se octli venku. "Soukromý vstup" pak zase jistě značil dveře, které byly hned vedle. Po schodech dolů (to také sedělo na popis "basement unit") jsme se dostali k několika dalším dveřím. Do jedněch pasoval klíč, což naznačovalo, že jsme to našli! Byli jsme na sebe pyšní, ale samozřejmě jsme hudrovali na neplánované dobrodružství. Celé to ale bylo jen nakonec zdání -- při check-outu jsem v aplikaci objevil krásný obrázkový návod se šipkami. Upsík. :)
+
+{% assign filenames = "cekani.jpg, znacky.jpg, tramvaj.jpg" | split: ',' %}
+{% assign captions = "Korektní čekání na trolejbus, Ukazatele na všechny naše cíle, Ļena v 'pražské' tramvaj" | split: ',' %}
+{% include click_images.html filenames=filenames captions=captions %}
+
+### Jídlo, covid a jiné života radosti  
+Pokud se chcete dobře najíst a napít, je Riga určitě vhodným cílem. Doporučili bychom LIDO, což je asi něco na způsob Havelské koruny -- samoobsluha, ale jídlo mají dobré. Člověk si tam může nabrat různé věcí a když jde ve více lidech, ochutná spoustu skvělých pokrmů. Kromě LIDA jsme se druhý den také podívali do takového místního Manifesta, kde měli též chutnou stravu.
+
+Na (slané) palačinky, skvělé brambory, šašlik, různé smetany, bramboráky či smažený chleba (něco jako topinky) tedy určitě jeďte do Rigy! Dalším lákadlem je všudypřítomný kvas -- nealko nápoj příbuzný pivu, jen se do něj nedává chmel (ale fermentovaný je). Mňam! Vůbec nechápu, že to v Česku není normální alternativa k pivu a vymýšlí nějaké sládkovy limonády... Také nás Ļena zavedla na místní tržiště, kde měli ovoce a zeleninu za naprosto neskutečné ceny -- koupili jsme si např. půl kila strašně dobrých borůvek pod 2 €. 
+
+Jediné, co je trošku otravné, je to, že všude v restauracích skutečně kontrolují (někdy i skenují) QR kód očkování proti COVIDu. Určitě nemám nic proti dodržování nařízení, ale trošku to tam přehánějí -- například nás nenechali jíst v LIDU uvnitř, přestože Ļena sice certifikát měla. Zapomněla si totiž občanku a např. ISIC aj. jako doklad totožnosti s přimhouřením oka neuznali.
+
+Mají to tam ale přísné dlouhodobě -- Ļena se na Vánoce vracela z Prahy z Erasmu domů a týden předem jí volala lotyšská policie, jestli si je vědoma, že musí nastoupit po příjezdu do karantény (Lotyšsko na tom tenkrát bylo řádově lépe než ČR). V dobách, kdy měli přísnější opatření, tam dokonce směli dál od domova bez důvodu jen vlastním autem, jinak se museli být schopní do 15 minut objevit doma, když je policie přišla zkontrolovat (opakuji, to je i mimo karanténu). Ve zprávách prý jednou dávali, že si strážníci někoho jeli zkontrolovat doprostřed jezera, jestli tam opravdu rybaří, jak jim tvrdil.
+
+### Večer & snídaně 
+Ještě tentýž den jsme se stihli podívat do nové budovy Lotyšské národní knihovny, tzv. Zámku světla. Její otevření byla velká událost a lidé udělali živý řetěz ze staré budovy do té nové a tak stěhovali knihy. Nová budova však ještě nebyla zkolaudovaná, takže je tam zase naložili do aut a odvezli zpět, ale tím si Lotyši den zkazit evidentně nenechali. :D Když jsme tam přišli, tak zrovna Lotyšská národní knihovna zrovna slavila výročí, takže měli všichni zaměstanci narozeninové čepičky! :D
+
+Ve vrchním patře knihovny je dokonce vyhlídka, přístupná jen dva dny v týdnu. Musíte sice nafasovat vysačku a skoro vše si nechat dole, popř. dát do průhledného baťůžku, ale stojí to za to! Jen fotky odtamtud bohužel nejsou, protože jsou všechna okna (aka celá fasáda) pokrytá černými tečkami (viz galerie).
+
+(Pod)večer prvního dne jsme strávili prohlídkou centra Rigy. Nutno říct, že studentka architektury jako průvodce rozhodně stojí za to -- tolik zajímavých faktů by člověk na internetu asi nedohledal, ani kdyby chtěl (a že by asi spíš nechtěl :D). Nakonec jsme se šli podívat na výhled ze střechy nákupního střediska.
+
+{% assign filenames = "knihovna.jpg, trziste.jpg" | split: ',' %}
+{% assign captions = "Nová budova knihovny, Tržiště" | split: ',' %}
+{% include click_images.html filenames=filenames captions=captions %}
+
+Další den ráno jsme si zašli do Ļenou doporučené kavárny. Tam po nás výjimečně servírka nechtěla certifikáty, protože viděla moji roušku (ISC CTU in Prague). Dává to smysl -- nějak jsme se tam dostat museli, ale určitě tím něco porušila. Po pár soustech se ale ukázalo, o co šlo -- tatéž servírka k nám nervózně přišla s tím, že jede za pár týdnů do Prahy a jestli bychom ji nedoporučili nějaká zajímavá místa, která by mohla navštívit. Dali jsme jí spoustu doporučení a ze snídaně jsme odcházeli ve výrazně lepším rozpoložení, než by bylo vysvětlitelné pouhou kávou a croissanty (ačkoliv bylo obojí mňamózní). 
+
+### Muzeum Jānise Lipkeho
+V neděli (tj. náš druhý den v Rize) probíhal (pun intended) maraton, takže byla půl dne naprosto ochromená veřejná doprava. Do muzea Jānise Lipkeho jsme tedy museli jít hoďku pěšky. Toto muzeum leží na ostrově Ķīpsala na Daugavě a bylo vytvořeno ze soukromých fondů. Tvůrcům klobouček, že nastavili dobrovolné vstupné a nesnaží se na tom rýžovat peníze! Otevření (soukromého!) muzea se dokonce účastnil prezident Israele, neboť Jānis Lipke získal titul Spravedlivého mezi národy.
+
+Jānis Lipke během 2. sv. války záchránil desítky Židů z ghetta. Pracoval totiž pro Luftwaffe a měl na starost jejich převoz do práce a zpět. Občas se mu podařilo někoho nepozorovaně "nevrátit" a ukrýt ho v bunkru na zahradě pod svou kůlnou. Organizoval ale celou skupinu lidí-zachránců, kteří dohromady zachránili stovky lidí v Rize a přihlehlých oblastech. 
+
+Po válce ho samozřejmě vyslýchala KGB, protože nevěřila, že to dělal nezištně, a chtěla vědět, kam skryl židovské zlato. Na posledním výslechu jim prý řekl, že rozdíl mezi komunistou a náckem je ten, že nácek vás aspoň zastřelí zepředu, kdežto komunista zbaběle do týla. Prý už si ho pak nikdy neodvedli, ale těžko říct, co je na tom příběhu pravdy. Je fakt, že jeho dcera komsomolka mu mohla pomoct. Většinu života v SSSR pak strádali, ale naštěstí jim z celého světa chodily balíčky od lidí, které zachránili.
+
+Celé muzeum je postavené velmi atmosféricky -- hodně dřeva a málo světla; asi tak, jak to tenkrát lidé v tom sklepě zažívali. Ani o zvukové efekty není nouze a člověk dostane dobře namluveného audioprůvodce. Určitě zajímavá destinace v Rize!
+
+{% assign filenames = "daugava.jpg, lipke.jpg" | split: ',' %}
+{% assign captions = "Lanový most přes Daugavu, Muzeum Žanise Lipkeho" | split: ',' %}
+{% include click_images.html filenames=filenames captions=captions %}
+
+### Kontrasty aglomerace Rigy
+Další na pořadí byla lokalita s pracovním názvem "the real Riga", kde bydlí Ļena. Musím říct, že takhle hnusné paneláky člověk v Česku jen tak nenajde. Alespoň tam mají poměrně dost zeleně, takže v létě je to tam snesitelné. Ļena se ale dušovala, že v zimě, když sníh zšedne, je to ztělesněná deprese a já jí to docela věřím...
+
+Hned další zástávka (dokonce doslova) byla Jūrmala, město asi půl hodinky vlakem (25 km), ve kterém jsou volně rozmístěné luxusní vily pro (převážně) bohaté ruské oligarchy. Musím ale uznat, že je to tam moc pěkné -- vše čisté a mají tam takový parkoles přímo u krásné písčité pláže (Barcelona může jen tiše závidět). Je fakt, že voda je už teď "trošku" studená na koupání, ale jednoho otužilce jsme plavat viděli. :D Docela mě překvapilo, jak málo je Balt slaný. Aspoň se tím ale vysvětluje, že v zimě prý často zamrzá.
+
+{% assign filenames = "riga_panelaky.jpg, jurmala_les.jpg" | split: ',' %}
+{% assign captions = "Sídliště v Rize, Parkoles v Jūrmale" | split: ',' %}
+{% include click_images.html filenames=filenames captions=captions %}
+
+Mimo to vás v přibližně 30 km dlouhém "městě" čeká spousta promenád, vilek a restaurací. Dokonce tam je 40m rozhledna, kam je vstup zdarma! Sice člověk nevidí nic moc jiného než jen stromy, je to i tak super zážitek!
+
+{% assign filenames = "rozhledna.jpg, turisti.jpg, more.jpg" | split: ',' %}
+{% assign captions = "Rozhledna v Jūrmale, Obligátní turistická fotka, Baltské moře" | split: ',' %}
+{% include click_images.html filenames=filenames captions=captions %}
+
+### Závěrem
+Mě osobně Riga úplně neuchvátila. Samozřejmě jsem rád, že jsem jí navštívil a určitě bych se nebránil opakované návštěvě, ale vizuálně na tom podle mě zkrátka není úplně nejlépe, takže žít bych tam asi nechtěl. Zato Marky se RIga líbila moc, takže je to evidentně jen můj názor. Asi byste se tam měli vydat a podívat se na vlastní oči -- letenky Ryanairem bývají i za 8 €. ;)
+
+P.S.: Tentokrát doporučuji galerii -- k některým budovám přikládám legendy či fun facts, které nám Ļena pověděla!
+
+{% include image-gallery.html gallery="03-riga-gallery" %}

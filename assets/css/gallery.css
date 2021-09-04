@@ -26,6 +26,10 @@
   height: inherit !important;
 }
 
+.grid-item a{
+  color: transparent; 
+}
+
 @media (max-width: 1200px) {
   .image-gallery {
     -moz-column-count: 4;
