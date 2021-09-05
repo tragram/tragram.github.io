@@ -8,7 +8,6 @@ img: cover.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: []
 ---
-### Cesta
 Ráno v 8 zazvonil budíček a my se bleskurychle připravili a vyrazili do kavárny na snídani a pak na trolejbus. Tentokrát naštěstí stála zastávka Luxexpressu samotinká a navíc patřičně obrandovaná, takže jsme ji našli skutečně rychle. Na zastávce byly směrovky na všechny cíle mé cesty, jen Helsinki byly trasované po zemi přes Petrohrad, což bylo lehce zavádějící (a trošku mě to vylekalo :D).
 
 Cesta tentokráte trvala jen 4 hodiny a po těch dvou předchozích (8 a 9.5 hodiny) nám přišla dost krátká. Začal jsem psát blog a ani jsem se nenadál, už jsme byli v Rize. Velký rozdíl oproti posledním dvěma zastávkám byla Ļena, která vše naplánovala a na autobusáku si nás hned vyzvedla. Dokonce nám rovnou oběma přinesla místní sladkosti, za což si obratem vyzvedla Studentskou pečeť, spousty Fidorek a Tatra Tea. 
