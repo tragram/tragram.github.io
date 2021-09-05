@@ -318,7 +318,7 @@ pictures:
   thumbnail: 2021_08_29_10_37_26--thumbnail.jpg
   title: Vstup do Airbnb
 
-- caption: Hlasatelka byla skutečně velmi entusiastická. Zvlášť vzhledem k tomu, že jí poslouchali leda tak ti hlídkující policajti. :D
+- caption: 
   filename: '2021_08_29_11_36_54'
   index: 32
   original: 2021_08_29_11_36_54.JPG
@@ -327,9 +327,9 @@ pictures:
   - 2021_08_29_11_36_54--2048x2048.JPG
   - 2021_08_29_11_36_54--1024x1024.JPG
   thumbnail: 2021_08_29_11_36_54--thumbnail.JPG
-  title: Maraton
+  title: 
 
-- caption: Pohled z mosti
+- caption: Hlasatelka byla skutečně velmi entusiastická. Zvlášť vzhledem k tomu, že jí poslouchali leda tak ti hlídkující policajti. :D
   filename: '2021_08_29_11_45_33'
   index: 33
   original: 2021_08_29_11_45_33.jpg
@@ -337,9 +337,9 @@ pictures:
   - 2021_08_29_11_45_33--2048x2048.jpg
   - 2021_08_29_11_45_33--1024x1024.jpg
   thumbnail: 2021_08_29_11_45_33--thumbnail.jpg
-  title: Daugava
+  title: Maraton
 
-- caption: null
+- caption: Pohled z mostu
   filename: '2021_08_29_11_52_54'
   index: 34
   original: 2021_08_29_11_52_54.JPG
@@ -348,7 +348,7 @@ pictures:
   - 2021_08_29_11_52_54--2048x2048.JPG
   - 2021_08_29_11_52_54--1024x1024.JPG
   thumbnail: 2021_08_29_11_52_54--thumbnail.JPG
-  title: null
+  title: Daugava
 
 - caption: null
   filename: '2021_08_29_12_05_26'
@@ -359,9 +359,9 @@ pictures:
   - 2021_08_29_12_05_26--2048x2048.JPG
   - 2021_08_29_12_05_26--1024x1024.JPG
   thumbnail: 2021_08_29_12_05_26--thumbnail.JPG
-  title: Ošklivý bazén na Kipsale
+  title: 
 
-- caption:  Pohled z horního patra do &quotsklepa&quot, kde promítali krátký dokumentík a jsou tam vidět i pryčny na spaní. Samozřejmě ne originální.
+- caption:  
   filename: '2021_08_29_12_06_20'
   index: 36
   original: 2021_08_29_12_06_20.JPG
@@ -370,9 +370,9 @@ pictures:
   - 2021_08_29_12_06_20--2048x2048.JPG
   - 2021_08_29_12_06_20--1024x1024.JPG
   thumbnail: 2021_08_29_12_06_20--thumbnail.JPG
-  title: Muzeum Žanise Lipkeho
+  title: Ošklivý bazén na Kipsale
 
-- caption: null
+- caption: Pohled z horního patra do &quotsklepa&quot, kde promítali krátký dokumentík a jsou tam vidět i pryčny na spaní. Samozřejmě ne originální.
   filename: '2021_08_29_12_26_36'
   index: 37
   original: 2021_08_29_12_26_36.JPG
@@ -392,7 +392,7 @@ pictures:
   - 2021_08_29_13_17_20--2048x2048.JPG
   - 2021_08_29_13_17_20--1024x1024.JPG
   thumbnail: 2021_08_29_13_17_20--thumbnail.JPG
-  title: null
+  title: Muzeum Žanise Lipkeho
 
 - caption: Postavený v 80. letech, ale už je v opravdu žalostném stavu - jsou tam díry aj. Zlaté sovětské ručičky holt...
   filename: '2021_08_29_13_31_58'
