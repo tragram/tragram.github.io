@@ -1,0 +1,626 @@
+picture_folder: 04-tallinn/gallery
+pictures:
+
+- caption: 
+  filename: '2021_08_30_16_12_47'
+  index: 1
+  original: 2021_08_30_16_12_47.jpg
+  sizes:
+  - 2021_08_30_16_12_47--2048x2048.jpg
+  - 2021_08_30_16_12_47--1024x1024.jpg
+  thumbnail: 2021_08_30_16_12_47--thumbnail.jpg
+  title: Autobusové nádraží v Tallinnu
+
+- caption: 
+  filename: '2021_08_30_17_17_10'
+  index: 2
+  original: 2021_08_30_17_17_10.JPG
+  sizes:
+  - 2021_08_30_17_17_10--4096x4096.JPG
+  - 2021_08_30_17_17_10--2048x2048.JPG
+  - 2021_08_30_17_17_10--1024x1024.JPG
+  thumbnail: 2021_08_30_17_17_10--thumbnail.JPG
+  title: Cesta z Airbnb (já a Matilde)
+
+- caption: 
+  filename: '2021_08_30_18_13_14'
+  index: 3
+  original: 2021_08_30_18_13_14.JPG
+  sizes:
+  - 2021_08_30_18_13_14--4096x4096.JPG
+  - 2021_08_30_18_13_14--2048x2048.JPG
+  - 2021_08_30_18_13_14--1024x1024.JPG
+  thumbnail: 2021_08_30_18_13_14--thumbnail.JPG
+  title: Pohled na centrum z parku
+
+- caption: Na této věži vtipného jména vedle estonského parlamentu tradičně přes den vlaje estonská vlajka.
+  filename: '2021_08_30_18_39_38'
+  index: 4
+  original: 2021_08_30_18_39_38.JPG
+  sizes:
+  - 2021_08_30_18_39_38--4096x4096.JPG
+  - 2021_08_30_18_39_38--2048x2048.JPG
+  - 2021_08_30_18_39_38--1024x1024.JPG
+  thumbnail: 2021_08_30_18_39_38--thumbnail.JPG
+  title: Vysoký Hermann 
+
+- caption: null
+  filename: '2021_08_30_18_40_42'
+  index: 5
+  original: 2021_08_30_18_40_42.jpg
+  sizes:
+  - 2021_08_30_18_40_42--2048x2048.jpg
+  - 2021_08_30_18_40_42--1024x1024.jpg
+  thumbnail: 2021_08_30_18_40_42--thumbnail.jpg
+  title: Park
+
+- caption: null
+  filename: '2021_08_30_18_45_34'
+  index: 6
+  original: 2021_08_30_18_45_34.JPG
+  sizes:
+  - 2021_08_30_18_45_34--4096x4096.JPG
+  - 2021_08_30_18_45_34--2048x2048.JPG
+  - 2021_08_30_18_45_34--1024x1024.JPG
+  thumbnail: 2021_08_30_18_45_34--thumbnail.JPG
+  title: Sídlo estonské vlády
+
+- caption: null
+  filename: '2021_08_30_18_51_33'
+  index: 7
+  original: 2021_08_30_18_51_33.jpg
+  sizes:
+  - 2021_08_30_18_51_33--2048x2048.jpg
+  - 2021_08_30_18_51_33--1024x1024.jpg
+  thumbnail: 2021_08_30_18_51_33--thumbnail.jpg
+  title: Výhled z hradu
+
+- caption: null
+  filename: '2021_08_30_18_53_00'
+  index: 8
+  original: 2021_08_30_18_53_00.jpg
+  sizes:
+  - 2021_08_30_18_53_00--2048x2048.jpg
+  - 2021_08_30_18_53_00--1024x1024.jpg
+  thumbnail: 2021_08_30_18_53_00--thumbnail.jpg
+  title: My, clonící ve výhledu z hradu
+
+- caption: null
+  filename: '2021_08_30_18_54_55'
+  index: 9
+  original: 2021_08_30_18_54_55.jpg
+  sizes:
+  - 2021_08_30_18_54_55--2048x2048.jpg
+  - 2021_08_30_18_54_55--1024x1024.jpg
+  thumbnail: 2021_08_30_18_54_55--thumbnail.jpg
+  title: Macatý racek (cca 2x větší než ti pražští)
+
+- caption: null
+  filename: '2021_08_30_18_57_30'
+  index: 10
+  original: 2021_08_30_18_57_30.JPG
+  sizes:
+  - 2021_08_30_18_57_30--4096x4096.JPG
+  - 2021_08_30_18_57_30--2048x2048.JPG
+  - 2021_08_30_18_57_30--1024x1024.JPG
+  thumbnail: 2021_08_30_18_57_30--thumbnail.JPG
+  title: null
+
+- caption: Stejně je ta estonská vlajka fakt pěkná!
+  filename: '2021_08_30_19_00_10'
+  index: 11
+  original: 2021_08_30_19_00_10.JPG
+  sizes:
+  - 2021_08_30_19_00_10--4096x4096.JPG
+  - 2021_08_30_19_00_10--2048x2048.JPG
+  - 2021_08_30_19_00_10--1024x1024.JPG
+  thumbnail: 2021_08_30_19_00_10--thumbnail.JPG
+  title: null
+
+- caption: 
+  filename: '2021_08_30_19_02_18'
+  index: 12
+  original: 2021_08_30_19_02_18.JPG
+  sizes:
+  - 2021_08_30_19_02_18--4096x4096.JPG
+  - 2021_08_30_19_02_18--2048x2048.JPG
+  - 2021_08_30_19_02_18--1024x1024.JPG
+  thumbnail: 2021_08_30_19_02_18--thumbnail.JPG
+  title: 
+
+- caption: Mají to tuze praktické, parlament hned vedle sídla vlády. V době pořízení této fotky se zrovna hlasovalo o novém prezidentu Estonska!
+  filename: '2021_08_30_19_04_24'
+  index: 13
+  original: 2021_08_30_19_04_24.JPG
+  sizes:
+  - 2021_08_30_19_04_24--4096x4096.JPG
+  - 2021_08_30_19_04_24--2048x2048.JPG
+  - 2021_08_30_19_04_24--1024x1024.JPG
+  thumbnail: 2021_08_30_19_04_24--thumbnail.JPG
+  title: Estonský parlament
+
+- caption: Ten obraz z kamer je potřeba poslat rychle kabelem, když jde o prezidenta! :D
+  filename: '2021_08_30_19_11_54'
+  index: 15
+  original: 2021_08_30_19_11_54.JPG
+  sizes:
+  - 2021_08_30_19_11_54--4096x4096.JPG
+  - 2021_08_30_19_11_54--2048x2048.JPG
+  - 2021_08_30_19_11_54--1024x1024.JPG
+  thumbnail: 2021_08_30_19_11_54--thumbnail.JPG
+  title: Estonský parlament
+
+- caption: null
+  filename: '2021_08_30_19_13_10'
+  index: 16
+  original: 2021_08_30_19_13_10.JPG
+  sizes:
+  - 2021_08_30_19_13_10--4096x4096.JPG
+  - 2021_08_30_19_13_10--2048x2048.JPG
+  - 2021_08_30_19_13_10--1024x1024.JPG
+  thumbnail: 2021_08_30_19_13_10--thumbnail.JPG
+  title: null
+
+- caption: Legenda praví, že dánský král Valdemar II v místech dnešního Tallinnu dostával pěkně na prdel. Pak na bitevní pole spadla jakási vlajka, ne nepodobná té současné dánské a najednou ze jeho vojsku začalo dařit. No a shodou náhod je erb Tallinnu zrovna úplně stejný. :)
+  filename: '2021_08_30_19_16_14'
+  index: 17
+  original: 2021_08_30_19_16_14.JPG
+  sizes:
+  - 2021_08_30_19_16_14--4096x4096.JPG
+  - 2021_08_30_19_16_14--2048x2048.JPG
+  - 2021_08_30_19_16_14--1024x1024.JPG
+  thumbnail: 2021_08_30_19_16_14--thumbnail.JPG
+  title: Pohled ze Zahrady danského krále
+
+- caption: I v Tallinnu mají mrakodrapy!
+  filename: '2021_08_30_19_20_41'
+  index: 18
+  original: 2021_08_30_19_20_41.jpg
+  sizes:
+  - 2021_08_30_19_20_41--2048x2048.jpg
+  - 2021_08_30_19_20_41--1024x1024.jpg
+  thumbnail: 2021_08_30_19_20_41--thumbnail.jpg
+  title: Pohled ze Zahrady danského krále
+
+- caption: null
+  filename: '2021_08_30_19_29_32'
+  index: 19
+  original: 2021_08_30_19_29_32.JPG
+  sizes:
+  - 2021_08_30_19_29_32--4096x4096.JPG
+  - 2021_08_30_19_29_32--2048x2048.JPG
+  - 2021_08_30_19_29_32--1024x1024.JPG
+  thumbnail: 2021_08_30_19_29_32--thumbnail.JPG
+  title: null
+
+- caption: null
+  filename: '2021_08_30_19_48_40'
+  index: 20
+  original: 2021_08_30_19_48_40.JPG
+  sizes:
+  - 2021_08_30_19_48_40--4096x4096.JPG
+  - 2021_08_30_19_48_40--2048x2048.JPG
+  - 2021_08_30_19_48_40--1024x1024.JPG
+  thumbnail: 2021_08_30_19_48_40--thumbnail.JPG
+  title: Nejen Pražáci, ale i Ostraváci jezdí navštívit Tallinn!
+
+- caption: Celou cestu jsme se bavili fonetickými přepisy anglických a francouzských slov. Restoran je docela povedený. :D Jinak kohvik, neboli kavárna, je podle mě krásné útulné slovíčko!
+  filename: '2021_08_30_19_54_50'
+  index: 21
+  original: 2021_08_30_19_54_50.JPG
+  sizes:
+  - 2021_08_30_19_54_50--4096x4096.JPG
+  - 2021_08_30_19_54_50--2048x2048.JPG
+  - 2021_08_30_19_54_50--1024x1024.JPG
+  thumbnail: 2021_08_30_19_54_50--thumbnail.JPG
+  title: Restaurace v centru
+
+- caption: null
+  filename: '2021_08_30_19_58_00'
+  index: 22
+  original: 2021_08_30_19_58_00.JPG
+  sizes:
+  - 2021_08_30_19_58_00--4096x4096.JPG
+  - 2021_08_30_19_58_00--2048x2048.JPG
+  - 2021_08_30_19_58_00--1024x1024.JPG
+  thumbnail: 2021_08_30_19_58_00--thumbnail.JPG
+  title: Tallinnský Staromák
+
+- caption: null
+  filename: '2021_08_30_19_58_50'
+  index: 23
+  original: 2021_08_30_19_58_50.jpg
+  sizes:
+  - 2021_08_30_19_58_50--2048x2048.jpg
+  - 2021_08_30_19_58_50--1024x1024.jpg
+  thumbnail: 2021_08_30_19_58_50--thumbnail.jpg
+  title: Tallinnský Staromák
+
+- caption: null
+  filename: '2021_08_30_20_14_52'
+  index: 24
+  original: 2021_08_30_20_14_52.JPG
+  sizes:
+  - 2021_08_30_20_14_52--4096x4096.JPG
+  - 2021_08_30_20_14_52--2048x2048.JPG
+  - 2021_08_30_20_14_52--1024x1024.JPG
+  thumbnail: 2021_08_30_20_14_52--thumbnail.JPG
+  title: V centru měli jednu uličku, kterou lemovaly desky popisující historii Estonská.
+
+- caption: null
+  filename: '2021_08_31_10_00_56'
+  index: 25
+  original: 2021_08_31_10_00_56.jpg
+  sizes:
+  - 2021_08_31_10_00_56--2048x2048.jpg
+  - 2021_08_31_10_00_56--1024x1024.jpg
+  thumbnail: 2021_08_31_10_00_56--thumbnail.jpg
+  title: Luxusní snídaňka
+
+- caption: Tyhle baráky byly fůgl nové, ale krásně zapadaly mezi ty původní. Fakt pastva pro oči!
+  filename: '2021_08_31_10_19_04'
+  index: 26
+  original: 2021_08_31_10_19_04.jpg
+  sizes:
+  - 2021_08_31_10_19_04--2048x2048.jpg
+  - 2021_08_31_10_19_04--1024x1024.jpg
+  thumbnail: 2021_08_31_10_19_04--thumbnail.jpg
+  title: Novostavby v Tallinnu
+
+- caption: Estonci podle všeho absolutně nevidí cyklostezky. Člověk by ale čekal, že aspoň doktoři v práci by se nepřejet lidi mohli snažit.
+  filename: '2021_08_31_10_49_30'
+  index: 27
+  original: 2021_08_31_10_49_30.jpg
+  sizes:
+  - 2021_08_31_10_49_30--2048x2048.jpg
+  - 2021_08_31_10_49_30--1024x1024.jpg
+  thumbnail: 2021_08_31_10_49_30--thumbnail.jpg
+  title: Záchranka na kole
+
+- caption: Kufry před vstupem symbolizující všechny násilně deportované.
+  filename: '2021_08_31_10_53_04'
+  index: 28
+  original: 2021_08_31_10_53_04.JPG
+  sizes:
+  - 2021_08_31_10_53_04--4096x4096.JPG
+  - 2021_08_31_10_53_04--2048x2048.JPG
+  - 2021_08_31_10_53_04--1024x1024.JPG
+  thumbnail: 2021_08_31_10_53_04--thumbnail.JPG
+  title: Vabamu – muzeum okupace a svobody
+
+- caption: Velmi zajímavá architektura muzea
+  filename: '2021_08_31_10_54_54'
+  index: 29
+  original: 2021_08_31_10_54_54.JPG
+  sizes:
+  - 2021_08_31_10_54_54--4096x4096.JPG
+  - 2021_08_31_10_54_54--2048x2048.JPG
+  - 2021_08_31_10_54_54--1024x1024.JPG
+  thumbnail: 2021_08_31_10_54_54--thumbnail.JPG
+  title: Vabamu – muzeum okupace a svobody
+
+- caption: null
+  filename: '2021_08_31_11_36_26'
+  index: 30
+  original: 2021_08_31_11_36_26.JPG
+  sizes:
+  - 2021_08_31_11_36_26--4096x4096.JPG
+  - 2021_08_31_11_36_26--2048x2048.JPG
+  - 2021_08_31_11_36_26--1024x1024.JPG
+  thumbnail: 2021_08_31_11_36_26--thumbnail.JPG
+  title: Vabamu – muzeum okupace a svobody
+
+- caption: Jedna ze dvou dochovaných lodí, na kterých lidé urpchli do Švédska. Zatímco Finsko uprchlíky vracelo do SSSR, Švédi ne. Když na ně SSSR tlačil, aby jim vydali uprchlíky a lodě, na kterých se tam dostali, obdrželi jen zásilku lodí. :D
+  filename: '2021_08_31_12_16_59'
+  index: 31
+  original: 2021_08_31_12_16_59.jpg
+  sizes:
+  - 2021_08_31_12_16_59--2048x2048.jpg
+  - 2021_08_31_12_16_59--1024x1024.jpg
+  thumbnail: 2021_08_31_12_16_59--thumbnail.jpg
+  title: Vabamu – muzeum okupace a svobody
+
+- caption: Lidé byli deportování ve vagónech pro dobytek. Pokud se pozorně podívate na podlahu, můžete vidět stopy symbolizující množství lidí, kteří v takovém vagónu museli dlouhou dobu jet.
+  filename: '2021_08_31_12_17_17'
+  index: 32
+  original: 2021_08_31_12_17_17.jpg
+  sizes:
+  - 2021_08_31_12_17_17--2048x2048.jpg
+  - 2021_08_31_12_17_17--1024x1024.jpg
+  thumbnail: 2021_08_31_12_17_17--thumbnail.jpg
+  title: Vabamu – muzeum okupace a svobody
+
+- caption: Poctivé propagandy není nikdy dost
+  filename: '2021_08_31_12_23_03'
+  index: 33
+  original: 2021_08_31_12_23_03.jpg
+  sizes:
+  - 2021_08_31_12_23_03--2048x2048.jpg
+  - 2021_08_31_12_23_03--1024x1024.jpg
+  thumbnail: 2021_08_31_12_23_03--thumbnail.jpg
+  title: Vabamu – muzeum okupace a svobody
+
+- caption: Detail na jeden z vtipů
+  filename: '2021_08_31_13_05_17'
+  index: 34
+  original: 2021_08_31_13_05_17.jpg
+  sizes:
+  - 2021_08_31_13_05_17--2048x2048.jpg
+  - 2021_08_31_13_05_17--1024x1024.jpg
+  thumbnail: 2021_08_31_13_05_17--thumbnail.jpg
+  title: Vabamu – muzeum okupace a svobody
+
+- caption: Zeď vtipů I
+  filename: '2021_08_31_13_05_47'
+  index: 35
+  original: 2021_08_31_13_05_47.jpg
+  sizes:
+  - 2021_08_31_13_05_47--8192x8192.jpg
+  - 2021_08_31_13_05_47--4096x4096.jpg
+  - 2021_08_31_13_05_47--2048x2048.jpg
+  - 2021_08_31_13_05_47--1024x1024.jpg
+  thumbnail: 2021_08_31_13_05_47--thumbnail.jpg
+  title: Vabamu – muzeum okupace a svobody
+
+- caption: Zeď vtipů II
+  filename: '2021_08_31_13_07_34'
+  index: 36
+  original: 2021_08_31_13_07_34.jpg
+  sizes:
+  - 2021_08_31_13_07_34--8192x8192.jpg
+  - 2021_08_31_13_07_34--4096x4096.jpg
+  - 2021_08_31_13_07_34--2048x2048.jpg
+  - 2021_08_31_13_07_34--1024x1024.jpg
+  thumbnail: 2021_08_31_13_07_34--thumbnail.jpg
+  title: Vabamu – muzeum okupace a svobody
+
+- caption: Některým návštěvníkům bylo téma muzea blízké
+  filename: '2021_08_31_13_41_31'
+  index: 37
+  original: 2021_08_31_13_41_31.jpg
+  sizes:
+  - 2021_08_31_13_41_31--2048x2048.jpg
+  - 2021_08_31_13_41_31--1024x1024.jpg
+  thumbnail: 2021_08_31_13_41_31--thumbnail.jpg
+  title: Vabamu – muzeum okupace a svobody
+
+- caption: Krušovice za skoro 5 € byly předzvěst toho, co mě čekalo ve Finsku...    
+  filename: '2021_08_31_13_59_04'
+  index: 38
+  original: 2021_08_31_13_59_04.jpg
+  sizes:
+  - 2021_08_31_13_59_04--2048x2048.jpg
+  - 2021_08_31_13_59_04--1024x1024.jpg
+  thumbnail: 2021_08_31_13_59_04--thumbnail.jpg
+  title: Oběd v LIDU
+
+- caption: Je fakt že tahle hra je populární skoro všude, ale stejně mě to vždy potěší, vidět takhle někde českou stopu!
+  filename: '2021_08_31_15_02_21'
+  index: 39
+  original: 2021_08_31_15_02_21.jpg
+  sizes:
+  - 2021_08_31_15_02_21--2048x2048.jpg
+  - 2021_08_31_15_02_21--1024x1024.jpg
+  thumbnail: 2021_08_31_15_02_21--thumbnail.jpg
+  title: Krycí jména v obchodě!
+
+- caption: Tady vopravdu ale vopravdu teď nechoďte! Nebo dává mínus a mínus plus..? Nevím, co si s tím počít. :D
+  filename: '2021_08_31_15_45_51'
+  index: 40
+  original: 2021_08_31_15_45_51.jpg
+  sizes:
+  - 2021_08_31_15_45_51--2048x2048.jpg
+  - 2021_08_31_15_45_51--1024x1024.jpg
+  thumbnail: 2021_08_31_15_45_51--thumbnail.jpg
+  title: Semafor
+
+- caption: null
+  filename: '2021_08_31_16_13_20'
+  index: 41
+  original: 2021_08_31_16_13_20.JPG
+  sizes:
+  - 2021_08_31_16_13_20--4096x4096.JPG
+  - 2021_08_31_16_13_20--2048x2048.JPG
+  - 2021_08_31_16_13_20--1024x1024.JPG
+  thumbnail: 2021_08_31_16_13_20--thumbnail.JPG
+  title: YFU kancelář
+
+- caption: null
+  filename: '2021_09_01_13_02_07'
+  index: 57
+  original: 2021_09_01_13_02_07.jpg
+  sizes:
+  - 2021_09_01_13_02_07--1024x1024.jpg
+  thumbnail: 2021_09_01_13_02_07--thumbnail.jpg
+  title: YFU kancelář
+
+
+- caption: null
+  filename: '2021_08_31_16_43_12'
+  index: 42
+  original: 2021_08_31_16_43_12.jpg
+  sizes:
+  - 2021_08_31_16_43_12--2048x2048.jpg
+  - 2021_08_31_16_43_12--1024x1024.jpg
+  thumbnail: 2021_08_31_16_43_12--thumbnail.jpg
+  title: Moderní vlaky (takhle vypadají všechny)
+
+- caption: Oproti Lotyšsku ohromný rozdíl!
+  filename: '2021_08_31_16_45_08'
+  index: 43
+  original: 2021_08_31_16_45_08.jpg
+  sizes:
+  - 2021_08_31_16_45_08--2048x2048.jpg
+  - 2021_08_31_16_45_08--1024x1024.jpg
+  thumbnail: 2021_08_31_16_45_08--thumbnail.jpg
+  title: Vnitřek vlaku
+
+- caption: Restaurace sice s nosorožci nic společného neměla, ale stejně jim jeden visel venku na zdi! :D
+  filename: '2021_08_31_17_05_36'
+  index: 44
+  original: 2021_08_31_17_05_36.JPG
+  sizes:
+  - 2021_08_31_17_05_36--4096x4096.JPG
+  - 2021_08_31_17_05_36--2048x2048.JPG
+  - 2021_08_31_17_05_36--1024x1024.JPG
+  thumbnail: 2021_08_31_17_05_36--thumbnail.JPG
+  title: Nõmme
+
+- caption: null
+  filename: '2021_08_31_17_29_46'
+  index: 45
+  original: 2021_08_31_17_29_46.jpg
+  sizes:
+  - 2021_08_31_17_29_46--2048x2048.jpg
+  - 2021_08_31_17_29_46--1024x1024.jpg
+  thumbnail: 2021_08_31_17_29_46--thumbnail.jpg
+  title: Nõmme
+
+- caption: null
+  filename: '2021_08_31_17_33_06'
+  index: 46
+  original: 2021_08_31_17_33_06.JPG
+  sizes:
+  - 2021_08_31_17_33_06--4096x4096.JPG
+  - 2021_08_31_17_33_06--2048x2048.JPG
+  - 2021_08_31_17_33_06--1024x1024.JPG
+  thumbnail: 2021_08_31_17_33_06--thumbnail.JPG
+  title: Nõmme
+
+- caption: Když už v Tallinnu mají někde kopec, tak z něj samozřejmě udělají skokanský můstek, to dá rozum! :D
+  filename: '2021_08_31_18_02_00'
+  index: 48
+  original: 2021_08_31_18_02_00.jpg
+  sizes:
+  - 2021_08_31_18_02_00--2048x2048.jpg
+  - 2021_08_31_18_02_00--1024x1024.jpg
+  thumbnail: 2021_08_31_18_02_00--thumbnail.jpg
+  title: null
+
+- caption: Dům palem - momentálně už trochu rozpadlý a zakonzervovaný, ale kdysi je tu prý měli!
+  filename: '2021_08_31_18_19_34'
+  index: 49
+  original: 2021_08_31_18_19_34.JPG
+  sizes:
+  - 2021_08_31_18_19_34--4096x4096.JPG
+  - 2021_08_31_18_19_34--2048x2048.JPG
+  - 2021_08_31_18_19_34--1024x1024.JPG
+  thumbnail: 2021_08_31_18_19_34--thumbnail.JPG
+  title: Nõmme
+
+- caption: null
+  filename: '2021_08_31_18_20_26'
+  index: 50
+  original: 2021_08_31_18_20_26.JPG
+  sizes:
+  - 2021_08_31_18_20_26--4096x4096.JPG
+  - 2021_08_31_18_20_26--2048x2048.JPG
+  - 2021_08_31_18_20_26--1024x1024.JPG
+  thumbnail: 2021_08_31_18_20_26--thumbnail.JPG
+  title: Dům palem
+
+- caption: null
+  filename: '2021_08_31_18_22_52'
+  index: 51
+  original: 2021_08_31_18_22_52.JPG
+  sizes:
+  - 2021_08_31_18_22_52--4096x4096.JPG
+  - 2021_08_31_18_22_52--2048x2048.JPG
+  - 2021_08_31_18_22_52--1024x1024.JPG
+  thumbnail: 2021_08_31_18_22_52--thumbnail.JPG
+  title: Hrádek majitele Domu palem (Glehnův hrad)
+
+- caption: null
+  filename: '2021_08_31_18_28_42'
+  index: 52
+  original: 2021_08_31_18_28_42.JPG
+  sizes:
+  - 2021_08_31_18_28_42--4096x4096.JPG
+  - 2021_08_31_18_28_42--2048x2048.JPG
+  - 2021_08_31_18_28_42--1024x1024.JPG
+  thumbnail: 2021_08_31_18_28_42--thumbnail.JPG
+  title: Observatoř majitele Domu palem
+
+- caption: Toto je stále Nõmme ačkoliv to vypadá jako les. Na všechny strany je město.
+  filename: '2021_08_31_18_36_58'
+  index: 53
+  original: 2021_08_31_18_36_58.JPG
+  sizes:
+  - 2021_08_31_18_36_58--4096x4096.JPG
+  - 2021_08_31_18_36_58--2048x2048.JPG
+  - 2021_08_31_18_36_58--1024x1024.JPG
+  thumbnail: 2021_08_31_18_36_58--thumbnail.JPG
+  title: Nõmme
+
+- caption: I sprejeři jsou tu slušní a sprejují jen na nedůležitá místa, mapu nechají být! :D
+  filename: '2021_08_31_18_39_20'
+  index: 54
+  original: 2021_08_31_18_39_20.jpg
+  sizes:
+  - 2021_08_31_18_39_20--2048x2048.jpg
+  - 2021_08_31_18_39_20--1024x1024.jpg
+  thumbnail: 2021_08_31_18_39_20--thumbnail.jpg
+  title: Nõmme
+
+- caption: null
+  filename: '2021_09_01_11_34_38'
+  index: 55
+  original: 2021_09_01_11_34_38.jpg
+  sizes:
+  - 2021_09_01_11_34_38--2048x2048.jpg
+  - 2021_09_01_11_34_38--1024x1024.jpg
+  thumbnail: 2021_09_01_11_34_38--thumbnail.jpg
+  title: Přístav v Tallinnu
+
+- caption: Je potřeba nakoupit nějaké pití do Finska, dokud je to za rozumný peníz... V jedné ulici je tam hned několik velkoskladů s alkoholem, nápisy samozřejmě i ve finštině.
+  filename: '2021_09_01_11_57_25'
+  index: 56
+  original: 2021_09_01_11_57_25.jpg
+  sizes:
+  - 2021_09_01_11_57_25--2048x2048.jpg
+  - 2021_09_01_11_57_25--1024x1024.jpg
+  thumbnail: 2021_09_01_11_57_25--thumbnail.jpg
+  title: Přístav v Tallinnu
+
+
+- caption: V pozadí lze vidět poměrně hezké paneláky!
+  filename: '2021_09_01_13_23_23'
+  index: 58
+  original: 2021_09_01_13_23_23.jpg
+  sizes:
+  - 2021_09_01_13_23_23--8192x8192.jpg
+  - 2021_09_01_13_23_23--4096x4096.jpg
+  - 2021_09_01_13_23_23--2048x2048.jpg
+  - 2021_09_01_13_23_23--1024x1024.jpg
+  thumbnail: 2021_09_01_13_23_23--thumbnail.jpg
+  title: Tallinn
+
+- caption: null
+  filename: '2021_09_01_13_26_42'
+  index: 59
+  original: 2021_09_01_13_26_42.jpg
+  sizes:
+  - 2021_09_01_13_26_42--2048x2048.jpg
+  - 2021_09_01_13_26_42--1024x1024.jpg
+  thumbnail: 2021_09_01_13_26_42--thumbnail.jpg
+  title: Muzeum umění
+
+- caption: Památník ruské lodi (proto azbuka a pravoslavné symboly), která se potopila ve Finském zálivu
+  filename: '2021_09_01_13_41_15'
+  index: 60
+  original: 2021_09_01_13_41_15.jpg
+  sizes:
+  - 2021_09_01_13_41_15--2048x2048.jpg
+  - 2021_09_01_13_41_15--1024x1024.jpg
+  thumbnail: 2021_09_01_13_41_15--thumbnail.jpg
+  title: Památník Rusalky
+
+- caption: A lodě v pozadí!
+  filename: '2021_09_01_13_43_33'
+  index: 61
+  original: 2021_09_01_13_43_33.jpg
+  sizes:
+  - 2021_09_01_13_43_33--2048x2048.jpg
+  - 2021_09_01_13_43_33--1024x1024.jpg
+  thumbnail: 2021_09_01_13_43_33--thumbnail.jpg
+  title: Posezení na pláži

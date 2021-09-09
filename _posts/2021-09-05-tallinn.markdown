@@ -1,0 +1,54 @@
+---
+layout: post
+title: Kapesní metropole 21. století
+date: 2021-09-02 23:56:26 +0300
+img_folder: 04-tallinn
+description: 
+img: cover.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: []
+---
+Abyste nevypadli z formy, tento příspěvek opět začíná ještě v Lotyšsku, tak si ho šupajdite přečíst, pokud jste tak ještě neučinili! :D Navzdory zvyklostem ale tento příspěvek skončí příjezdem do Finska, neboť Tallinn byla naše poslední společná zastávka a končí tím tak tato minisérie. 
+
+Ráno jsme měli pomalé, což jsme si po hektických dnech v Polsku a Litvě náramně užívali. Paní jedoucí do Prahy (viz minulý příspěvek) bohužel v kavárně v pondělí nepracovala, a tak jsme se museli spokojit jen se skvělým čerstvým pečivem a kávou a odtud kousek tramvají zpět na autobusové nádraží (to se také stalo poprvé -- že jsme odjížděli ze stejného místa, kam jsme přijeli!). Existence jakéhosi informačního systému na nádraží byla po předchozích dvou zkušenostech též vítaná změna. Dokonce tam už autobus čekal 20 minut před odjezdem, to pro nás bylo naprosto nevídané Ani certifikát o očkování výjimečně nechtěli, všechno běželo jako na drátkách.
+
+Po čtyřech hodinách cesty, které jsem, jak jinak, věnoval tomuto blogu, jsme dorazili na krásné autobusové nádraží ve slunečném Tallinnu. Do našeho Airbnb jsme jeli krásnou tramvají s hyperrychlou Wi-Fi, což je pro mě Sci-Fi (asi ze mě bude básník!). Ani ne po pár minutách rozlýváním se nad rychlostí k nám přistoupila udýchaná Matilde. Ta byla s YFU na výměně v Česku (chudák skončila v Rumburku) před koronou.
+
+Naši prohlídku města jsme započali v obchodě, kde jsme po Matilde chtěli nějakou tour de supermarket, jako nám udělala Lena v Lotyšsku. Chudák Matilde vůbec netušila, co po ní chceme a zpětně se jí nedivím -- estonský obchod je výrazně podobnější tomu českému než lotyšský, takže jsme nic moc převratného neobjevili.
+
+Poté jsme se nabaštili na trávě v krásném parku pod hradem a udělali si procházku okolo hradu do centra města. Za její obsah asi nechám spíše mluvit fotky v galerii i mimo ní. Kromě budov, kterých jsme popravdě už za poslední týden viděli víc než dost, jsme se kochali dvěma věcmi:
+
+Zaprvé, jak bylo v Tallinnu vše krásné, citlivě rekonstruované či nové a zároveň k sobě vše tak nějak ladilo. Nevím, jestli tam mají schopnější památkáře než my v Praze nebo čím to je, ale určitě bychom si z nich měli vzít příklad (samozřejmě nejen v tom). Travnaté tramvajové pásy jsou krásně zelené, až si člověk skoro nevšimne, že tam nějaké koleje jsou, atd.
+
+Druhak jsme si s Marky užívali, že už zase tak nějak rozumíme nápisům a cedulím. Docela jsme se shodli, že vztah estonštiny k finštině je stejný jako češtiny k polštině -- nápisy docela jdou a když je nouze, tak se dorozumíte, ale jinak je lepší přepnout do angličtiny.
+
+{% assign filenames = "hrad.jpg, mrakodrapy.jpg" | split: ',' %}
+{% assign captions = "Výhled z centra (hradu), Mají tam i mrakodrapy!" | split: ',' %}
+{% include click_images.html filenames=filenames captions=captions %}
+
+Další den dopoledne jsme se vydali do Vabamu -- Muzea okupace a svobody. Nebylo by to Estonsko, aby muzeum nebylo hypermoderní a prošpikované technologiemi. Je fakt, že fičura audio průvodce, který se sám přepíná podle toho, kde člověk zrovna je, nebyla technicky úplně dotažená a ocenil bych spíš manuální ovládání. Také úvodní "dějepisný" panel, kde si člověk musel po jednom otevírat kousky puzzlí, které navíc během čtění měnily pozici, takže bylo těžké vychytat všechny, nebyl nejlepší. I když nutno připustit, že takhle nemuseli obětovat tolik místa textu (ten tam totiž nebyl skoro žádný) a bylo víc místa pro exponáty a "atmosféru".
+
+Na druhou stranu, vše ostatní bylo naprosto skvělé -- muzeum využívalo obrazovek k interaktivitě, která ale nebyla prvoplánová ("aby to bylo moderní"). Muzeum se také (kromě úvodního přehledu) nezakládalo tolik na tvrdých faktech, jako spíš na konkrétních příbězích lidí. To má podle mě mnohem větší sílu. Jako bonus bylo toto smutné téma odlehčeno dvěma zdmi plnýma vtipných vtipů -- když jsme tam šli, určitě jsme nečekali, že se budeme nahlas smát! Doporučuji si zajít do galerie a zazoomovat si na ně -- jsou všechny čitelné!
+
+{% assign filenames = "vabamu1.jpg, vabamu2.jpg" | split: ',' %}
+{% assign captions = "Vagón transportu na Sibiř, Propaganda" | split: ',' %}
+{% include click_images.html filenames=filenames captions=captions %}
+
+Poté jsme se sešli s Matilde a zašli jsme do místní pobočky YFU, kde jsme chvilku pobyli a kochali se naprosto nádhernými prostory. Estonské YFU je, zvláště k estonské populaci 1.3 M obyvatel, naprosto obrovské -- když nám jedna estonská dobrovolnice dělala prezentaci o jejich struktuře, vtipkovali jsme, že mají více pracovních skupin než my dobrovolníků.
+
+Odpoledne jsme jeli do Nõmme, předměstí Tallinnu, asi 10 min cesty vlakem vlakem z nádraží, kam jsme samozřejmě opět došli pěšky za pár minut, jako skoro všude. Asi už začíná být jasné, proč jsem zvolil název příspěvku, jaký jsem zvolil. :D  
+Nõmme rošku připomíná pražský Břevnov, jen je to samozřejmě placka a té zeleně je tam ještě více. Tam bych si dovolil představit žít! 
+
+V okolí jsme si zašli na procházku a poté jsme si zašli na estonský eintopf a čaj k Matilde domů, kde jsme si také popovídali s její maminkou. Pak už jsme je nechtěli rušit -- Matilde s námi přeci jen trávila odpoledne svých prvních dvou dnů na univerzitě, za což jsme jí nesmírně vděční. Tím se náš výlet blížil ke konci!
+
+{% assign filenames = "nomme.jpg, palm_house.jpg" | split: ',' %}
+{% assign captions = "Předměstí Nõmme, Dům palem" | split: ',' %}
+{% include click_images.html filenames=filenames captions=captions %}
+
+Ráno se se mnou Marky rozloučila a jela k letišti na snídani s jednou slovenskou dobrovolnicí, která v Tallinnu po ročním pobytu s YFU studuje univerzitu a já ještě chvilku chrupkal. Poté jsem sbalil saky paky a odjel jsem z posledního hezkého bydlení (a že bylo fakt pěkné!) na nějaký ten pátek.
+
+Trajekt mi odjížděl až v 17, takže jsem se tak sám potuloval po městě, procházel se po pobřeží a pak se nalodil. Tam jsem si hodil kufry do skřínky (fun fact: ten den jsem za skřínky měl platit 11 €, ale kvůli štěstí na technické vady jsem platil jen 5 €) a čekal na lodi. V Helsinkách na mě čekal Timi, kterého jsem měl na starost, když byl minulý semestr v Praze, a s ním tam čekala také jeho přítelkyně. Ještě štěstí, protože v Helsinkách příliš bezbariérové tramvaje nemají...
+
+Závěrem k Tallinnu: pokud byste chtěli vidět, jak by Praha (a potažmo Česko) mohla vypadat za pár let, pokud bychom neměli ve vládě zkorumpovaná nemehla, určitě se to Tallinnu (a potažmo Estonska) jeďte podívat! Lety už nejsou tak krásné jako do Rigy, ale určitě stojí za návštěvu -- mě naprosto uchvátil!
+
+{% include image-gallery.html gallery="04-tallinn-gallery" %}

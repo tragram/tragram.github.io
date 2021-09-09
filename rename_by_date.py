@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 
-folder_name = 'D:/tragram.github.io/assets/img/03-riga/gallery'
+folder_name = 'D:/tragram.github.io/assets/img/04-tallinn/gallery'
 dir_list = [os.path.join(folder_name, x) for x in os.listdir(folder_name)]
 JPG_timezone_correction=-1
 for file in dir_list:
