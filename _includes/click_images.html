@@ -4,9 +4,9 @@
 {% for i in (0..num)%}
 <div class="one-image">
 <p {% if include.caption_style %} style="{{include.caption_style}}" {% endif %}>{{include.captions[i] | strip}}</p>
-<a href="/assets/img/{{page.img_folder}}/{{include.filenames[i] | strip}}">
+<a target="_blank" href="/assets/img/{{page.img_folder}}/{{include.filenames[i] | strip}}">
     <img  
-        src="/assets/img/{{page.img_folder}}/{{include.filenames[i] | strip}}" 
+        src="/assets/img/{{page.img_folder}}/thumbnail--{{include.filenames[i] | strip}}" 
         alt="{{include.captions[i] | strip}}"
     >
 </a>
