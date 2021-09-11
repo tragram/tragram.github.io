@@ -29,8 +29,8 @@ Koleje jsem dal do úvozovek, protože oni tomu sice "dorms" říkají, ale jsou
 
 Je tu spousta nových budov, takže se tu Google Mapy nevyznají a snaží se člověka vést skrz budovy. Ale ani Open Street Maps (Mapy.cz) nejsou o moc lepší. Alespoň mají univerzitní appku s mapkami vnitřních prostorů, kde si člověk i zadarmo může rezervovat místnosti ke studiu. Zbývá jen doufat, že tato možnost vydrží celou dobu a covid nám ji nezkazí. Vláda tento týden oznámila, že po naočkování 80 % populace bude uvolňovat opatření nehledě na počtu případů.
 
-{% assign filenames = "kampus2.jpg, kampus3.jpg, kampus4.jpg, kampus5.jpg" | split: ',' %}
-{% assign captions = "Kampus, Kampus, I tohle je kampus, Nová budova umění a businessu" | split: ',' %}
+{% assign filenames = "kampus3.jpg, kampus4.jpg, kampus5.jpg" | split: ',' %}
+{% assign captions = "Kampus, I tohle je kampus, Nová budova umění a businessu" | split: ',' %}
 {% include click_images.html filenames=filenames captions=captions %}
 
 ### Počasí
