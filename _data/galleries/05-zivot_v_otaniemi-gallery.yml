@@ -1,0 +1,240 @@
+picture_folder: 05-zivot_v_otaniemi/gallery
+pictures:
+
+- caption: Na pivě po příjezdu
+  filename: '20210901_213209'
+  index: 1
+  original: 20210901_213209.jpg
+  sizes:
+  - 20210901_213209--2048x2048.jpg
+  - 20210901_213209--1024x1024.jpg
+  thumbnail: 20210901_213209--thumbnail.jpg
+  title: Toto bylo zatím mé jediné pivo v hospodě ve Finsku. V kampusu jsou sice dva pivovary, ale za 9 € za velké pivo si člověk moc často nezajde...
+
+- caption: null
+  filename: '20210901_235528'
+  index: 2
+  original: 20210901_235528.jpg
+  sizes:
+  - 20210901_235528--2048x2048.jpg
+  - 20210901_235528--1024x1024.jpg
+  thumbnail: 20210901_235528--thumbnail.jpg
+  title: Sprchy v hostelu
+
+- caption: null
+  filename: '20210902_094440'
+  index: 3
+  original: 20210902_094440.jpg
+  sizes:
+  - 20210902_094440--2048x2048.jpg
+  - 20210902_094440--1024x1024.jpg
+  thumbnail: 20210902_094440--thumbnail.jpg
+  title: Budova v kampusu
+
+- caption: null
+  filename: '20210902_095012'
+  index: 4
+  original: 20210902_095012.jpg
+  sizes:
+  - 20210902_095012--2048x2048.jpg
+  - 20210902_095012--1024x1024.jpg
+  thumbnail: 20210902_095012--thumbnail.jpg
+  title: Kampus
+
+- caption: null
+  filename: '20210902_101508'
+  index: 5
+  original: 20210902_101508.jpg
+  sizes:
+  - 20210902_101508--2048x2048.jpg
+  - 20210902_101508--1024x1024.jpg
+  thumbnail: 20210902_101508--thumbnail.jpg
+  title: Husy are the new holuby!
+
+- caption: Ano, i tohle je kampus! Skutečně to příliš město nepřipomíná...
+  filename: '20210902_141652'
+  index: 6
+  original: 20210902_141652.jpg
+  sizes:
+  - 20210902_141652--2048x2048.jpg
+  - 20210902_141652--1024x1024.jpg
+  thumbnail: 20210902_141652--thumbnail.jpg
+  title: Kampus
+
+- caption: Jedna z hlavních (a největších) budov kampusu zvenku poslouží jako amfitéatr.
+  filename: '20210902_144341'
+  index: 7
+  original: 20210902_144341.jpg
+  sizes:
+  - 20210902_144341--2048x2048.jpg
+  - 20210902_144341--1024x1024.jpg
+  thumbnail: 20210902_144341--thumbnail.jpg
+  title: Undergraduate center
+
+- caption: null
+  filename: '20210902_144825'
+  index: 8
+  original: 20210902_144825.jpg
+  sizes:
+  - 20210902_144825--2048x2048.jpg
+  - 20210902_144825--1024x1024.jpg
+  thumbnail: 20210902_144825--thumbnail.jpg
+  title: Designová stanice metra Aalto
+
+- caption: Z nějakého důvodu je to normální mít dvě matrace. Prý to je kvůli snadné modularitě a taky tomu, že když něco v posteli rozlijete, tak je jednodušší to vyčistit. Ale ta vrchní matrace sjíždí z postele, takže mi to moc nevyhovuje...
+  filename: '20210902_152630'
+  index: 9
+  original: 20210902_152630.jpg
+  sizes:
+  - 20210902_152630--2048x2048.jpg
+  - 20210902_152630--1024x1024.jpg
+  thumbnail: 20210902_152630--thumbnail.jpg
+  title: Postel v IKEA
+
+- caption: Je to tu velká samoobsluha, v porovnání s menzami ČVUT.
+  filename: '20210903_133707'
+  index: 10
+  original: 20210903_133707.jpg
+  sizes:
+  - 20210903_133707--2048x2048.jpg
+  - 20210903_133707--1024x1024.jpg
+  thumbnail: 20210903_133707--thumbnail.jpg
+  title: Menza
+
+- caption: null
+  filename: '20210903_134556'
+  index: 11
+  original: 20210903_134556.jpg
+  sizes:
+  - 20210903_134556--2048x2048.jpg
+  - 20210903_134556--1024x1024.jpg
+  thumbnail: 20210903_134556--thumbnail.jpg
+  title: Cesta po pobřeží
+
+- caption: null
+  filename: '20210903_135023'
+  index: 12
+  original: 20210903_135023.jpg
+  sizes:
+  - 20210903_135023--2048x2048.jpg
+  - 20210903_135023--1024x1024.jpg
+  thumbnail: 20210903_135023--thumbnail.jpg
+  title: Výhled na záliv
+
+- caption: Je fajn, že většina vagonů je propojená.
+  filename: '20210903_142421'
+  index: 13
+  original: 20210903_142421.jpg
+  sizes:
+  - 20210903_142421--2048x2048.jpg
+  - 20210903_142421--1024x1024.jpg
+  thumbnail: 20210903_142421--thumbnail.jpg
+  title: Metro v Helsinkách
+
+- caption: Až po pár dnech jsem zjistil, že labuť je plastová a nerozšiřuje tak místní faunu.
+  filename: '20210904_135004'
+  index: 14
+  original: 20210904_135004.jpg
+  sizes:
+  - 20210904_135004--2048x2048.jpg
+  - 20210904_135004--1024x1024.jpg
+  thumbnail: 20210904_135004--thumbnail.jpg
+  title: Labuť na kolejích
+
+- caption: Docela vtipné, že Plzeň stojí stejně jako Kozel.
+  filename: '20210905_153244'
+  index: 15
+  original: 20210905_153244.jpg
+  sizes:
+  - 20210905_153244--2048x2048.jpg
+  - 20210905_153244--1024x1024.jpg
+  thumbnail: 20210905_153244--thumbnail.jpg
+  title: Česká piva v supermarketu
+
+- caption: Zrovna tahle uzavírka táhnoucí se skrz celou hlavní část kampusu mě docela sejří... Člověk to furt musí obcházet.
+  filename: '20210907_121822'
+  index: 16
+  original: 20210907_121822.jpg
+  sizes:
+  - 20210907_121822--2048x2048.jpg
+  - 20210907_121822--1024x1024.jpg
+  thumbnail: 20210907_121822--thumbnail.jpg
+  title: Kampus
+
+- caption: Trošku jiná liga než v Praze, nu
+  filename: '20210907_135057'
+  index: 17
+  original: 20210907_135057.jpg
+  sizes:
+  - 20210907_135057--2048x2048.jpg
+  - 20210907_135057--1024x1024.jpg
+  thumbnail: 20210907_135057--thumbnail.jpg
+  title: Vnitřní prostory školy
+
+- caption: null
+  filename: '20210907_225900'
+  index: 19
+  original: 20210907_225900.jpg
+  sizes:
+  - 20210907_225900--2048x2048.jpg
+  - 20210907_225900--1024x1024.jpg
+  thumbnail: 20210907_225900--thumbnail.jpg
+  title: Zajíc v noci
+
+- caption: Místy je to tu fakt ošklivé. Ty přechody asfaltu, to je tu často neskutečná fušeřina a vypadá to, jako kdyby to dělali poprvé v životě.
+  filename: '20210909_121832'
+  index: 20
+  original: 20210909_121832.jpg
+  sizes:
+  - 20210909_121832--2048x2048.jpg
+  - 20210909_121832--1024x1024.jpg
+  thumbnail: 20210909_121832--thumbnail.jpg
+  title: Kampus
+
+- caption: null
+  filename: '20210910_161811'
+  index: 21
+  original: 20210910_161811.jpg
+  sizes:
+  - 20210910_161811--2048x2048.jpg
+  - 20210910_161811--1024x1024.jpg
+  thumbnail: 20210910_161811--thumbnail.jpg
+  title: Hostel
+
+- caption: null
+  filename: '20210910_172328'
+  index: 22
+  original: 20210910_172328.jpg
+  sizes:
+  - 20210910_172328--2048x2048.jpg
+  - 20210910_172328--1024x1024.jpg
+  thumbnail: 20210910_172328--thumbnail.jpg
+  title: Teekkarikylä (JMT)
+
+- caption: null
+  filename: '20210910_172424'
+  index: 23
+  original: 20210910_172424.jpg
+  sizes:
+  - 20210910_172424--2048x2048.jpg
+  - 20210910_172424--1024x1024.jpg
+  thumbnail: 20210910_172424--thumbnail.jpg
+  title: Teemu Teekkari (Student technologie Teemu)
+
+- caption: Naše budoucí bydliště!
+  filename: '20210907_190431'
+  index: 18
+  original: 20210907_190431.jpg
+  sizes:
+  - 20210907_190431--2048x2048.jpg
+  - 20210907_190431--1024x1024.jpg
+  thumbnail: 20210907_190431--thumbnail.jpg
+  title: SMT6
+
+- caption: null
+  filename: ayy
+  index: 24
+  original: ayy.jpg
+  sizes: []
+  thumbnail: ayy--thumbnail.jpg
+  title: Plánek našeho budoucího bytečku!
