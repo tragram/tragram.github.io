@@ -1265,13 +1265,30 @@ footer .copyright {
   .post .post-content {
     border-top: none;
   }
+
+  .youtube-video{
+    width: 100% !important;
+    height:300px !important;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .youtube-video{
+    width: 100% !important;
+    height:200px !important;
+  }
 }
 
 @media only screen and (min-width: 992px) {
   .post .post-content {
     border-left: none;
   }
+
+  .youtube-video{
+    width: 80% !important;
+    height:400px !important;
+  }
 }
+
 
 .post .post-content .post-date, .post .post-content .post-words {
   font-size: 12px;

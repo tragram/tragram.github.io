@@ -1,0 +1,273 @@
+picture_folder: 06-teekkari_kultura/gallery
+pictures:
+- caption: "Tohle je p\u0159ed moj\xEDm prvn\xEDm setk\xE1n\xEDm se s k\xFDmkoliv."
+  filename: '20210904_140701'
+  index: 1
+  original: 20210904_140701.jpg
+  sizes:
+  - 20210904_140701--2048x2048.jpg
+  - 20210904_140701--1024x1024.jpg
+  thumbnail: 20210904_140701--thumbnail.jpg
+  title: Headstart 4.9.
+- caption: "Ten kruh byl fakt obrovsk\xFD!"
+  filename: '20210904_143439'
+  index: 2
+  original: 20210904_143439.jpg
+  sizes:
+  - 20210904_143439--2048x2048.jpg
+  - 20210904_143439--1024x1024.jpg
+  thumbnail: 20210904_143439--thumbnail.jpg
+  title: Headstart 4.9.
+- caption: null
+  filename: '20210904_190750'
+  index: 3
+  original: 20210904_190750.jpg
+  sizes:
+  - 20210904_190750--2048x2048.jpg
+  - 20210904_190750--1024x1024.jpg
+  thumbnail: 20210904_190750--thumbnail.jpg
+  title: Headstart 4.9.
+- caption: "Star\u0161\xED studenti d\u011Blali ma\u0161inku."
+  filename: '20210904_191640'
+  index: 4
+  original: 20210904_191640.jpg
+  sizes:
+  - 20210904_191640--2048x2048.jpg
+  - 20210904_191640--1024x1024.jpg
+  thumbnail: 20210904_191640--thumbnail.jpg
+  title: Headstart 4.9.
+- caption: "Je libo podl\xE9z\xE1n\xED pod ty\u010D\xED?"
+  filename: '20210904_191650'
+  index: 5
+  original: 20210904_191650.jpg
+  sizes:
+  - 20210904_191650--2048x2048.jpg
+  - 20210904_191650--1024x1024.jpg
+  thumbnail: 20210904_191650--thumbnail.jpg
+  title: Headstart 4.9.
+- caption: "Ani tady jsme se testu nevyhli, a\u010Dkoliv jsme o\u010Dkov\xE1n\xED\
+    . Ale zase to byla akce pro tolik lid\xED, \u017Ee by se o t\xFDden d\u0159\xED\
+    ve ani nesm\u011Bla konat, tak\u017Ee jeden test\xEDk se snese..."
+  filename: '20210906_141741'
+  index: 6
+  original: 20210906_141741.jpg
+  sizes:
+  - 20210906_141741--2048x2048.jpg
+  - 20210906_141741--1024x1024.jpg
+  thumbnail: 20210906_141741--thumbnail.jpg
+  title: "Pond\u011Bl\xED 6.9."
+- caption: "\u010Cek\xE1n\xED na autobus v Otaniemi"
+  filename: '20210906_155521'
+  index: 7
+  original: 20210906_155521.jpg
+  sizes:
+  - 20210906_155521--2048x2048.jpg
+  - 20210906_155521--1024x1024.jpg
+  thumbnail: 20210906_155521--thumbnail.jpg
+  title: Kiljava
+- caption: "Vyb\xEDr\xE1n\xED pen\u011Bz a autobuse. Finov\xE9 v\u0161ichni pou\u017E\
+    \xEDvaj\xED appku (d\xE1 se t\xEDm platit i t\u0159eba v automatu na colu), ale\
+    \ ta bez finsk\xE9ho \u010D\xEDsla nefunguje. To abych d\xE1le dokresloval, jak\
+    \ je to tu v mnoha ohledech nep\u0159\xE1telsk\xE9 v\u016F\u010Di cizinc\u016F\
+    m."
+  filename: '20210906_162657'
+  index: 8
+  original: 20210906_162657.jpg
+  sizes:
+  - 20210906_162657--2048x2048.jpg
+  - 20210906_162657--1024x1024.jpg
+  thumbnail: 20210906_162657--thumbnail.jpg
+  title: Kiljava
+- caption: "Dokonce n\xE1m dali naj\xEDst!"
+  filename: '20210906_174957'
+  index: 9
+  original: 20210906_174957.jpg
+  sizes:
+  - 20210906_174957--2048x2048.jpg
+  - 20210906_174957--1024x1024.jpg
+  thumbnail: 20210906_174957--thumbnail.jpg
+  title: Kiljava
+- caption: "Kone\u010Dn\u011B n\u011Bjak\xE9 studenstsk\xE9 ceny! Jsou sice dra\u017E\
+    \u0161\xED ne\u017E v Estonsku, ale mysl\xEDm, \u017Ee ta mar\u017Ee tak akor\xE1\
+    t pokryje n\xE1klady na trajekt a benz\xEDn do dod\xE1vky (voz\xED se po 100 balen\xED\
+    ch, aby nebyla dod\xE1vka moc t\u011B\u017Ek\xE1)."
+  filename: '20210906_191414'
+  index: 10
+  original: 20210906_191414.jpg
+  sizes:
+  - 20210906_191414--2048x2048.jpg
+  - 20210906_191414--1024x1024.jpg
+  thumbnail: 20210906_191414--thumbnail.jpg
+  title: Kiljava
+- caption: "Z\xE1pad slunce nad jezerem."
+  filename: '20210906_201455'
+  index: 11
+  original: 20210906_201455.jpg
+  sizes:
+  - 20210906_201455--2048x2048.jpg
+  - 20210906_201455--1024x1024.jpg
+  thumbnail: 20210906_201455--thumbnail.jpg
+  title: Kiljava
+- caption: "Star\u0161\xED studenti sleduj\xEDc\xED p\u0159edstaven\xED - m\u011B\
+    li jsme p\u0159edstaven\xED tane\u010Dn\xEDho souboru gildy."
+  filename: '20210906_223844'
+  index: 12
+  original: 20210906_223844.jpg
+  sizes:
+  - 20210906_223844--2048x2048.jpg
+  - 20210906_223844--1024x1024.jpg
+  thumbnail: 20210906_223844--thumbnail.jpg
+  title: Kiljava
+- caption: "Kdo zlob\xED, bude potrest\xE1n!"
+  filename: '20210906_231620'
+  index: 13
+  original: 20210906_231620.jpg
+  sizes:
+  - 20210906_231620--2048x2048.jpg
+  - 20210906_231620--1024x1024.jpg
+  thumbnail: 20210906_231620--thumbnail.jpg
+  title: Kiljava
+- caption: "Sout\u011B\u017E spo\u010D\xEDv\xE1 v tom, \u017Ee m\xE1te v jedn\xE9\
+    \ ruce plechovku s perliv\xFDm n\xE1pojem (typicky pivo \u010Di limon\xE1da).\
+    \ Dokud ji nevypijete, m\u016F\u017Eete tahat jen jednou rukou. Nen\xED to tedy\
+    \ jen o s\xEDle, ale tak\xE9 o schopnosti p\xEDt perliv\xE9 n\xE1poje. :D"
+  filename: '20210906_232946'
+  index: 14
+  original: 20210906_232946.jpg
+  sizes:
+  - 20210906_232946--2048x2048.jpg
+  - 20210906_232946--1024x1024.jpg
+  thumbnail: 20210906_232946--thumbnail.jpg
+  title: "Akademick\xE1 p\u0159etahovan\xE1"
+- caption: "Tento traktor jste mohli vid\u011Bt v p\u0159\xEDsp\u011Bvku ve videu,\
+    \ jak se se studenty p\u0159etahuje."
+  filename: '20210907_171818'
+  index: 15
+  original: 20210907_171818.jpg
+  sizes:
+  - 20210907_171818--2048x2048.jpg
+  - 20210907_171818--1024x1024.jpg
+  thumbnail: 20210907_171818--thumbnail.jpg
+  title: "Stroja\u0159i a jejich traktor"
+- caption: "Gilda m\xE1 velmi prakticky situovan\xE9 prostory vedle v\u011Bt\u0161\
+    iny m\xEDst pro samostudium. V norm\xE1ln\xEDch \u010Dasech si tam \u010Dlov\u011B\
+    k m\u016F\u017Ee zaj\xEDt zahr\xE1t na Nintendu \u010Di na k\xE1vu. Na fotce n\xE1\
+    m v r\xE1mci punktovky \u0161\xE9fka gildy d\u011Bl\xE1 pala\u010Dinky, abychom\
+    \ m\u011Bli energii."
+  filename: '20210907_180956'
+  index: 16
+  original: 20210907_180956.jpg
+  sizes:
+  - 20210907_180956--2048x2048.jpg
+  - 20210907_180956--1024x1024.jpg
+  thumbnail: 20210907_180956--thumbnail.jpg
+  title: "P\u0159ed prostorami gildy"
+- caption: "Je to strom, ale tak tro\u0161ku upraven\xFD - je mo\u017En\xE9 ho naplnit\
+    \ libovolnou tekutinou, kter\xE1 pak te\u010De z kohoutku!"
+  filename: '20210907_181605'
+  index: 17
+  original: 20210907_181605.jpg
+  sizes:
+  - 20210907_181605--2048x2048.jpg
+  - 20210907_181605--1024x1024.jpg
+  thumbnail: 20210907_181605--thumbnail.jpg
+  title: "P\u0159ed prostorami gildy"
+- caption: "Jeden z bod\u016F punktovky - slacklina. Samotn\xE9 \xFAkoly byly snadn\xE9\
+    , hlavn\xED bylo toti\u017E poznat kampus. Bodov\xE1n\xED nebylo od v\xFDkonu,\
+    \ ale od schopnosti smlouvat."
+  filename: '20210907_181852'
+  index: 18
+  original: 20210907_181852.jpg
+  sizes:
+  - 20210907_181852--2048x2048.jpg
+  - 20210907_181852--1024x1024.jpg
+  thumbnail: 20210907_181852--thumbnail.jpg
+  title: "P\u0159ed prostorami gildy"
+- caption: "Fronta na letn\xED kino. Krom\u011B filmu \u010Dlov\u011Bk za vstupn\xE9\
+    \ dostal i popcorn a odzn\xE1\u010Dek na overal."
+  filename: '20210908_180438'
+  index: 19
+  original: 20210908_180438.jpg
+  sizes:
+  - 20210908_180438--2048x2048.jpg
+  - 20210908_180438--1024x1024.jpg
+  thumbnail: 20210908_180438--thumbnail.jpg
+  title: Kaukkarit
+- caption: "Tabulka m\u011B\u0159\xEDc\xED jak kvalitn\xED zvuk budete m\xEDt v naslouch\xE1\
+    tku."
+  filename: '20210909_130539'
+  index: 20
+  original: 20210909_130539.jpg
+  sizes:
+  - 20210909_130539--2048x2048.jpg
+  - 20210909_130539--1024x1024.jpg
+  thumbnail: 20210909_130539--thumbnail.jpg
+  title: "Posluch\xE1rna"
+- caption: "Bohu\u017Eel jsem saunu nezachytil z \xFAhlu, kde jde vid\u011Bt, jak\
+    \ malink\xE1 doopravdy byla."
+  filename: '20210909_185627'
+  index: 21
+  original: 20210909_185627.jpg
+  sizes:
+  - 20210909_185627--2048x2048.jpg
+  - 20210909_185627--1024x1024.jpg
+  thumbnail: 20210909_185627--thumbnail.jpg
+  title: "Poj\xEDzdn\xE1 sauna s p\u0159evl\xE9k\xE1rnou"
+- caption: "Elektrotechni\u010Dt\xED prv\xE1ci proti t\u011Bm stroja\u0159sk\xFDm.\
+    \ T\u011Bch druh\xFDch je moment\xE1ln\u011B 150 oproti 100, tak\u017Ee to nen\xED\
+    \ \xFApln\u011B f\xE9r. Tradice ale vznikla v dob\u011B, kdy bylo prv\xE1k\u016F\
+    \ podobn\u011B."
+  filename: '20210910_153638'
+  index: 22
+  original: 20210910_153638.jpg
+  sizes:
+  - 20210910_153638--2048x2048.jpg
+  - 20210910_153638--1024x1024.jpg
+  thumbnail: 20210910_153638--thumbnail.jpg
+  title: "P\u0159etahovan\xE1"
+- caption: null
+  filename: '20210910_155756'
+  index: 23
+  original: 20210910_155756.jpg
+  sizes:
+  - 20210910_155756--2048x2048.jpg
+  - 20210910_155756--1024x1024.jpg
+  thumbnail: 20210910_155756--thumbnail.jpg
+  title: "Stroja\u0159i proti traktoru"
+- caption: null
+  filename: '20210910_174846'
+  index: 24
+  original: 20210910_174846.jpg
+  sizes:
+  - 20210910_174846--2048x2048.jpg
+  - 20210910_174846--1024x1024.jpg
+  thumbnail: 20210910_174846--thumbnail.jpg
+  title: Karaoke a beerpong
+- caption: "Jedn\xE1 se o moc dobr\xE9 sko\u0159icov\xE9 \u0161neky!"
+  filename: '20210910_183859'
+  index: 25
+  original: 20210910_183859.jpg
+  sizes:
+  - 20210910_183859--2048x2048.jpg
+  - 20210910_183859--1024x1024.jpg
+  thumbnail: 20210910_183859--thumbnail.jpg
+  title: "Dom\xE1c\xED pullat"
+- caption: To jsme si tak leželi na silnici a skandovali a okolo nás chodili s barely plnými tekutiny (alko/nealko, podle toho, kterým směrem si člověk lehnul) a lili nám to převážně do pusy, ale z výšky, takže spíš na celý obličej. :D
+  filename: IMG_20210911_134555_148
+  index: 27
+  original: IMG_20210911_134555_148.jpg
+  sizes:
+  - IMG_20210911_134555_148--2048x2048.jpg
+  - IMG_20210911_134555_148--1024x1024.jpg
+  thumbnail: IMG_20210911_134555_148--thumbnail.jpg
+  title: Závěr pátku
+- caption: null
+  filename: '20210912_183806'
+  index: 26
+  original: 20210912_183806.png
+  sizes:
+  - 20210912_183806--2048x2048.png
+  - 20210912_183806--1024x1024.png
+  thumbnail: 20210912_183806--thumbnail.png
+  title: "Ob\u011B strany karti\u010Dky pro z\xEDsk\xE1n\xED \u010Depi\u010Dky"
+
