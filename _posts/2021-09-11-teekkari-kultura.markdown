@@ -66,7 +66,7 @@ V rámci uplynulého týdne jsme měli také jeden den relax -- po obědě jsme 
 
 Přestože se mi několik Finů dušovalo, že do sauny jedině jak nás panbu stvořil, tady měli všichni plavky. Když jsme o tom diskutovali déle, tak jsem se dozvěděl, že sauna je typicky rodinná záležitost, kde nahota nevadí. A jelikož toto byli čerství absolventi středních škol, s cizími lidmi ještě v sauně často nebyli (leda s blízkými přáteli někde na chatě). Ale to se prý po chvíli na VŠ spraví, tak uvidíme. :D
 
-I navzdory plavkám mám ale pocit, že by to průměrný český středoškolák nedal -- přecijen to bylo přes 20 převážně chlapců, kteří se hodně dotýkali velmi zpocenými těli. To by si přeci v Česku kdekdo mohl vyložit jako příliš "teplé" uspořádání. Tady to ale tak vnímané naštěstí není. Když jsem to tam zmínil, padlo krásné anglické slovo "wholesome" (ve slovníku jsem vhodný český překlad nenašel), se kterým se v tomto kontextu ztotožňuji!
+I navzdory plavkám mám ale pocit, že by to průměrný český středoškolák nedal -- přecijen to bylo přes 20 převážně chlapců, kteří se hodně dotýkali velmi zpocenými těly. To by si přeci v Česku kdekdo mohl vyložit jako příliš "teplé" uspořádání. Tady to ale tak vnímané naštěstí není. Když jsem to tam zmínil, padlo krásné anglické slovo "wholesome" (ve slovníku jsem vhodný český překlad nenašel), se kterým se v tomto kontextu ztotožňuji!
 
 {% assign filenames = "karaoke.jpg, sauna.jpg" | split: ',' %}
 {% assign captions = "Karaoke a beerpong, Pojízdná sauna" | split: ',' %}
