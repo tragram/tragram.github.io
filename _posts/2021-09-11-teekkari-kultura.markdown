@@ -43,8 +43,8 @@ Začali jsme v sobotu 4.9., kde se sešli všichni prváci. A jen za naši gildu
 
 Na další dny už nás ale většinou od bakalářských prváků oddělili a i nás rozdělili do tří skupin, přičemž každá měla své přidělené "VELKÉ" (BIGs/ISOt), což jsou jakýsi tutoři z řad těch zkušenějších studentů. Ti nám dělali doprovod např. v punktovkách po kampusu. Jelikož oficiálně byl tento týden online a všechny školní přenosy byly přes Zoom aj., zarezervovali nám posluchárny a chodili jsme se koukat na ty streamy fyzicky do školy, což bylo super.
 
-U těch přenosů bych chtěl vyzvihnout naprosto neuvěřitelně vysokou produkční kvalitu. U těch důležitějších, kde mluvilo více hostů, měli normálně profesionální studio (v kampusu), moderátory, střihače, prostě úplně na jiné úrovni, než jsem zvyklý. Mrkněte např. na projev prezidenta Aalto při této příležitosti:
-{%include youtube.html link="https://www.youtube.com/embed/CFQOiqMQ9Rw?start=229"%}
+U těch přenosů bych chtěl vyzvihnout naprosto neuvěřitelně vysokou produkční kvalitu. U těch důležitějších, kde mluvilo více hostů, měli normálně profesionální studio (v kampusu), moderátory, střihače, prostě úplně na jiné úrovni, než jsem zvyklý. Mrkněte např. na propagační video, ale i na jiné části (abyste viděli to studia a tak):
+{%include youtube.html link="https://www.youtube.com/embed/CFQOiqMQ9Rw?start=1597"%}
 
 Jako jednu z hlavních akcí za poslední týden byla cesta do Kiljavy -- vyzvedlo nás 6 dálkových autobusů a jeli jsme asi hodinu na sever od Helsinek, kde jsme opět hráli různé hry. Mimo jiné jsme tam nafasovali kartičku na sbírání bodů pro čepičku, zazpívali si tradiční půlnoční hymnu a zhlédli pár rituálů. Trochu jsem se před příjezdem bál, že bude vše anglicky a já si nebudu moct procvičovat finštinu. Tak to jsem byl rychle vyveden z omylu -- ačkoliv se snaží většinu věcí říct finsky i anglicky (pro mě ideální), např. ceremoniál Maltézských rytířů byl jen finsky. Konečně pocit zadostiučení, protože po těch 400 hodinách studia finšiny jsou převážně rozuměl (mluvili pomalu a zřetelně).
 
