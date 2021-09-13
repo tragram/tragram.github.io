@@ -85,7 +85,7 @@ Jsou tu jakž takž zařízené kuchyňky (ale ne u nás na patře), prádelna a
 {% assign captions = "Fotky z hostelu" | split: ',' %}
 {% include click_images.html filenames=filenames captions=captions %}
 
-Ale není všem dnům konec, v pondělí odpoledne nám konečně přišla nabídka na byt ze studentské unie. Jedná se o dva neprůchozí pokoje s balkonem, koupelnou a kuchyňkou na chodbě (viz plánek v galerii), celkem 40 m^2 za 470 €/měsíc. Je to to nejmenší, co jsme dostat mohli, ale zase je to opravdu levné a stále je to násobně větší než naše současné ubytování. Nachází se to v klidnější části Teekkarikylä, Servin Maijan Tie 6, neboli SMT6 -- názvy ulic tu mají douhé a zmiňují se tak často, že ty dvě nejčastější už se nazývají jen SMT a JMT, celé jméno jsem nikdy nikoho neslyšel říct ani neviděl napsat. :D
+Ale není všem dnům konec, v pondělí odpoledne nám konečně přišla nabídka  (s ubytováním od října) na byt ze studentské unie. Jedná se o dva neprůchozí pokoje s balkonem, koupelnou a kuchyňkou na chodbě (viz plánek v galerii), celkem 40 m^2 za 470 €/měsíc. Je to to nejmenší, co jsme dostat mohli, ale zase je to opravdu levné a stále je to násobně větší než naše současné ubytování. Nachází se to v klidnější části Teekkarikylä, Servin Maijan Tie 6, neboli SMT6 -- názvy ulic tu mají douhé a zmiňují se tak často, že ty dvě nejčastější už se nazývají jen SMT a JMT, celé jméno jsem nikdy nikoho neslyšel říct ani neviděl napsat. :D
 
 {% assign filenames = "teekkarikyla.jpg" | split: ',' %}
 {% assign captions = "Teekkarikylä" | split: ',' %}
