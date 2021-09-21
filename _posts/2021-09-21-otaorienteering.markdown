@@ -16,4 +16,6 @@ Spolky jsou tu více "závazné" -- abyste se mohli účastnit aktivit, platíte
 
 Asi nejbizarnější tam byl spolek přátel jezení mražené pizzy -- na jejich stanovišti každá skupina (bylo to organizované i kvůli covidu po skupinách) musela odhadnout, za jak dlouho každý stihne sníst jednu mraženou pizzu. My jsme se sice šeredně netrefili (místo 3 minut jsme ji jedli skoro 5 minut, přičemž nejlepší měli chybu odhadu jen pár sekund), ale aspoň jsme se najedli. Tento klub vznikl prý jako meme -- ze srandy zkusili napsat výrobci těchto populárních mražených pizz, že bych tohle chtěli dělat a jestli by jim PR neposlalo nějaké pizzy zdarma. No a tak měli pár set mražených pizz zdarma. :D To si taky v Česku nedovedu moc představit...
 
+Na závěr lze říct, že se tu opravdu nenudím. Hodně úkolů a tolik zajímavých akcí, že si člověk musí vybírat. Počasí nám stále přeje, a tak navzdory zimě (stále okolo 10 stupňů) svítí sluníčko a my si můžeme svět užívat. Kéžby takhle hezky bylo celý rok!
+
 {% include image-gallery.html gallery="07-otaorienteering-gallery" %}
