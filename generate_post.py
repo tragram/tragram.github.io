@@ -13,7 +13,7 @@ def remove_accents(input_str):
 try:
     name = sys.argv[1]
 except:
-    name = "Teekkari kultura"
+    name = "OtaOrienteering"
 key_name = remove_accents(name).lower().replace(' ', '_')
 today = datetime.datetime.now(timezone("Europe/Helsinki"))
 # test = datetime.datetime(2021, 8, 30, 16, 49, 0) # antedating
@@ -30,7 +30,7 @@ fig-caption: # Add figcaption (optional)
 tags: []
 ---
 
-{% include image-gallery.html gallery=\"06-teekkari_kultura-gallery\" %}
+{{% include image-gallery.html gallery=\"{post_nr:02d}-{key_name}-gallery\" %}}
 """
 
 with open(f"_posts/{filename}.markdown", "x", encoding="utf-8") as f:

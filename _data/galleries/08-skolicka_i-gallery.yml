@@ -1,0 +1,102 @@
+picture_folder: 07-skolicka_i/gallery
+pictures:
+
+- caption: Tímto směrem když půjdete, tak se dostanete do veganské menzy.
+  filename: '20210913_131643'
+  index: 1
+  original: 20210913_131643.jpg
+  sizes:
+  - 20210913_131643--2048x2048.jpg
+  - 20210913_131643--1024x1024.jpg
+  thumbnail: 20210913_131643--thumbnail.jpg
+  title: Nová budova Fakulty umění a designu
+
+- caption: Má první prezenční hodina po 561 dnech (přes 18 měsíců) od osudného 2. března 2020, kdy nám při cviku oznámili, že máme odejít.
+  filename: '20210914_101747'
+  index: 3
+  original: 20210914_101747.jpg
+  sizes:
+  - 20210914_101747--2048x2048.jpg
+  - 20210914_101747--1024x1024.jpg
+  thumbnail: 20210914_101747--thumbnail.jpg
+  title: Přednáška z Křivek a ploch
+
+- caption: null
+  filename: '20210914_154255'
+  index: 4
+  original: 20210914_154255.jpg
+  sizes:
+  - 20210914_154255--2048x2048.jpg
+  - 20210914_154255--1024x1024.jpg
+  thumbnail: 20210914_154255--thumbnail.jpg
+  title: Pohled na školu z druhé strany (+nové koleje)
+
+- caption: Tohohle si můžete naložit v podstatě tolik, kolik se vám vejde na talíř. Je to každý den a v každé menze trochu jiné. Všimněte si veganské majonézy - bohužel pro mě tu mívají i veganský sýr, který je méně chutný než ten opravdový.
+  filename: '20210914_170830'
+  index: 5
+  original: 20210914_170830.jpg
+  sizes:
+  - 20210914_170830--2048x2048.jpg
+  - 20210914_170830--1024x1024.jpg
+  thumbnail: 20210914_170830--thumbnail.jpg
+  title: Výběr salátů v menze
+
+- caption: Tak takhle třeba může vypadat váš oběd. Je to docela umění, nedostat omáčku na melouny či jiné ovoce. :D Vlevo kefír, vpravo perlivá voda. 
+  filename: '20210916_120725'
+  index: 11
+  original: 20210916_120725.jpg
+  sizes:
+  - 20210916_120725--2048x2048.jpg
+  - 20210916_120725--1024x1024.jpg
+  thumbnail: 20210916_120725--thumbnail.jpg
+  title: Oběd v menze
+
+- caption: Tak za tuto sbírku jsem utratil asi tak 20 euro. Je to drahý koníček, ne že ne. :D
+  filename: '20210914_230316'
+  index: 10
+  original: 20210914_230316.jpg
+  sizes:
+  - 20210914_230316--2048x2048.jpg
+  - 20210914_230316--1024x1024.jpg
+  thumbnail: 20210914_230316--thumbnail.jpg
+  title: Odnáčky
+
+- caption: Právě tady se chodí bez bot. Někteří tu nosí papučky. :D
+  filename: '20210917_173745'
+  index: 12
+  original: 20210917_173745.jpg
+  sizes:
+  - 20210917_173745--2048x2048.jpg
+  - 20210917_173745--1024x1024.jpg
+  thumbnail: 20210917_173745--thumbnail.jpg
+  title: Centrála samostudia
+
+- caption: Tohle není koš na plechovky, ale na směsný odpad. Jsou to jen piva a různé long drinky, takže tolik k aktivitám v sauně. :D Plechovky se tu nemačkají, poněvadž je na ně záloha (takže si to asi uklízečka probere a o pár euro si přilepší).
+  filename: '20210918_173620'
+  index: 13
+  original: 20210918_173620.jpg
+  sizes:
+  - 20210918_173620--2048x2048.jpg
+  - 20210918_173620--1024x1024.jpg
+  thumbnail: 20210918_173620--thumbnail.jpg
+  title: Koš u sauny
+
+- caption: Už 2x jsme byli na večeři u Timiho slečny, Mirandy, která má krásný byteček s kočkami!
+  filename: '20210918_212104'
+  index: 14
+  original: 20210918_212104.jpg
+  sizes:
+  - 20210918_212104--2048x2048.jpg
+  - 20210918_212104--1024x1024.jpg
+  thumbnail: 20210918_212104--thumbnail.jpg
+  title: Možný vzhled koleje
+
+- caption: Takhle vypadá registrace místnosti. U některých si dokonce můžete nastavit teplotu a ventilaci!
+  filename: Screenshot_20210915-124736_Aalto Space
+  index: 15
+  original: Screenshot_20210915-124736_Aalto Space.png
+  sizes:
+  - Screenshot_20210915-124736_Aalto Space--2048x2048.png
+  - Screenshot_20210915-124736_Aalto Space--1024x1024.png
+  thumbnail: Screenshot_20210915-124736_Aalto Space--thumbnail.png
+  title: Aplikace Aalto Space
