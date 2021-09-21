@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OtaOrienteering
+title: Studentské kluby
 date: 2021-09-21 22:09:23 +0300
 img_folder: 07-otaorienteering
 description: 
