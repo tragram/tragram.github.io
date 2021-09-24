@@ -68,7 +68,7 @@ for f in files:
 # try to load YAML data
 print('Checking existing YAML data...')
 if isfile(input_file):
-    input_gallery = yaml.load(open(input_file, 'r', encoding="utf8"))
+    input_gallery = yaml.load(open(input_file, 'r', encoding="utf-8"))
 else:
     # create empty dummy file
     input_gallery = {"pictures": []}
@@ -98,5 +98,5 @@ if "picture_folder" not in input_gallery:
 
 # write to output file
 print('Writing YAML data to file...')
-with open(output_file, 'w', encoding="utf8") as f:
-    f.write(yaml.dump(input_gallery, default_flow_style=False))
+with open(output_file, 'w', encoding="utf-8") as f:
+    f.write(yaml.dump(input_gallery, default_flow_style=False,allow_unicode=True))

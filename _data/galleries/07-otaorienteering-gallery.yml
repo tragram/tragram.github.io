@@ -43,6 +43,15 @@ pictures:
   - 20210914_194127--1024x1024.jpg
   thumbnail: 20210914_194127--thumbnail.jpg
   title: OtaOrienteering
+- caption: Tak za tuto sbírku jsem utratil asi tak 20 euro. Je to drahý koníček, ne že ne. :D
+  filename: '20210914_230316'
+  index: 10
+  original: 20210914_230316.jpg
+  sizes:
+  - 20210914_230316--2048x2048.jpg
+  - 20210914_230316--1024x1024.jpg
+  thumbnail: 20210914_230316--thumbnail.jpg
+  title: Odznáčky
 - caption: "Mapa bod\u016F s n\xE1mi vyzna\u010Den\xFDmi zaj\xEDmavostmi, kam jsme se chtěli podívat."
   filename: '20210914_200900'
   index: 9
