@@ -9,9 +9,9 @@ fig-caption: # Add figcaption (optional)
 tags: []
 ---
 
-Tak jsem tady zas! Je to další týden od posledního příspvěku a za tu dobu se leccos událo. Vím, sliboval jsem, že příspěvek o škole bude už minulý týden, ale řekl jsem si, že raději budu psát až budu mít alespoň třetinu výuky za sebou.
+Tak jsem tady zas! Je to další týden od posledního příspěvku a za tu dobu se leccos událo. Vím, sliboval jsem, že příspěvek o škole bude už minulý týden, ale řekl jsem si, že raději budu psát až budu mít alespoň třetinu výuky za sebou.
 
-Ano, čtete správně! Po dvou týdnech už mám třetinu "období" za sebou. Nehraje se tu totiž tolik na semestry -- primární jsou tato sedmitýdenní období (6 týdnů výuks, 1 týden zkoušky). Člověk tedy má najednou typicky jen 3 "opravdové" předměty naráz a může se na ně víc soustředit. I když je pravda, že se tu vyučuje i spousta předmětů, které trvají dvě periody (já mám za celý rok ale jen jeden). V podzmimním semestru se periody označují I-II, na jaře zase III-V (ta pátá je specialita Aalta a málokterý předmět je jen během periody V). Tak tím se vysvětluje ta tajemná římská jednička v nadpisu!
+Ano, čtete správně! Po dvou týdnech už mám třetinu "období" za sebou. Nehraje se tu totiž tolik na semestry -- primární jsou tato sedmitýdenní období (6 týdnů výuky, 1 týden zkoušky). Člověk tedy má najednou typicky jen 3 "opravdové" předměty naráz a může se na ně víc soustředit. I když je pravda, že se tu vyučuje i spousta předmětů, které trvají dvě periody (já mám za celý rok ale jen jeden). V podzmimním semestru se periody označují I-II, na jaře zase III-V (ta pátá je specialita Aalta a málokterý předmět je jen během periody V). Tak tím se vysvětluje ta tajemná římská jednička v nadpisu!
 
 ### Studijní zátěž
 Tyto pořádky mají přímý vliv na intenzitu studia -- předepsaná studijní zátěž 30 ECTS (European Credit Transfer System) kreditů na semestr se tu rozloží do kratšího období -- v Česku je semestr cca 14+4 týdny, tady 12+2. Pro ty, kdo neví, co je ECTS kredit: to je standardizovaná jednotka studia, která byla zavedená ke zjednodušení uznávání předmětů např. právě u Erasmu. Jeden ECTS kredit odpovídá 25-30 hodinám práce, 180 kreditů a je z vás bakalář a pak už jen 120 do magistra. I v Česku to teoreticky znamená 42-50 hodin týdně, tedy více než plný úvazek. 
