@@ -1,0 +1,3 @@
+Také jsem se zase dostal s Timim do sauny (na směnu klubu komunitního bydlení Joutomiehet) a má teze o tom, že Finové (minimálně studenti) chodí do sauny "na jedno" jako Češi do hospody, se potvrzuje -- viz foto v galerii. Také už vím, jak to tu ve studenských ubytováních funguje -- v HOAS (všechny VŠ v Helsinkách, u nás mají jen asi 2-3 baráky) mají sauny zdarma, ale musíte si pokaždé udělat separátní rezervaci. V AYY (jen Aalto), kde budeme bydlet my, si za 10 €/měsíčně můžete zarezervovat hodinovou směnu, jednou týdně vždy ve stejný den a čas. Pak ještě bývají otevřené směny (pánové/dámy/mix), ale to je bohužel kvůli covidu zrušené... Snad se to na zimu povolí!
+
+Dát to k laulusauně???

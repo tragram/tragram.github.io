@@ -1,0 +1,29 @@
+picture_folder: 09-ja_a_pisnicka/gallery
+pictures:
+- caption: Už zvenku vypadá hodně luxusně...
+  filename: 0stredni
+  index: 1
+  original: 0stredni.jpg
+  sizes:
+  - 0stredni--2048x2048.jpg
+  - 0stredni--1024x1024.jpg
+  thumbnail: 0stredni--thumbnail.jpg
+  title: Střední škola, kde se odehrávala zkouška Dissonanssi.
+- caption: Tohle je aula za vstupem do školy. Naprosto krásný prostor.
+  filename: 1zkouska
+  index: 2
+  original: 1zkouska.jpg
+  sizes:
+  - 1zkouska--2048x2048.jpg
+  - 1zkouska--1024x1024.jpg
+  thumbnail: 1zkouska--thumbnail.jpg
+  title: Střední škola, kde se odehrávala zkouška Dissonanssi.
+- caption: Takhle prosím vypadá koš v sauně. Ne, není to koš na kovy. Vidět můžete piva či populární míchané drinky Lonkero (na bázi vodky či ginu).
+  filename: sauna
+  index: 3
+  original: sauna.jpg
+  sizes:
+  - sauna--2048x2048.jpg
+  - sauna--1024x1024.jpg
+  thumbnail: sauna--thumbnail.jpg
+  title: Koš v sauně

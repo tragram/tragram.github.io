@@ -1,0 +1,9 @@
+Důvody pro návštěvu Tallinnu jsou dokonce trojí:
+### Proč zas Tallinn?
+Jak už jsem psal, vyplatí se tam jet na otočku. Počítal jsem s cenou 30 € za zpáteční plavbu (2x tolik, co mě stála cesta sem). Z toho mi vyšlo, že při skutečném rozdílu skoro 2 €/pivo, vyplatí se tam jet už pro 15 piv. 
+
+Zjistil jsem ale, že jsem při nákupu po cestě sem obdržel slevový kupón na denní výlet do Tallinnu. Cena denního výletu se tak dostane na naprosto směšných 5 € a vyplatí se jet už jen pro tři piva. :D Oni teda dokonce dělají i plavby, kde jen vyjedou do mezinárodních vod a pak se zase vrátí...  Je to dost bizarní, protože jízdenka ráno do přístavu a večer z něj vás, pokud je kupujete samostatně, což spousta lidí dělá (dlouhodobé kupóny se moc nevyplatí, pokud nejezdíte alespoň každý druhý den dvě cesty), vyjde na 5.60 €. Ale chápu -- pokud nezdaněné pivo stojí na lodi skoro euro, tak na něm musí rýžovat úplně neskutečně...
+
+Ale jsem rád, že toto není jediný důvod tam jet, protože to je též krásné město. To už jsem líčil v (předchozím příspěvku)[https://tragram.github.io/tallinn/].
+
+Nakonec je tu důvod čistě byrokratický -- pokud se ve Finsku, i jako občan EU, chcete zdržet přes tři měsíce, musíte si zajít na Migri, zacálovat jim 60 € a ještě budete rádi, že se na vás po měsíci čekání dostalo... Kamáradka, (co se mnou do Tallinnu jela?) která studuje joint-degree každý semestr v jiné zemi, seřadila podle stupně byrokracie Estonsko < Francie < Finsko, jen tak pro představu. Výlet do Estonska vám ale počítadlo zresetuje, takže za těch 5 € můžu jezdit do Estonska každý měsíc a ještě mi zbude na jedno pivo ve finské hospodě. :D
