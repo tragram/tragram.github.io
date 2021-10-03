@@ -8,7 +8,7 @@ img: cover.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: []
 ---
-Dlouho to netrvalo a už mě tu máte zas! Rovnou se slíbeným pokračování příspěvku o tom, kde všude jsem si tu zazpíval. Tyto dvě akce se konaly přímo v návaznosti na sebe, v sobotu večer a v neděli ráno (nikoliv včera, dnes a zítra, jak by z toho fanoušci Felixe Holzmanna mohli pochopit).
+Dlouho to netrvalo a už mě tu máte zas! Rovnou se slíbeným pokračováním příspěvku o tom, kde všude jsem si tu zazpíval. Tyto dvě akce se konaly přímo v návaznosti na sebe, v sobotu večer a v neděli ráno (nikoliv včera, dnes a zítra, jak by z toho fanoušci Felixe Holzmanna mohli pochopit).
 
 ### Sitsit
 Velmi zajímavé akce, které jsou tu poměrně časté a oblíbené, jsou tradiční akademické večere s názvem sitsit. Bývají tematicky laděné -- ten samý týden se pořádal např. ABBA sitsit (tam jsem nebyl). Téma našeho večera byla Teekkari kultura -- šlo totiž o první sitsit pro prváky naší gildy. 
@@ -28,7 +28,7 @@ Usazení je předem určené. Jako velmi dobrá idea se mi jeví, pokud se přih
 
 Kromě zpívání je také možný jiný doprovodný program. My jsme měli vystoupení dvou kvartet (jedno smíšené, jedno mužské), kapel a taneční skupiny. Také proběhlo předávání cen za zásluhy o gildu, což bylo strašně dlouhé. Navíc nám během toho přinesli na talíři lososa. Samozřejmě je zakázano jíst/pít/vstávat či přicházet ke stolu, pokud někdo mluví, takže jsme 15 minut koukali na lososy pod nosy a tiše trpěli. :D Jídlo ale bylo stejně studené už když nám ho přinesli, tak aspoň tak to neuškodilo. To je ale prý na sitsitu normální, že jídlo je studené -- prostě je to náročné obstarat banket jako studenti (nevím, jestli vařili, ale minimáně číšníci byli organizátoři).
 
-Mimo těch zvyků během písní a přípitků máte např. možnost skočit někomu do projevu, pokud je moc dlouhý a po frázi ve švédštině se smíte (spolu s ostatními, kdo chtějí), napít. Pokud vám přijde, že už dlouho nezazněla žádná píseň, můžete říct "Muuten hyvä talo, mutta..." (Jinak fajn podnik, ale...), což je znamení, že mají organizátoři rychle nějakou uvést. Zvyků a etikety je tu tedy, jak vidíte, hodně. Abychom je neporušovali, měli jsme asi hodinový brífink před samotnou akcí. 
+Kromě těch zvyků během písní a přípitků máte např. možnost skočit někomu do projevu, pokud je moc dlouhý a po frázi ve švédštině se smíte (spolu s ostatními, kdo chtějí), napít. Pokud vám přijde, že už dlouho nezazněla žádná píseň, můžete říct "Muuten hyvä talo, mutta..." (Jinak fajn podnik, ale...), což je znamení, že mají organizátoři rychle nějakou uvést. Zvyků a etikety je tu tedy, jak vidíte, hodně. Abychom je neporušovali, měli jsme asi hodinový brífink před samotnou akcí. 
 
 ### Fissio
 Po náročném večeru není nic lepšího, než si zajít na odpolední brunch a naložit se do vířivky. A to je přesně účel sillis (resp. tento se z nějakého důvodu jmenoval Fissio). Tuto akci mi předem někdo popsal jako "společné překonání kocoviny" po sitsitu. Jít tam můžete jen, pokud jste byli na sitsitu, ale i tak je to za příplatek.
