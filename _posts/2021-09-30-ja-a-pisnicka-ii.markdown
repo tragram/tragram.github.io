@@ -12,7 +12,7 @@ Dlouho to netrvalo a už mě tu máte zas! Rovnou se slíbeným pokračováním 
 
 ### Sitsit
 Velmi zajímavé akce, které jsou tu poměrně časté a oblíbené, jsou tradiční akademické večere s názvem sitsit. Bývají tematicky laděné -- ten samý týden se pořádal např. ABBA sitsit (tam jsem nebyl). Téma našeho večera byla Teekkari kultura -- šlo totiž o první sitsit pro prváky naší gildy. 
-Ten náš tedy nebyl vyloženě tematický, a tak dress code byl oblek/koktejlové šaty. Z nás výměnných studentů ho ale samozřejmě skoro nikdo neměl. Ještě štěstí, že největším prohřeškem v etiketě je upozorňovat na prohřešky někoho jiného :D Na výroční ples je dress code dokonce white tie. Díky sitsitům můžete tedy po cestě domů narazit na osoby velmi kontrastně oblečené, od ručníku (sauna), přes různé kostými až po frak. :D
+Ten náš tedy nebyl vyloženě tematický, a tak dress code byl oblek/koktejlové šaty. Z nás výměnných studentů ho ale samozřejmě skoro nikdo neměl. Ještě štěstí, že největším prohřeškem v etiketě je upozorňovat na prohřešky někoho jiného :D Na výroční ples je dress code dokonce white tie. Díky sitsitům můžete tedy po cestě domů narazit na osoby velmi kontrastně oblečené, od ručníku (sauna), přes různé kostýmy až po frak. :D
 
 Dress code ale není jediná formální součást večeře. Zvyků je tam skutečně požehnaně. Během večeře pronáší účastníci každých pár minut nějakou řeč, oznámenou gongem. Většinou jde o nějakou (i vymyšlenou) historku, na jejíž konec nějak zakomponují název písně, která se bude zpívat dále. Vždy se zpívá jen ta jedna a je to jediný způsob, jak začít něco zpívat. Teda zpívá... Je to většinou spíš taková recitace a přestože jsou ty písně často naroubované na známé melodie, člověk to ani nemusí poznat.
 
