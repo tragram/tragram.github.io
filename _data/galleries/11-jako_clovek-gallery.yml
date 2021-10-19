@@ -1,0 +1,81 @@
+picture_folder: 11-jako_clovek/gallery
+pictures:
+- caption: null
+  filename: '20211009_123751'
+  index: 6
+  original: 20211009_123751.jpg
+  sizes:
+  - 20211009_123751--2048x2048.jpg
+  - 20211009_123751--1024x1024.jpg
+  thumbnail: 20211009_123751--thumbnail.jpg
+  title: Výhled z mého okna
+- caption: Ethernetový port je na hodně hloupém místě, nejdále od jakékoliv zásuvky z všech míst v bytě. Toto byla jedna z variant, kterou jsme zvažovali, poněvadž jsme neměli prodlužovačku. :D
+  filename: '20211008_155617'
+  index: 3
+  original: 20211008_155617.jpg
+  sizes:
+  - 20211008_155617--2048x2048.jpg
+  - 20211008_155617--1024x1024.jpg
+  thumbnail: 20211008_155617--thumbnail.jpg
+  title: Router
+- caption: null
+  filename: '20211001_150403'
+  index: 2
+  original: 20211001_150403.jpg
+  sizes:
+  - 20211001_150403--2048x2048.jpg
+  - 20211001_150403--1024x1024.jpg
+  thumbnail: 20211001_150403--thumbnail.jpg
+  title: Bezbariérovost level Finsko :D
+- caption: null
+  filename: '20211009_123513'
+  index: 4
+  original: 20211009_123513.jpg
+  sizes:
+  - 20211009_123513--2048x2048.jpg
+  - 20211009_123513--1024x1024.jpg
+  thumbnail: 20211009_123513--thumbnail.jpg
+  title: První uspořádání mého pokoje
+- caption: null
+  filename: '20211017_235304'
+  index: 9
+  original: 20211017_235304.jpg
+  sizes:
+  - 20211017_235304--2048x2048.jpg
+  - 20211017_235304--1024x1024.jpg
+  thumbnail: 20211017_235304--thumbnail.jpg
+  title: Současné uspořádání mého pokoje
+- caption: Zleva můžete vidět Livu, Nooru a Yasmini (poslední jmenovaná je z Brazílie)
+  filename: '20211017_174429'
+  index: 7
+  original: 20211017_174429.jpg
+  sizes:
+  - 20211017_174429--2048x2048.jpg
+  - 20211017_174429--1024x1024.jpg
+  thumbnail: 20211017_174429--thumbnail.jpg
+  title: První movie night 
+- caption: null
+  filename: '20211017_230229'
+  index: 8
+  original: 20211017_230229.jpg
+  sizes:
+  - 20211017_230229--2048x2048.jpg
+  - 20211017_230229--1024x1024.jpg
+  thumbnail: 20211017_230229--thumbnail.jpg
+  title: První movie night
+- caption: Některé z budov jsou z doby olympiády v Helsinkách v roce 1952, kdy sloužily jako olympijská vesnička. První vícepatrová budova v celém Espoo (druhé největší město Finska) stála právě tady, když ještě Espoo byla vesnice!
+  filename: '20210925_161027'
+  index: 1
+  original: 20210925_161027.jpg
+  sizes:
+  - 20210925_161027--2048x2048.jpg
+  - 20210925_161027--1024x1024.jpg
+  thumbnail: 20210925_161027--thumbnail.jpg
+  title: Teekkarikylä
+- caption: K Otaniemi se váže zajímavost - jelikož tu bydlí prakticky jen studenti, je to nejchudší PSČ ve Finsku, s průměrným příjmem pod 1000 €/měsíčně.
+  filename: otaniemi
+  index: 10
+  original: otaniemi.jpg
+  sizes: []
+  thumbnail: otaniemi--thumbnail.jpg
+  title: Otaniemi ze vzduchu (1989)

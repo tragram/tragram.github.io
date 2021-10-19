@@ -13,7 +13,7 @@ def remove_accents(input_str):
 try:
     name = sys.argv[1]
 except:
-    name = "Já a písnička II"
+    name = "Jako člověk"
 key_name = remove_accents(name).lower().replace(' ', '_')
 today = datetime.datetime.now(timezone("Europe/Helsinki"))
 # test = datetime.datetime(2021, 8, 30, 16, 49, 0) # antedating
