@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Běžný život I
-date: 2021-10-22 08:20:33 +0300
+date: 2021-10-24 08:20:33 +0300
 img_folder: 12-bezny_zivot_i
 description: 
 img: cover.jpg # Add image post (optional)
