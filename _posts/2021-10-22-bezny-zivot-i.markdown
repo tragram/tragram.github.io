@@ -48,7 +48,7 @@ Dále jsem se podíval do naší školní knihovny, otevřené 24/7. Samozřejm�
 ## Klub deskovek
 Mimo Dissonanssi jsem se také přidal do klubu deskovek pod názvem ORC (Otaniemen RoolipeliClubi). Jako úvodní večer semestru jsme si pronajali, jak jinak, prostory se saunou a strávili jednu celou sobotu hraním deskovek a k večeru též saunováním. Mimo to se klub schází 2x týdně během pozdního odpoledne, konec je nastavený na dobu neurčitou. :D
 
-Je zajímavé, že průnik her známých tady a mnou je dost malý. V podstatě se jendá o Krycí jména a Carcassone (a že těch her tu mají hooodně). I když když jsem jim řekl, že jsem z Česka, vytasili se z českou edicí nějaké hry, která měla minimálně krabici celou v češtině. :D Také jsem se od největších matadorů dozvěděl, že české deskovky mají rádi, což zahřeje u srdíčka. :-)
+Je zajímavé, že průnik her známých tady a mnou je dost malý. V podstatě se jedná o Krycí jména a Carcassone (a že těch her tu mají hooodně). Ačkoliv když jsem jim řekl, že jsem z Česka, vytasili se z českou edicí nějaké hry, která měla minimálně krabici celou v češtině. :D Také jsem se od největších matadorů dozvěděl, že české deskovky mají rádi, což zahřeje u srdíčka. :-)
 
 {% assign filenames = "orc.jpg, deskovka.jpg" | split: ',' %}
 {% assign captions = "Úvodní herní večer, Efektivní balení" | split: ',' %}
