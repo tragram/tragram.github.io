@@ -1,0 +1,131 @@
+picture_folder: 14-zpivanky/gallery
+pictures:
+- caption: null
+  filename: '20211121_175930'
+  index: 11
+  original: 20211121_175930.jpg
+  sizes:
+  - 20211121_175930--2048x2048.jpg
+  - 20211121_175930--1024x1024.jpg
+  thumbnail: 20211121_175930--thumbnail.jpg
+  title: Fyysikkospeksi
+
+- caption: Můžete ocenit sofistikovanost textu či Pilsner Urquell. :D
+  filename: '20211019_200321'
+  index: 1
+  original: 20211019_200321.jpg
+  sizes:
+  - 20211019_200321--2048x2048.jpg
+  - 20211019_200321--1024x1024.jpg
+  thumbnail: 20211019_200321--thumbnail.jpg
+  title: Sitsit kánon
+
+- caption: Jednou z kratochvílí je stavění věží z plechovek
+  filename: '20211029_200241'
+  index: 2
+  original: 20211029_200241.jpg
+  sizes:
+  - 20211029_200241--2048x2048.jpg
+  - 20211029_200241--1024x1024.jpg
+  thumbnail: 20211029_200241--thumbnail.jpg
+  title: Sitsit
+
+- caption: null
+  filename: '20211029_202416'
+  index: 3
+  original: 20211029_202416.jpg
+  sizes:
+  - 20211029_202416--2048x2048.jpg
+  - 20211029_202416--1024x1024.jpg
+  thumbnail: 20211029_202416--thumbnail.jpg
+  title: Sitsit
+
+- caption: Docela slušně vybavená hudebna - kytara, ukulele a buben pro každého žáka.
+  filename: '20211104_211752'
+  index: 4
+  original: 20211104_211752.jpg
+  sizes:
+  - 20211104_211752--2048x2048.jpg
+  - 20211104_211752--1024x1024.jpg
+  thumbnail: 20211104_211752--thumbnail.jpg
+  title: Zkouška sboru (tenorů) v místní ZŠ
+
+- caption: Jo a taky tam měli 3 klavíry...
+  filename: '20211104_211756'
+  index: 5
+  original: 20211104_211756.jpg
+  sizes:
+  - 20211104_211756--2048x2048.jpg
+  - 20211104_211756--1024x1024.jpg
+  thumbnail: 20211104_211756--thumbnail.jpg
+  title: Zkouška sboru (tenorů) v místní ZŠ
+
+- caption: Příprava sitsitu na téma Filmy
+  filename: '20211106_180529'
+  index: 6
+  original: 20211106_180529.jpg
+  sizes:
+  - 20211106_180529--2048x2048.jpg
+  - 20211106_180529--1024x1024.jpg
+  thumbnail: 20211106_180529--thumbnail.jpg
+  title: Dissositsit
+
+- caption: Vnitřek chaty
+  filename: '20211120_112725'
+  index: 7
+  original: 20211120_112725.jpg
+  sizes:
+  - 20211120_112725--2048x2048.jpg
+  - 20211120_112725--1024x1024.jpg
+  thumbnail: 20211120_112725--thumbnail.jpg
+  title: Soustředení sboru
+
+- caption: Výhled na jezero
+  filename: '20211120_113545'
+  index: 8
+  original: 20211120_113545.jpg
+  sizes:
+  - 20211120_113545--2048x2048.jpg
+  - 20211120_113545--1024x1024.jpg
+  thumbnail: 20211120_113545--thumbnail.jpg
+  title: Soustředení sboru
+
+- caption: Chata
+  filename: '20211120_113556'
+  index: 9
+  original: 20211120_113556.jpg
+  sizes:
+  - 20211120_113556--2048x2048.jpg
+  - 20211120_113556--1024x1024.jpg
+  thumbnail: 20211120_113556--thumbnail.jpg
+  title: Soustředení sboru
+
+- caption: Kadibudka
+  filename: '20211120_142100'
+  index: 10
+  original: 20211120_142100.jpg
+  sizes:
+  - 20211120_142100--2048x2048.jpg
+  - 20211120_142100--1024x1024.jpg
+  thumbnail: 20211120_142100--thumbnail.jpg
+  title: Soustředení sboru
+
+- caption: null
+  filename: '20211210_164451'
+  index: 12
+  original: 20211210_164451.jpg
+  sizes:
+  - 20211210_164451--2048x2048.jpg
+  - 20211210_164451--1024x1024.jpg
+  thumbnail: 20211210_164451--thumbnail.jpg
+  title: Vánoční koncert
+
+- caption: Nejvíc se mi líbí ten mini krížek v rohu. :D
+  filename: '20211210_195117'
+  index: 13
+  original: 20211210_195117.jpg
+  sizes:
+  - 20211210_195117--2048x2048.jpg
+  - 20211210_195117--1024x1024.jpg
+  thumbnail: 20211210_195117--thumbnail.jpg
+  title: Olarin kirkko

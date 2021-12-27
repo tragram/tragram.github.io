@@ -1,0 +1,56 @@
+---
+layout: post
+title: Zpívánky
+date: 2021-12-15 15:45:46 +0200
+img_folder: 14-zpivanky
+description: Chata gildy architektury
+img: cover.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: []
+---
+Po více než měsíci jsem zpět, opět s několika událostmi, které se týkají zpěvu. Co naplat, toho tu je prostě spousty...
+
+## Fyysikkospeksi
+Velmi populární ve Finsku a Švédsku jsou tzv. speksit. Jedná se o studentské interaktivní muzikály. To je samozřejmě poměrně obtížné provádět v nerodném jazyce, a tak je jich bohužel většina pouze ve švédštině či finštině. Jednou za dva roky se ale poštěstí a přijde Fyysikkospeksi, tedy speksi fyziků (to bude asi historický název, dnes tam členové naší gildy nejsou ve většině a s fyzikou také nemá nic společného), který má představení i v angličtině. A na to jsme se právě 21. listopadu šli podívat. Vy se můžete mrknout aspoň na trailer:
+{%include youtube.html link="https://www.youtube.com/embed/wxDV612OZuQ"%}
+
+A jak to probíhá? Během představení můžete zakřičet "omstart ____", kde na prázdné místo dosadíte, co chcete, aby se stalo jinak. Například "omstart smyslněji" nebo "omstart rozbil se počítač". Je to jen "amatérský" soubor (nemyšleno v tom pejorativním slova smyslu), tedy po nich nikdo nemůže chtít, aby se interaktivita týkala i hudebních částí. Je ale fakt, že nějaké omstarty s tím, že např. "při příští skladbě kytarista musí zahrát špatné sólo", tam zazněly.
+
+Představení to bylo velmi profesionální, jak koneckonců jde očekávat už z produkční úrovně traileru. A dovedu si představit, že finské či švédské varianty mohou být ještě lepší, hlavně co se týče srozumitelnosti textů, což byl v angličtině trošku problém. Všemu důležitému jsme ale i tak rozuměli a speksi si užili!
+
+## Sitsit
+Další příspěvek o zpívání znamená další sitsit. V tomto případě se dokonce jednalo již v základu mezinárodní, a tak jsme měli dokonce i písně přeložené do angličtiny.
+Je tedy fakt, že zahraniční studenti jednak ty písně neznají, druhak nejsou schopní být zticha, takže to bylo trošku slabší, ale na druhou stranu člověk o to víc ocení naše ostatní sitsity, kde je snad vše lepší. :D
+
+{% assign filenames = "speksi.jpg, sitsit.jpg" | split: ',' %}
+{% assign captions = "Fyysikkospeksi, Sitsit" | split: ',' %}
+{% include click_images.html filenames=filenames captions=captions %}
+
+# Dissonanssi
+Hodně zpěvných událostí se přirozeně týkalo sboru, jehož tu jsem členem. Konkrétně píšu o třech: sitsit, víkendové soustředění na chatě a vánoční koncert.
+
+## Dissositsit
+Další zpěvnou akcí, byl sitsit našeho sboru, nazvaný dissositsit. Ačkoliv jsem už předtím na několika sitsitech byl, tento byl velmi speciální, a to ze dvou důvodů. 
+
+Zaprvé, byl jsem členem organizačního týmu, takže jsem si zakusil i přípravu. Naštěstí jsme měli jen lehce přes 20 účastníků, takže to nebylo tak náročné. Jediným zádrhelem bylo, že jsme potřebovali nakoupit alkohol, který k sitsitu neodmyslitelně patří. Akce se totiž konala ve státní svátek, a to je Alko zavřené, na což ostatní (finští) organizátoři lehce pozapomněli. Naštěstí nás nebylo mnoho, takže jsme to byli schopni pokrýt z vlastních zásob. Já jsem poskytl láhev vodky z vlastních zásob z Estonska. A dobrý skutek byl po zásluze potrestán -- protože se musela kvůli účetnictví koupit náhrada ve Finsku, koupili mi láhev sice za víc peněz, ale méně kvalitní nápoj, což mě moc nepotěšilo...
+
+Druhým markantním rozdílem, celkem očekávatelně, byla úroveň zpěvu. Mně se idea, že mají zpívat všichni, i když to třeba neumí, líbí a podporuji jí. Nicméně když člověk nezná ty melodie, tak je poměrně obtížné se je naučit, když každý zpívá jiný tón. A to tu, překvapivě když je to sbor, problém opravdu nebyl. Dokonce se některé tradiční písně pěly vícehlasně a vše to znělo skutečně parádně!
+
+## Soustředění
+O dva týdny později jsme se v sobotu ráno odebrali na chatu gildy architektury, kde jsme měli víkendové soustředení. Musím říct, že ta opravdu nevypadá jako něco, co patří studentskému spolku -- posuďte sami na fotkách. Na rozdíl od typické finské chaty tam tekla voda a byla tam elektřina, ačkoliv záchod byl suchý (ale nejluxusnější, co jsem kdy viděl -- byla to vlatně celá místnost se světlem, poličkou s knihami aj.). Zajímavý kontrast ku absenci splachovacího záchodu byla indukční plotna, resp. obecně celá hypermoderní kuchyň.
+
+Po přibližně 6 hodinách zpěvu s krátkými pauzami nastal volný program. To spočívalo v sauně (jsme ve Finsku) a zpívání (byli jsme tam se sborem). Sauna běžela na dřevo, teprve jako druhá z těch všech, ve kterých jsem tu už byl. A jelikož jsme byli asi půl hoďky autem na východ od Helsinek, samozřejmě jsme u chaty měli jezero, ve kterém jsme se svlažili.
+Tímto jsem mimochodem shodou náhod započal svůj nejsaunovější týden -- 5/7 dní v sauně. :D Normálně chodím 1-2x, podle toho, jaké jsou akce.
+
+Další den byl také tréninkový, ačkoliv už bez našeho skvělého sbormistra, ale já už musel pádit zpět, abych stihl výše zmíněné speksi a fiku před ním.
+
+{% assign filenames = "dissositsit.jpg, chata.jpg" | split: ',' %}
+{% assign captions = "Dissositsit, Jezero u chaty" | split: ',' %}
+{% include click_images.html filenames=filenames captions=captions %}
+
+## Koncert
+No a jelikož se blíží Vánoce, měli jsme se sborem také zakončení semestru v podobě vánočního koncertu v Olarin kirkko. Moc hezký kostel, takový minimalistický a hipsterský. Ale Finům nijak zajímavý nepřijde, tak je to tu asi normální... Mně se určitě líbil o hodně více než ty masivní středoevropské... 
+
+Na programu byly hodně koledy a jiné vánoční písně, a to v latině, němčině, švédštině a dokonce i na finštinu se dostalo. :)
+
+{% include image-gallery.html gallery="14-zpivanky-gallery" %}
